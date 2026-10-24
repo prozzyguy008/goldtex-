@@ -1,0 +1,146 @@
+[
+  {
+    "id": "mw322sgb1",
+    "model": "MW322SGB1",
+    "name": "32″ Smart LED Television",
+    "sourceCost": 144000,
+    "sellingPrice": 158400,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "hisense-50a6n",
+    "model": "50A6N",
+    "name": "50″ UHD 4K Smart TV",
+    "sourceCost": 399000,
+    "sellingPrice": 438900,
+    "imageStatus": "exact_verified"
+  },
+  {
+    "id": "lg-43lr6000",
+    "model": "43LR6000",
+    "name": "43″ Smart LED TV",
+    "sourceCost": 335000,
+    "sellingPrice": 368500,
+    "imageStatus": "exact_verified"
+  },
+  {
+    "id": "mwfac1802",
+    "model": "FAC1802INV-HC",
+    "name": "18,000 BTU Inverter Floor AC",
+    "sourceCost": 899000,
+    "sellingPrice": 988900,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "polystar-pv18tp41gm",
+    "model": "PV-18TP41GM",
+    "name": "2HP Inverter Split AC",
+    "sourceCost": 560000,
+    "sellingPrice": 616000,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "hisense-ref61wc",
+    "model": "61WC-RQ",
+    "name": "482L Four-Door Inverter Refrigerator",
+    "sourceCost": 1150000,
+    "sellingPrice": 1265000,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "maxi-6060-t840",
+    "model": "6060 T-840",
+    "name": "60×60cm 4-Burner Gas Cooker",
+    "sourceCost": 137000,
+    "sellingPrice": 150700,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mw-airf0860bk",
+    "model": "MW-AIRF0860BK",
+    "name": "8L Digital Air Fryer",
+    "sourceCost": 69900,
+    "sellingPrice": 76890,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "maxi-af85wa2cn",
+    "model": "AF85WA2CN",
+    "name": "8.5L Digital Air Fryer",
+    "sourceCost": 79000,
+    "sellingPrice": 86900,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mw-mhf2001",
+    "model": "MWAUD-MHF2001",
+    "name": "1600W Bluetooth Hi-Fi System",
+    "sourceCost": 182000,
+    "sellingPrice": 200200,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "hisense-aud110hp",
+    "model": "AUD 110HP",
+    "name": "300W Party Rocker Speaker",
+    "sourceCost": 295000,
+    "sellingPrice": 324500,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mw-pts1201db",
+    "model": "MWAUD-PTS1201DB",
+    "name": "1500W Double 12″ Party Speaker",
+    "sourceCost": 284000,
+    "sellingPrice": 312400,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "hisense-ble1000de",
+    "model": "HISBLE1000DE-HB",
+    "name": "1.5L Inox Blender",
+    "sourceCost": 74000,
+    "sellingPrice": 81400,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mwfan-esf1804",
+    "model": "MWFAN-ESF1804",
+    "name": "18″ Touch-Control Stand Fan",
+    "sourceCost": 39900,
+    "sellingPrice": 43890,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "polystar-pv56wc",
+    "model": "PV-56WC",
+    "name": "56″ Copper-Motor Ceiling Fan",
+    "sourceCost": 23000,
+    "sellingPrice": 25300,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mwkca-oven2501",
+    "model": "MWKCA-OVEN2501",
+    "name": "25L Electric Oven",
+    "sourceCost": 49000,
+    "sellingPrice": 53900,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "polystar-pvmz19b",
+    "model": "PV-MZ19B",
+    "name": "Countertop Ice Maker",
+    "sourceCost": 87000,
+    "sellingPrice": 95700,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "maxi-gen-ek50",
+    "model": "MAXIGEN EK50",
+    "name": "5kW Key-Start Generator",
+    "sourceCost": 579000,
+    "sellingPrice": 636900,
+    "imageStatus": "pending"
+  }
+]

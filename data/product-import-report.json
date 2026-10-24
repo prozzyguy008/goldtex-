@@ -1,0 +1,459 @@
+{
+  "generatedAt": "2026-10-22T23:42:48.364Z",
+  "sourceFiles": [
+    {
+      "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+      "pages": [
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 1,
+          "characters": 2037,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 2,
+          "characters": 2010,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 3,
+          "characters": 1996,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 4,
+          "characters": 1790,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 5,
+          "characters": 2047,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 6,
+          "characters": 2082,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 7,
+          "characters": 2220,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 8,
+          "characters": 1759,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 9,
+          "characters": 1635,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 10,
+          "characters": 2137,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 11,
+          "characters": 2366,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 12,
+          "characters": 2204,
+          "priceCandidates": 9,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 13,
+          "characters": 2178,
+          "priceCandidates": 5,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 14,
+          "characters": 2093,
+          "priceCandidates": 5,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 15,
+          "characters": 2146,
+          "priceCandidates": 9,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 16,
+          "characters": 2182,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 17,
+          "characters": 2182,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 18,
+          "characters": 1951,
+          "priceCandidates": 5,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 19,
+          "characters": 2214,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 20,
+          "characters": 1978,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 21,
+          "characters": 2371,
+          "priceCandidates": 12,
+          "status": "inspected"
+        },
+        {
+          "file": "08_aug_2026_pircelist_1_2_pdf.txt",
+          "page": 22,
+          "characters": 2815,
+          "priceCandidates": 24,
+          "status": "inspected"
+        }
+      ]
+    },
+    {
+      "file": "harefield_latest_price_27th_july_2026_pdf.txt",
+      "pages": [
+        {
+          "file": "harefield_latest_price_27th_july_2026_pdf.txt",
+          "page": 1,
+          "characters": 3374,
+          "priceCandidates": 108,
+          "status": "inspected"
+        }
+      ]
+    },
+    {
+      "file": "hisense_pdf.txt",
+      "pages": [
+        {
+          "file": "hisense_pdf.txt",
+          "page": 1,
+          "characters": 4427,
+          "priceCandidates": 38,
+          "status": "inspected"
+        },
+        {
+          "file": "hisense_pdf.txt",
+          "page": 2,
+          "characters": 4445,
+          "priceCandidates": 47,
+          "status": "inspected"
+        },
+        {
+          "file": "hisense_pdf.txt",
+          "page": 3,
+          "characters": 2290,
+          "priceCandidates": 23,
+          "status": "inspected"
+        }
+      ]
+    },
+    {
+      "file": "hpz_latest_price_effective_27th_july_2026_1_pdf.txt",
+      "pages": [
+        {
+          "file": "hpz_latest_price_effective_27th_july_2026_1_pdf.txt",
+          "page": 1,
+          "characters": 7745,
+          "priceCandidates": 256,
+          "status": "inspected"
+        },
+        {
+          "file": "hpz_latest_price_effective_27th_july_2026_1_pdf.txt",
+          "page": 2,
+          "characters": 1699,
+          "priceCandidates": 52,
+          "status": "inspected"
+        }
+      ]
+    },
+    {
+      "file": "lg_pdf.txt",
+      "pages": [
+        {
+          "file": "lg_pdf.txt",
+          "page": 1,
+          "characters": 5058,
+          "priceCandidates": 43,
+          "status": "inspected"
+        },
+        {
+          "file": "lg_pdf.txt",
+          "page": 2,
+          "characters": 5358,
+          "priceCandidates": 47,
+          "status": "inspected"
+        },
+        {
+          "file": "lg_pdf.txt",
+          "page": 3,
+          "characters": 1931,
+          "priceCandidates": 16,
+          "status": "inspected"
+        }
+      ]
+    },
+    {
+      "file": "maxi_pdf.txt",
+      "pages": [
+        {
+          "file": "maxi_pdf.txt",
+          "page": 1,
+          "characters": 4268,
+          "priceCandidates": 20,
+          "status": "inspected"
+        },
+        {
+          "file": "maxi_pdf.txt",
+          "page": 2,
+          "characters": 4911,
+          "priceCandidates": 31,
+          "status": "inspected"
+        },
+        {
+          "file": "maxi_pdf.txt",
+          "page": 3,
+          "characters": 3896,
+          "priceCandidates": 44,
+          "status": "inspected"
+        },
+        {
+          "file": "maxi_pdf.txt",
+          "page": 4,
+          "characters": 0,
+          "priceCandidates": 0,
+          "status": "unreadable"
+        }
+      ]
+    },
+    {
+      "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+      "pages": [
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 1,
+          "characters": 1340,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 2,
+          "characters": 1461,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 3,
+          "characters": 311,
+          "priceCandidates": 1,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 4,
+          "characters": 1421,
+          "priceCandidates": 11,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 5,
+          "characters": 1150,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 6,
+          "characters": 1424,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 7,
+          "characters": 1692,
+          "priceCandidates": 4,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 8,
+          "characters": 1368,
+          "priceCandidates": 3,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 9,
+          "characters": 1389,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 10,
+          "characters": 1246,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 11,
+          "characters": 1190,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 12,
+          "characters": 1190,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 13,
+          "characters": 1118,
+          "priceCandidates": 6,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 14,
+          "characters": 930,
+          "priceCandidates": 3,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 15,
+          "characters": 734,
+          "priceCandidates": 3,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 16,
+          "characters": 1379,
+          "priceCandidates": 7,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 17,
+          "characters": 1508,
+          "priceCandidates": 8,
+          "status": "inspected"
+        },
+        {
+          "file": "polystar_pictures_pricelist_autosaved_pdf.txt",
+          "page": 18,
+          "characters": 1582,
+          "priceCandidates": 5,
+          "status": "inspected"
+        }
+      ]
+    },
+    {
+      "file": "product_sell_price_table_1_pdf.txt",
+      "pages": [
+        {
+          "file": "product_sell_price_table_1_pdf.txt",
+          "page": 1,
+          "characters": 1213,
+          "priceCandidates": 33,
+          "status": "inspected"
+        },
+        {
+          "file": "product_sell_price_table_1_pdf.txt",
+          "page": 2,
+          "characters": 1182,
+          "priceCandidates": 32,
+          "status": "inspected"
+        },
+        {
+          "file": "product_sell_price_table_1_pdf.txt",
+          "page": 3,
+          "characters": 1016,
+          "priceCandidates": 33,
+          "status": "inspected"
+        },
+        {
+          "file": "product_sell_price_table_1_pdf.txt",
+          "page": 4,
+          "characters": 859,
+          "priceCandidates": 28,
+          "status": "inspected"
+        }
+      ]
+    }
+  ],
+  "pagesInspected": 57,
+  "unreadablePages": 1,
+  "numericPriceCandidates": 1134,
+  "sourceRowsExtracted": 1134,
+  "validUniqueProductsImported": 18,
+  "duplicateRecordsHandled": 0,
+  "unresolvedExtractionRecords": 1116,
+  "productsWithValidCostPrices": 18,
+  "productsPricedUsingCostTimes110": 18,
+  "priceRuleViolations": [],
+  "notes": [
+    "The source PDFs were inspected page by page from their available text layers.",
+    "Rows requiring visual OCR or manual reconciliation remain unresolved instead of being invented.",
+    "The storefront currently exposes a verified working catalogue subset while the import report preserves the remaining reconciliation gap."
+  ]
+}

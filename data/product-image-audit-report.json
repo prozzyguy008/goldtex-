@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-10-23T00:30:00.000Z",
+  "totalProducts": 18,
+  "exactVerified": 14,
+  "sameProductVerified": 0,
+  "pendingResearch": 4,
+  "unresolvedIdentities": 0,
+  "brokenImages": 0,
+  "products": [
+    {
+      "productId": "mw322sgb1",
+      "model": "MW322SGB1",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/maxi-mw322sgb1.jpg",
+      "sourcePageUrl": "https://mchris.ng/product/mewe-tv-32-mw322sg-smart",
+      "sourceDomain": "mchris.ng",
+      "matchedModel": "MW322SGB1",
+      "verificationNotes": "Exact model confirmed from M-Chris retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "hisense-50a6n",
+      "model": "50A6N",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/hisense-50a6n.webp",
+      "sourcePageUrl": "https://www.hisense-usa.com/product-page/televisions-50-class-a6-series-led-4k-uhd-google-smart-tv-50a6n",
+      "sourceDomain": "hisense-usa.com",
+      "matchedModel": "50A6N",
+      "verificationNotes": "Exact model confirmed from the manufacturer product page.",
+      "lastCheckedAt": "2026-10-22T23:42:48.364Z"
+    },
+    {
+      "productId": "lg-43lr6000",
+      "model": "43LR6000",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/lg-43lr6000.jpg",
+      "sourcePageUrl": "https://www.lg.com/africa/tvs/lg-43lr60006la",
+      "sourceDomain": "lg.com",
+      "matchedModel": "43LR60006LA",
+      "verificationNotes": "Exact model confirmed from the manufacturer product page.",
+      "lastCheckedAt": "2026-10-22T23:42:48.364Z"
+    },
+    {
+      "productId": "mwfac1802",
+      "model": "FAC1802INV-HC",
+      "status": "pending_research",
+      "imageUrl": null,
+      "sourcePageUrl": null,
+      "sourceDomain": null,
+      "matchedModel": null,
+      "verificationNotes": "No exact model image found on Fouani, Alabamart, Jumia, Jiji, Konga, or other Nigerian retailers. This Maxi floor-standing inverter AC model is not listed online with images.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "polystar-pv18tp41gm",
+      "model": "PV-18TP41GM",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/polystar-pv18tp41gm.jpg",
+      "sourcePageUrl": "https://latalata.ng/POLYSTAR-2HP-SPLIT-COOLING-ONLY-INVERTER-AIRCON-PV-18TP41GM-BAA000015S00SU384",
+      "sourceDomain": "latalata.ng",
+      "matchedModel": "PV-18TP41GM",
+      "verificationNotes": "Exact model confirmed from Latalata retailer product page (image title matches model).",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "hisense-ref61wc",
+      "model": "61WC-RQ",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/hisense-61wc-rq.png",
+      "sourcePageUrl": "https://alabamart.com/products/hisense-482-litres-side-by-side-refrigerator-ref-61wc-rq",
+      "sourceDomain": "alabamart.com",
+      "matchedModel": "61WC-RQ",
+      "verificationNotes": "Exact model confirmed from Alabamart retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "maxi-6060-t840",
+      "model": "6060 T-840",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/maxi-6060-t840.jpg",
+      "sourcePageUrl": "https://alabamart.com/products/maxi-60-60-tabletop-4-burner-gas-cooker-6060-t-840",
+      "sourceDomain": "alabamart.com",
+      "matchedModel": "6060 T-840",
+      "verificationNotes": "Exact model confirmed from Alabamart retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "mw-airf0860bk",
+      "model": "MW-AIRF0860BK",
+      "status": "pending_research",
+      "imageUrl": null,
+      "sourcePageUrl": null,
+      "sourceDomain": null,
+      "matchedModel": null,
+      "verificationNotes": "No exact model image found on Fouani, Alabamart, Jumia, Jiji, Konga, or other Nigerian retailers. This Maxi 8L air fryer model is not listed online with images.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "maxi-af85wa2cn",
+      "model": "AF85WA2CN",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/maxi-af85wa2cn.webp",
+      "sourcePageUrl": "https://fouanistore.com/nigeria-en/product/958",
+      "sourceDomain": "fouanistore.com",
+      "matchedModel": "AF85WA2CN",
+      "verificationNotes": "Exact model confirmed from Fouani (official Maxi distributor) product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "mw-mhf2001",
+      "model": "MWAUD-MHF2001",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/mewe-mhf2001.png",
+      "sourcePageUrl": "https://www.kosharelectronics.com/products/mewe-1100w-home-theatre-system-mwaud-mhf2001",
+      "sourceDomain": "kosharelectronics.com",
+      "matchedModel": "MWAUD-MHF2001",
+      "verificationNotes": "Exact model confirmed from Koshar Electronics retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "hisense-aud110hp",
+      "model": "AUD 110HP",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/hisense-aud110hp.jpg",
+      "sourcePageUrl": "https://alabamart.com/products/hisense-aud-110hp-party-rocker-speaker-2-0-ch-inbuilt-battery-300-w-subwofer-wireless-charge-dual-wireless-microphone",
+      "sourceDomain": "alabamart.com",
+      "matchedModel": "AUD 110HP",
+      "verificationNotes": "Exact model confirmed from Alabamart retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "mw-pts1201db",
+      "model": "MWAUD-PTS1201DB",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/mewe-pts1201db.webp",
+      "sourcePageUrl": "https://www.alphamultibrandelectronics.com.ng/product/mewe-1200w-bluetooth-usb-fm-mwaud-pts1201db",
+      "sourceDomain": "alphamultibrandelectronics.com.ng",
+      "matchedModel": "MWAUD-PTS1201DB",
+      "verificationNotes": "Exact model confirmed from Alpha Multibrand Electronics retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "hisense-ble1000de",
+      "model": "HISBLE1000DE-HB",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/hisense-ble1000de.jpg",
+      "sourcePageUrl": "https://alabamart.com/products/hisense-blender-1000w-1-5l-hisble1000de-hb",
+      "sourceDomain": "alabamart.com",
+      "matchedModel": "HISBLE1000DE-HB",
+      "verificationNotes": "Exact model confirmed from Alabamart retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "mwfan-esf1804",
+      "model": "MWFAN-ESF1804",
+      "status": "pending_research",
+      "imageUrl": null,
+      "sourcePageUrl": null,
+      "sourceDomain": null,
+      "matchedModel": null,
+      "verificationNotes": "No exact model image found on Fouani, Alabamart, Jumia, Jiji, Konga, or other Nigerian retailers. This Maxi 18-inch stand fan model is not listed online with images.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "polystar-pv56wc",
+      "model": "PV-56WC",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/polystar-pv56wc.jpg",
+      "sourcePageUrl": "https://alabamart.com/products/polystar-56-inches-ceiling-fan-pv-56wc",
+      "sourceDomain": "alabamart.com",
+      "matchedModel": "PV-56WC",
+      "verificationNotes": "Exact model confirmed from Alabamart retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "mwkca-oven2501",
+      "model": "MWKCA-OVEN2501",
+      "status": "pending_research",
+      "imageUrl": null,
+      "sourcePageUrl": null,
+      "sourceDomain": null,
+      "matchedModel": null,
+      "verificationNotes": "No exact model image found on Fouani, Alabamart, Jumia, Jiji, Konga, or other Nigerian retailers. This Maxi 25L electric oven model is not listed online with images.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "polystar-pvmz19b",
+      "model": "PV-MZ19B",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/polystar-pv-mz19b.png",
+      "sourcePageUrl": "https://www.alabastore.com/product/polystar-2-2l-ice-maker-pv-mz19b",
+      "sourceDomain": "alabastore.com",
+      "matchedModel": "PV-MZ19B",
+      "verificationNotes": "Exact model confirmed from Alabastore retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    },
+    {
+      "productId": "maxi-gen-ek50",
+      "model": "MAXIGEN EK50",
+      "status": "exact_verified",
+      "imageUrl": "/product-images/maxi-gen-ek50.jpg",
+      "sourcePageUrl": "https://alabamart.com/products/maxi-ek50-6-2kva-gasoline-generator",
+      "sourceDomain": "alabamart.com",
+      "matchedModel": "EK50",
+      "verificationNotes": "Exact model confirmed from Alabamart retailer product page.",
+      "lastCheckedAt": "2026-10-23T00:30:00.000Z"
+    }
+  ]
+}
