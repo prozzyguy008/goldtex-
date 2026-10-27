@@ -1,0 +1,87 @@
+{
+  "status": "complete",
+  "generatedAt": "2026-10-27T22:52:22.444Z",
+  "pdfsProcessed": 8,
+  "batches": [
+    {
+      "batch": 1,
+      "pdfs": 5,
+      "files": [
+        "POLYSTAR_PICTURES-PRICELIST_(Autosaved).pdf",
+        "MAXI.pdf",
+        "LG.pdf",
+        "HPZ_Latest_Price_Effective_27th_July_2026-1.pdf",
+        "product_sell_price_table-1.pdf"
+      ]
+    },
+    {
+      "batch": 2,
+      "pdfs": 3,
+      "files": [
+        "Hisense.pdf",
+        "Harefield Latest Price 27th July 2026.pdf",
+        "08-Aug-2026 Pircelist(1) (2).pdf"
+      ]
+    }
+  ],
+  "totals": {
+    "originalPreserved": 18,
+    "batch1Imported": 534,
+    "batch2Imported": 301,
+    "totalDistinctProducts": 853,
+    "batch1Duplicates": 14,
+    "batch2Duplicates": 19,
+    "totalDuplicates": 33,
+    "batch1SourceRows": 548,
+    "batch2SourceRows": 320,
+    "totalSourceRows": 868,
+    "pagesInspected": 57,
+    "imagesVerified": 14,
+    "imagesPending": 839
+  },
+  "byFile": {
+    "MAXI.pdf": {
+      "sourceRows": 103,
+      "productsImported": 100,
+      "duplicates": 3,
+      "pages": 3
+    },
+    "LG.pdf": {
+      "sourceRows": 110,
+      "productsImported": 108,
+      "duplicates": 2,
+      "pages": 3
+    },
+    "product_sell_price_table-1.pdf": {
+      "sourceRows": 127,
+      "productsImported": 125,
+      "duplicates": 2,
+      "pages": 4
+    },
+    "Hisense.pdf": {
+      "sourceRows": 116,
+      "productsImported": 104,
+      "duplicates": 12,
+      "pages": 3
+    },
+    "Harefield Latest Price 27th July 2026.pdf": {
+      "sourceRows": 27,
+      "productsImported": 27,
+      "duplicates": 0,
+      "pages": 1
+    },
+    "08-Aug-2026 Pircelist(1) (2).pdf": {
+      "sourceRows": 177,
+      "productsImported": 170,
+      "duplicates": 7,
+      "pages": 22
+    }
+  },
+  "notes": [
+    "All 8 PDFs processed. 18 original curated products preserved. 835 new products imported across two batches.",
+    "14 products have verified images from Phase 1. 839 products pending image research.",
+    "17 Batch 2 products flagged for manual review (missing price or model).",
+    "Storefront reads from TypeScript product files (not Supabase). Supabase schema exists but contains 0 product rows.",
+    "Build passes. Pricing tests pass. No hardcoded product limits in the storefront UI."
+  ]
+}

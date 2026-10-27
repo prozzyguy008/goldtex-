@@ -1,4 +1,5 @@
 import { batchOneProducts } from './batch1-products';
+import { batchTwoProducts } from './batch2-products';
 
 export type Product = {
   id: string;
@@ -41,6 +42,7 @@ export const products: Product[] = [
   { id: 'polystar-pvmz19b', brand: 'Polystar', category: 'Kitchen Appliances', subcategory: 'Ice makers', model: 'PV-MZ19B', name: 'Countertop Ice Maker', description: 'Compact black ice maker with 2.2L tank and rapid cube production.', specs: ['2.2 litre water tank', '10–12kg ice per 24 hours', '6–13 minute cycle', '112W'], cost: 87000, price: priced(87000), imageStatus: 'exact_verified', imageUrl: '/product-images/polystar-pv-mz19b.png' },
   { id: 'maxi-gen-ek50', brand: 'Maxi', category: 'Power & Electrical', subcategory: 'Generators', model: 'MAXIGEN EK50', name: '5kW Key-Start Generator', description: 'Copper-wound petrol generator with battery start, wheels and handles.', specs: ['5kW / 6.2kVA', 'Petrol powered', 'Battery start', '25L fuel tank'], cost: 579000, price: priced(579000), imageStatus: 'exact_verified', imageUrl: '/product-images/maxi-gen-ek50.jpg' },
   ...batchOneProducts,
+  ...batchTwoProducts,
 ];
 
 export const categories = ['All products', ...Array.from(new Set(products.map((product) => product.category)))];

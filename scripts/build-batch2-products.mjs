@@ -35,7 +35,7 @@ for (let i = 0; i < rawLines.length; i++) {
 const existingProductsFile = fs.readFileSync('src/data/products.ts', 'utf8');
 // Extract the existing model keys from batch1-products + original 18
 const batch1File = fs.readFileSync('src/data/batch1-products.ts', 'utf8');
-const batch1Match = batch1File.match(/export const batchOneProducts[^[]*\[([\s\S]*)\];/);
+const batch1Match = batch1File.match(/export const batchOneProducts: Product\[\] = \[([\s\S]*)\];/);
 const batch1Products = JSON.parse('[' + batch1Match[1].trim() + ']');
 
 // Original 18 model list

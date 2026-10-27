@@ -1,0 +1,37 @@
+{
+  "batch": 2,
+  "generatedAt": "2026-10-27T22:51:50.500Z",
+  "pdfFiles": 3,
+  "pagesInspected": 26,
+  "sourceRowsExtracted": 320,
+  "existingProductsPreserved": 552,
+  "newProductsImported": 301,
+  "duplicateRecords": 19,
+  "productsRequiringManualReview": 17,
+  "byFile": {
+    "Hisense.pdf": {
+      "sourceRows": 116,
+      "productsImported": 104,
+      "duplicates": 12,
+      "pages": 3
+    },
+    "Harefield Latest Price 27th July 2026.pdf": {
+      "sourceRows": 27,
+      "productsImported": 27,
+      "duplicates": 0,
+      "pages": 1
+    },
+    "08-Aug-2026 Pircelist(1) (2).pdf": {
+      "sourceRows": 177,
+      "productsImported": 170,
+      "duplicates": 7,
+      "pages": 22
+    }
+  },
+  "notes": [
+    "Hisense.pdf: 3 pages, flat text layout — model, description, and price on the same y-coordinate line.",
+    "Harefield: 1 page, 8-column table — TEC brand cookers, generators, stabilizers. RRP column used as public price.",
+    "08-Aug Pricelist: 22 pages, 6-column table — MW white-label brand. Model spans two lines (e.g. \"MWACM-\" + \"FAC1802INV-HC\").",
+    "Deduplication matched against all 552 existing products (18 original + 534 batch 1)."
+  ]
+}
