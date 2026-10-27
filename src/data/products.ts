@@ -1,9 +1,11 @@
+import { batchOneProducts } from './batch1-products';
+
 export type Product = {
   id: string;
-  brand: string;
+  brand: string | null;
   category: string;
   subcategory: string;
-  model: string;
+  model: string | null;
   name: string;
   description: string;
   specs: string[];
@@ -12,6 +14,9 @@ export type Product = {
   imageStatus: 'pending' | 'exact_verified' | 'same_product_verified';
   imageUrl?: string;
   featured?: boolean;
+  sourceFile?: string;
+  sourcePage?: number;
+  stockStatus?: 'available' | 'on_request' | 'unknown';
 };
 
 const priced = (cost: number): number => Math.round(cost * 1.1);
@@ -35,7 +40,8 @@ export const products: Product[] = [
   { id: 'mwkca-oven2501', brand: 'Maxi', category: 'Kitchen Appliances', subcategory: 'Ovens', model: 'MWKCA-OVEN2501', name: '25L Electric Oven', description: 'Compact electric oven with temperature control, timer and multiple rack positions.', specs: ['25 litre capacity', '1400W', '100–230°C control', '60-minute timer'], cost: 49000, price: priced(49000), imageStatus: 'pending' },
   { id: 'polystar-pvmz19b', brand: 'Polystar', category: 'Kitchen Appliances', subcategory: 'Ice makers', model: 'PV-MZ19B', name: 'Countertop Ice Maker', description: 'Compact black ice maker with 2.2L tank and rapid cube production.', specs: ['2.2 litre water tank', '10–12kg ice per 24 hours', '6–13 minute cycle', '112W'], cost: 87000, price: priced(87000), imageStatus: 'exact_verified', imageUrl: '/product-images/polystar-pv-mz19b.png' },
   { id: 'maxi-gen-ek50', brand: 'Maxi', category: 'Power & Electrical', subcategory: 'Generators', model: 'MAXIGEN EK50', name: '5kW Key-Start Generator', description: 'Copper-wound petrol generator with battery start, wheels and handles.', specs: ['5kW / 6.2kVA', 'Petrol powered', 'Battery start', '25L fuel tank'], cost: 579000, price: priced(579000), imageStatus: 'exact_verified', imageUrl: '/product-images/maxi-gen-ek50.jpg' },
+  ...batchOneProducts,
 ];
 
-export const categories = ['All products', 'Televisions', 'Air Conditioners', 'Refrigerators', 'Cookers', 'Kitchen Appliances', 'Audio', 'Fans', 'Power & Electrical'];
-export const brands = ['All brands', 'Maxi', 'Hisense', 'LG', 'Polystar'];
+export const categories = ['All products', ...Array.from(new Set(products.map((product) => product.category)))];
+export const brands = ['All brands', ...Array.from(new Set(products.map((product) => product.brand).filter((brand): brand is string => Boolean(brand))))];

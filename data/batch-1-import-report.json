@@ -1,0 +1,49 @@
+{
+  "batch": 1,
+  "generatedAt": "2026-10-24T02:23:20.631Z",
+  "pdfFiles": 5,
+  "pagesInspected": 31,
+  "unreadablePages": 1,
+  "sourceRowsExtracted": 548,
+  "existingProductsPreserved": 18,
+  "newProductsImported": 534,
+  "duplicateRecords": 14,
+  "productsRequiringManualReview": 43,
+  "byFile": {
+    "POLYSTAR_PICTURES-PRICELIST_(Autosaved).pdf": {
+      "sourceRows": 131,
+      "productsImported": 124,
+      "duplicates": 7,
+      "pages": 18
+    },
+    "MAXI.pdf": {
+      "sourceRows": 103,
+      "productsImported": 100,
+      "duplicates": 3,
+      "pages": 3
+    },
+    "LG.pdf": {
+      "sourceRows": 110,
+      "productsImported": 108,
+      "duplicates": 2,
+      "pages": 3
+    },
+    "HPZ_Latest_Price_Effective_27th_July_2026-1.pdf": {
+      "sourceRows": 77,
+      "productsImported": 77,
+      "duplicates": 0,
+      "pages": 2
+    },
+    "product_sell_price_table-1.pdf": {
+      "sourceRows": 127,
+      "productsImported": 125,
+      "duplicates": 2,
+      "pages": 4
+    }
+  },
+  "notes": [
+    "The blank fourth page of MAXI.pdf was inspected and contained no extractable product rows.",
+    "Descriptions and prices come from the PDF text layers; image verification remains pending for newly imported records.",
+    "HPZ public prices use the rightmost RRP column because the document provides separate ex-depot, VAT, dealer, and RRP values."
+  ]
+}
