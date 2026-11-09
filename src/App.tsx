@@ -1,10 +1,10 @@
 import { useMemo, useState } from 'react';
-import { ArrowRight, BadgeCheck, ChevronDown, ChevronLeft, ChevronRight, CircleHelp, Facebook, Heart, Instagram, Menu, PackageCheck, Phone, Search, Send, ShoppingBag, Sparkles, Star, Truck, UserRound, X, Zap } from 'lucide-react';
-import { brands, categories, products, type Product } from './data/products';
+import { ArrowRight, BadgeCheck, ChevronDown, ChevronLeft, ChevronRight, CircleHelp, Facebook, Heart, ImageIcon, Instagram, LayoutDashboard, Lock, Menu, PackageCheck, Phone, Search, Send, ShoppingBag, Sparkles, Star, Truck, UserRound, X, Zap } from 'lucide-react';
+import { brands, categories, draftProducts, products, publishedProducts, type Product } from './data/products';
 import { supabase } from './lib/supabase';
 
 type CartLine = { product: Product; quantity: number };
-type View = 'home' | 'catalogue' | 'product' | 'cart' | 'checkout';
+type View = 'home' | 'catalogue' | 'product' | 'cart' | 'checkout' | 'admin';
 
 const heroImages = [
   'https://images.pexels.com/photos/5202925/pexels-photo-5202925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -13,15 +13,15 @@ const heroImages = [
 ];
 
 const money = (value: number | null) => value === null ? 'Price on request' : `₦${value.toLocaleString('en-NG')}`;
-const firstByCategory = (category: string): Product | undefined => products.find((product) => product.category === category);
+const firstByCategory = (category: string): Product | undefined => publishedProducts.find((product) => product.category === category);
 
 function ProductVisual({ product, compact = false }: { product: Product; compact?: boolean }) {
   const tone = product.category === 'Audio' ? 'audio' : product.category === 'Televisions' ? 'screen' : product.category === 'Fans' ? 'fan' : product.category === 'Air Conditioners' ? 'cool' : 'home';
   return product.imageUrl ? <img className={`product-photo ${compact ? 'compact' : ''}`} src={product.imageUrl} alt={product.name} loading="lazy" /> : (
     <div className={`product-visual ${tone} ${compact ? 'compact' : ''}`}>
       <div className="visual-glow" />
-      <span>{product.model ?? 'Model not listed'}</span>
-      <small>Image being verified</small>
+      <ImageIcon size={28} />
+      <small>Photo coming soon</small>
     </div>
   );
 }
@@ -37,11 +37,11 @@ function App() {
   const [hero, setHero] = useState(0);
   const [notice, setNotice] = useState('');
 
-  const filtered = useMemo(() => products.filter((product) => {
+  const filtered = useMemo(() => publishedProducts.filter((product) => {
     const text = `${product.name} ${product.brand} ${product.model} ${product.category} ${product.description}`.toLowerCase();
     return (category === 'All products' || product.category === category) && (brand === 'All brands' || product.brand === brand) && (!query || text.includes(query.toLowerCase()));
   }), [brand, category, query]);
-  const featured = products.filter((product) => product.featured);
+  const featured = publishedProducts.filter((product) => product.featured);
   const cartCount = cart.reduce((total, line) => total + line.quantity, 0);
   const cartTotal = cart.reduce((total, line) => total + (line.product.price ?? 0) * line.quantity, 0);
 
@@ -66,7 +66,7 @@ function App() {
         <button className="mobile-menu-button" onClick={() => setMobileMenu(!mobileMenu)} aria-label="Open menu">{mobileMenu ? <X /> : <Menu />}</button>
         <button className="brand-mark" onClick={goHome}><img src="/ChatGPT_Image_Oct_5,_2026,_07_13_08_PM.png" alt="Goldtex logo" /><span>GOLDTEX<small>INTERNATIONAL</small></span></button>
         <form className="search-box" onSubmit={(event) => { event.preventDefault(); browse(); }}><Search size={19} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search products, brands or model numbers" /><button type="submit">Search</button></form>
-        <div className="header-actions"><button className="header-action"><UserRound size={20} /><span>Account</span></button><button className="header-action"><Heart size={20} /><span>Favourites</span></button><button className="header-action cart-action" onClick={() => setView('cart')}><ShoppingBag size={21} /><span>Cart</span>{cartCount > 0 && <b>{cartCount}</b>}</button></div>
+        <div className="header-actions"><button className="header-action" onClick={() => setView('admin')}><LayoutDashboard size={20} /><span>Admin</span></button><button className="header-action"><Heart size={20} /><span>Favourites</span></button><button className="header-action cart-action" onClick={() => setView('cart')}><ShoppingBag size={21} /><span>Cart</span>{cartCount > 0 && <b>{cartCount}</b>}</button></div>
       </div>
       <nav className={`category-nav ${mobileMenu ? 'open' : ''}`}><div className="container nav-inner"><button className="all-categories" onClick={() => browse()}><Menu size={18} /> All Categories <ChevronDown size={16} /></button>{categories.slice(1).map((item) => <button key={item} className="nav-link" onClick={() => browse(item)}>{item}</button>)}<button className="help-link"><CircleHelp size={17} /> Help centre</button></div></nav>
     </header>
@@ -77,6 +77,7 @@ function App() {
     {view === 'product' && selected && <ProductPage product={selected} openProduct={openProduct} addToCart={addToCart} browse={browse} />}
     {view === 'cart' && <Cart cart={cart} total={cartTotal} updateQuantity={updateQuantity} openProduct={openProduct} onCheckout={() => setView('checkout')} browse={browse} />}
     {view === 'checkout' && <Checkout cart={cart} total={cartTotal} setView={setView} setCart={setCart} />}
+    {view === 'admin' && <AdminDashboard goHome={goHome} />}
 
     <footer className="site-footer"><div className="container footer-grid"><div><div className="footer-brand">GOLDTEX<span>INTERNATIONAL</span></div><p>Quality electronics, home appliances and audio for modern Nigerian living.</p><div className="socials"><a href="https://www.instagram.com" aria-label="Instagram"><Instagram size={17} /></a><a href="https://www.facebook.com" aria-label="Facebook"><Facebook size={17} /></a><a href="https://wa.me/2348062812438" aria-label="WhatsApp"><Send size={17} /></a></div></div><div><h4>Shop</h4><button onClick={() => browse()}>All products</button><button onClick={() => browse('Televisions')}>Televisions</button><button onClick={() => browse('Kitchen Appliances')}>Kitchen appliances</button><button onClick={() => browse('Audio')}>Audio & speakers</button></div><div><h4>Customer care</h4><button>Delivery information</button><button>Returns & exchanges</button><button>Contact us</button><button>Frequently asked questions</button></div><div><h4>Visit Goldtex</h4><p>No. 77 Ibrahim Taiwo Road,<br />Ilorin, Kwara 240101, Nigeria</p><a href="tel:08062812438"><Phone size={15} /> 0806 281 2438</a><small>Plus code: FHJ2+WV Oko Erin</small></div></div><div className="footer-bottom container"><span>© 2026 Goldtex International Company Ltd.</span><span>Prices shown in NGN · Delivery charges confirmed at checkout</span></div></footer>
   </div>;
@@ -97,14 +98,64 @@ function Home({ featured, hero, setHero, browse, openProduct, addToCart }: { fea
 
 function TrustStrip() { return <section className="trust-strip"><div className="container trust-grid"><div><Truck /><span><strong>Delivery available</strong><small>Charges confirmed with your order</small></span></div><div><PackageCheck /><span><strong>Catalogue-led shopping</strong><small>Real models and clear specifications</small></span></div><div><BadgeCheck /><span><strong>Transparent pricing</strong><small>Cost plus 10% retail pricing rule</small></span></div><div><Phone /><span><strong>Talk to our team</strong><small>0806 281 2438 · Ilorin</small></span></div></div></section>; }
 function SectionHeading({ eyebrow, title, action, onAction }: { eyebrow: string; title: string; action?: string; onAction?: () => void }) { return <div className="section-heading"><div><div className="eyebrow">{eyebrow} <span /></div><h2>{title}</h2></div>{action && <button className="text-button" onClick={onAction}>{action} <ArrowRight size={16} /></button>}</div>; }
-function ProductCard({ product, openProduct, addToCart }: { product: Product; openProduct: (product: Product) => void; addToCart: (product: Product) => void }) { return <article className="product-card"><button className="heart-button" aria-label="Add to favourites"><Heart size={18} /></button><button className="product-image-button" onClick={() => openProduct(product)}><ProductVisual product={product} /></button><div className="product-card-body"><span className="product-category">{product.brand ?? 'Catalogue'} · {product.subcategory}</span><button className="product-name" onClick={() => openProduct(product)}>{product.name}</button><span className="model-line">{product.model ?? 'Model not listed'}</span><strong className="product-price">{money(product.price)}</strong><button className="add-button" onClick={() => addToCart(product)}>{product.price ? 'Add to cart' : 'Request price'} <ShoppingBag size={16} /></button></div></article>; }
+function ProductCard({ product, openProduct, addToCart }: { product: Product; openProduct: (product: Product) => void; addToCart: (product: Product) => void }) {
+  return <article className="product-card">
+    <button className="heart-button" aria-label="Add to favourites"><Heart size={18} /></button>
+    <button className="product-image-button" onClick={() => openProduct(product)}><ProductVisual product={product} /></button>
+    <div className="product-card-body">
+      <button className="product-name" onClick={() => openProduct(product)}>{product.name}</button>
+      <strong className="product-price">{money(product.price)}</strong>
+      <button className="add-button" onClick={() => addToCart(product)}>Add to cart <ShoppingBag size={16} /></button>
+    </div>
+  </article>;
+}
 
-function Catalogue({ products: items, query, category, brand, setCategory, setBrand, openProduct, addToCart }: { products: Product[]; query: string; category: string; brand: string; setCategory: (value: string) => void; setBrand: (value: string) => void; openProduct: (product: Product) => void; addToCart: (product: Product) => void }) { return <main className="container catalogue-page"><div className="breadcrumb">Home <ChevronRight size={14} /> Catalogue</div><div className="catalogue-header"><div><div className="eyebrow">THE CATALOGUE <span /></div><h1>{category === 'All products' ? 'All products' : category}</h1><p>{query ? `Showing results for “${query}”` : `${items.length} catalogue items available to explore`}</p></div><select aria-label="Sort products"><option>Recommended</option><option>Price: low to high</option><option>Price: high to low</option></select></div><div className="catalogue-layout"><aside className="filters"><div className="filter-title">Refine selection <Sparkles size={15} /></div><label>Category<select value={category} onChange={(event) => setCategory(event.target.value)}>{categories.map((item) => <option key={item}>{item}</option>)}</select></label><label>Brand<select value={brand} onChange={(event) => setBrand(event.target.value)}>{brands.map((item) => <option key={item}>{item}</option>)}</select></label><div className="filter-note"><Zap size={17} /><span>Prices are shown in NGN and calculated from catalogue cost plus 10%.</span></div></aside><div className="catalogue-results"><div className="results-top"><span>{items.length} items</span><span>Images are being individually verified</span></div>{items.length ? <div className="product-grid">{items.map((product) => <ProductCard key={product.id} product={product} openProduct={openProduct} addToCart={addToCart} />)}</div> : <div className="empty-state"><Search size={32} /><h3>No products found</h3><p>Try a broader search or another category.</p></div>}</div></div></main>; }
+function Catalogue({ products: items, query, category, brand, setCategory, setBrand, openProduct, addToCart }: { products: Product[]; query: string; category: string; brand: string; setCategory: (value: string) => void; setBrand: (value: string) => void; openProduct: (product: Product) => void; addToCart: (product: Product) => void }) { return <main className="container catalogue-page"><div className="breadcrumb">Home <ChevronRight size={14} /> Catalogue</div><div className="catalogue-header"><div><div className="eyebrow">THE CATALOGUE <span /></div><h1>{category === 'All products' ? 'All products' : category}</h1><p>{query ? `Showing results for "${query}"` : `${items.length} products available to explore`}</p></div><select aria-label="Sort products"><option>Recommended</option><option>Price: low to high</option><option>Price: high to low</option></select></div><div className="catalogue-layout"><aside className="filters"><div className="filter-title">Refine selection <Sparkles size={15} /></div><label>Category<select value={category} onChange={(event) => setCategory(event.target.value)}>{categories.map((item) => <option key={item}>{item}</option>)}</select></label><label>Brand<select value={brand} onChange={(event) => setBrand(event.target.value)}>{brands.map((item) => <option key={item}>{item}</option>)}</select></label><div className="filter-note"><Zap size={17} /><span>Prices are shown in NGN and calculated from catalogue cost plus 10%.</span></div></aside><div className="catalogue-results"><div className="results-top"><span>{items.length} items</span><span>Photos being individually verified</span></div>{items.length ? <div className="product-grid">{items.map((product) => <ProductCard key={product.id} product={product} openProduct={openProduct} addToCart={addToCart} />)}</div> : <div className="empty-state"><Search size={32} /><h3>No products found</h3><p>Try a broader search or another category.</p></div>}</div></div></main>; }
 
-function ProductPage({ product, openProduct, addToCart, browse }: { product: Product; openProduct: (product: Product) => void; addToCart: (product: Product) => void; browse: (category?: string) => void }) { return <main className="container product-page"><div className="breadcrumb">Home <ChevronRight size={14} /> {product.category} <ChevronRight size={14} /> {product.name}</div><div className="product-detail"><div className="detail-visual"><ProductVisual product={product} /></div><div className="detail-copy"><span className="product-category">{product.brand ?? 'Catalogue'} · {product.subcategory}</span><h1>{product.name}</h1><p className="detail-model">Model: {product.model}</p><div className="detail-rating"><span><Star size={15} fill="currentColor" /> Catalogue item</span><span className="muted">Original source description retained</span></div><div className="detail-price">{money(product.price)}</div><p>{product.description}</p><div className="detail-actions"><button className="primary-button" onClick={() => addToCart(product)}>{product.price ? 'Add to cart' : 'Request a quote'} <ShoppingBag size={17} /></button><a className="call-button" href="tel:08062812438"><Phone size={17} /> Call to confirm</a></div><div className="detail-delivery"><Truck size={20} /><span><strong>Delivery available</strong><small>Delivery fee and timing are confirmed for your address before fulfilment.</small></span></div></div></div><section className="spec-section"><div><div className="eyebrow">PRODUCT DETAILS <span /></div><h2>What you should know</h2></div><div className="spec-grid">{product.specs.map((spec) => <div key={spec}><BadgeCheck size={17} /> {spec}</div>)}</div></section><div className="back-collection"><button className="text-button" onClick={() => browse(product.category)}>More from {product.category} <ArrowRight size={16} /></button></div></main>; }
+function ProductPage({ product, openProduct, addToCart, browse }: { product: Product; openProduct: (product: Product) => void; addToCart: (product: Product) => void; browse: (category?: string) => void }) { return <main className="container product-page"><div className="breadcrumb">Home <ChevronRight size={14} /> {product.category} <ChevronRight size={14} /> {product.name}</div><div className="product-detail"><div className="detail-visual"><ProductVisual product={product} /></div><div className="detail-copy"><span className="product-category">{product.brand ?? 'Catalogue'} · {product.subcategory}</span><h1>{product.name}</h1><p className="detail-model">Model: {product.model ?? 'Model not listed'}</p><div className="detail-rating"><span><Star size={15} fill="currentColor" /> Catalogue item</span><span className="muted">Original source description retained</span></div><div className="detail-price">{money(product.price)}</div><p>{product.description}</p><div className="detail-actions"><button className="primary-button" onClick={() => addToCart(product)}>{product.price ? 'Add to cart' : 'Request a quote'} <ShoppingBag size={17} /></button><a className="call-button" href="tel:08062812438"><Phone size={17} /> Call to confirm</a></div><div className="detail-delivery"><Truck size={20} /><span><strong>Delivery available</strong><small>Delivery fee and timing are confirmed for your address before fulfilment.</small></span></div></div></div><section className="spec-section"><div><div className="eyebrow">PRODUCT DETAILS <span /></div><h2>What you should know</h2></div><div className="spec-grid">{product.specs.map((spec) => <div key={spec}><BadgeCheck size={17} /> {spec}</div>)}</div></section><div className="back-collection"><button className="text-button" onClick={() => browse(product.category)}>More from {product.category} <ArrowRight size={16} /></button></div></main>; }
 
 function Cart({ cart, total, updateQuantity, openProduct, onCheckout, browse }: { cart: CartLine[]; total: number; updateQuantity: (id: string, quantity: number) => void; openProduct: (product: Product) => void; onCheckout: () => void; browse: () => void }) { return <main className="container cart-page"><div className="breadcrumb">Home <ChevronRight size={14} /> Cart</div><div className="page-title"><div className="eyebrow">YOUR BAG <span /></div><h1>Shopping cart</h1></div>{cart.length ? <div className="cart-layout"><div className="cart-lines">{cart.map(({ product, quantity }) => <div className="cart-line" key={product.id}><button onClick={() => openProduct(product)}><ProductVisual product={product} compact /></button><div className="cart-line-info"><span>{product.brand ?? 'Catalogue'} · {product.model ?? 'Model not listed'}</span><button onClick={() => openProduct(product)}>{product.name}</button><strong>{money(product.price)}</strong></div><div className="quantity"><button onClick={() => updateQuantity(product.id, quantity - 1)} aria-label="Decrease quantity">−</button><span>{quantity}</span><button onClick={() => updateQuantity(product.id, quantity + 1)} aria-label="Increase quantity">+</button></div><strong className="line-total">{money((product.price ?? 0) * quantity)}</strong></div>)}</div><aside className="summary-card"><h3>Order summary</h3><div><span>Subtotal</span><strong>{money(total)}</strong></div><div><span>Delivery</span><span className="muted">To be confirmed</span></div><div className="summary-total"><span>Total</span><strong>{money(total)}</strong></div><button className="primary-button full" onClick={onCheckout}>Continue to checkout <ArrowRight size={17} /></button><p>Delivery charges and available payment methods are confirmed before fulfilment.</p></aside></div> : <div className="empty-state cart-empty"><ShoppingBag size={38} /><h3>Your cart is waiting</h3><p>Explore the catalogue and add something made for your space.</p><button className="primary-button" onClick={browse}>Browse products <ArrowRight size={17} /></button></div>}</main>; }
 
 function Checkout({ cart, total, setView, setCart }: { cart: CartLine[]; total: number; setView: (view: View) => void; setCart: (cart: CartLine[]) => void }) { const [form, setForm] = useState({ name: '', phone: '', address: '', notes: '' }); const [submitted, setSubmitted] = useState(false); const [busy, setBusy] = useState(false); const [error, setError] = useState(''); const submit = async (event: React.FormEvent) => { event.preventDefault(); setBusy(true); setError(''); const payload = cart.map((line) => ({ product_id: line.product.id, quantity: line.quantity })); if (supabase) { const { error: orderError } = await supabase.rpc('place_goldtex_order', { p_customer_name: form.name, p_phone: form.phone, p_delivery_address: form.address, p_delivery_notes: form.notes, p_items: payload }); if (orderError) { setError('We could not place the order right now. Please call 0806 281 2438 to confirm it.'); setBusy(false); return; } } setSubmitted(true); setCart([]); setBusy(false); }; if (submitted) return <main className="container confirmation"><div className="confirmation-icon"><BadgeCheck size={38} /></div><div className="eyebrow">ORDER RECEIVED <span /></div><h1>Thank you, {form.name.split(' ')[0]}.</h1><p>Your request has been received. A Goldtex team member will contact you on {form.phone} to confirm delivery charges, timing and payment.</p><button className="primary-button" onClick={() => setView('home')}>Return to Goldtex <ArrowRight size={17} /></button></main>; return <main className="container checkout-page"><div className="breadcrumb">Home <ChevronRight size={14} /> Cart <ChevronRight size={14} /> Checkout</div><div className="page-title"><div className="eyebrow">FINAL STEP <span /></div><h1>Confirm your details</h1><p>We will confirm delivery and payment options with you before fulfilment.</p></div><form className="checkout-layout" onSubmit={submit}><div className="checkout-form"><label>Full name<input required value={form.name} onChange={(event) => setForm({ ...form, name: event.target.value })} placeholder="Your name" /></label><label>Phone number<input required type="tel" value={form.phone} onChange={(event) => setForm({ ...form, phone: event.target.value })} placeholder="0806 281 2438" /></label><label>Delivery address<textarea required value={form.address} onChange={(event) => setForm({ ...form, address: event.target.value })} placeholder="Street, area, city and state" rows={4} /></label><label>Notes <span className="optional">Optional</span><textarea value={form.notes} onChange={(event) => setForm({ ...form, notes: event.target.value })} placeholder="Anything that will help us reach you" rows={3} /></label>{error && <div className="form-error">{error}</div>}<button className="primary-button" disabled={busy}>{busy ? 'Sending request…' : 'Place order request'} <ArrowRight size={17} /></button></div><aside className="summary-card"><h3>Your items</h3>{cart.map((line) => <div className="checkout-item" key={line.product.id}><span>{line.quantity} × {line.product.name}</span><strong>{money((line.product.price ?? 0) * line.quantity)}</strong></div>)}<div className="summary-total"><span>Estimated total</span><strong>{money(total)}</strong></div></aside></form></main>; }
+
+function AdminDashboard({ goHome }: { goHome: () => void }) {
+  const [search, setSearch] = useState('');
+  const drafts = useMemo(() => {
+    if (!search) return draftProducts;
+    const q = search.toLowerCase();
+    return draftProducts.filter((p) => `${p.name} ${p.brand} ${p.model} ${p.category}`.toLowerCase().includes(q));
+  }, [search]);
+
+  return <main className="container admin-page">
+    <div className="breadcrumb">Home <ChevronRight size={14} /> Admin</div>
+    <div className="page-title">
+      <div className="eyebrow">ADMIN DASHBOARD <span /></div>
+      <h1><Lock size={22} /> Unpublished products</h1>
+      <p>{draftProducts.length} products are hidden from the storefront because they do not have a confirmed selling price. Verify and add a price to publish them.</p>
+    </div>
+    <div className="admin-summary">
+      <div className="admin-stat"><PackageCheck size={22} /><span><strong>{publishedProducts.length}</strong>Published</span></div>
+      <div className="admin-stat"><Lock size={22} /><span><strong>{draftProducts.length}</strong>Draft / hidden</span></div>
+      <div className="admin-stat"><ImageIcon size={22} /><span><strong>{publishedProducts.filter((p) => p.imageUrl).length}</strong>Images verified</span></div>
+      <div className="admin-stat"><ImageIcon size={22} /><span><strong>{publishedProducts.filter((p) => !p.imageUrl).length}</strong>Images pending</span></div>
+    </div>
+    <div className="admin-search"><Search size={18} /><input value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search draft products by name, brand or model" /></div>
+    <div className="admin-table">
+      <div className="admin-table-head">
+        <span>Product</span><span>Brand</span><span>Category</span><span>Source</span><span>Price status</span>
+      </div>
+      {drafts.length === 0 ? <div className="empty-state"><Search size={32} /><h3>No draft products found</h3></div> :
+        drafts.slice(0, 100).map((product) => <div className="admin-table-row" key={product.id}>
+          <span className="admin-product-name">{product.name}</span>
+          <span>{product.brand ?? '—'}</span>
+          <span>{product.category}</span>
+          <span className="admin-source">{product.sourceFile ?? '—'} {product.sourcePage ? `p.${product.sourcePage}` : ''}</span>
+          <span className="admin-price-status">Price on request</span>
+        </div>)}
+    </div>
+    {drafts.length > 100 && <p className="admin-more">Showing 100 of {drafts.length} draft products. Refine your search to see more.</p>}
+    <button className="text-button" onClick={goHome}>Back to store <ArrowRight size={16} /></button>
+  </main>;
+}
 
 export default App;

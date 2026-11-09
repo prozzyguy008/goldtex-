@@ -45,5 +45,8 @@ export const products: Product[] = [
   ...batchTwoProducts,
 ];
 
-export const categories = ['All products', ...Array.from(new Set(products.map((product) => product.category)))];
-export const brands = ['All brands', ...Array.from(new Set(products.map((product) => product.brand).filter((brand): brand is string => Boolean(brand))))];
+export const publishedProducts = products.filter((product) => product.price !== null && product.price > 0);
+export const draftProducts = products.filter((product) => product.price === null || !product.price || product.price <= 0);
+
+export const categories = ['All products', ...Array.from(new Set(publishedProducts.map((product) => product.category)))];
+export const brands = ['All brands', ...Array.from(new Set(publishedProducts.map((product) => product.brand).filter((brand): brand is string => Boolean(brand))))];
