@@ -1,0 +1,391 @@
+FILE POLYSTAR PICTURES-PRICELIST (Autosaved).pdf PAGES 18
+PAGE 1 CANDIDATES 10
+{"page":1,"model":"PV-6009BD","description":"PRICE LIST DATE: 7th OF JULY, 2025 RANGEHOOD/COOKERHOOD 60CM COOKER HOOD, HAND SENSOR WITH CHARCOAL FILTER, 100% COPPER MOTOR/DIGITAL SWITCH DUAL FUNCTION","price":""}
+{"page":1,"model":"PV-HB90H38","description":"90CM COOKER HOOD, DIGITAL DISPLAY 100% COPPER, HAND WAVE SENSOR WITH CHARCOAL FILTER LED LIGHT DUAL FUNCTION","price":"220,000"}
+{"page":1,"model":"PV-JY6015B","description":"60CM COOKER HOOD, HAND WAVE SENSOR WITH DIGITAL DISPLAY, LED LIGHT CHARCOAL FILTER DUAL FUNCTION,100% COPPER","price":""}
+{"page":1,"model":"PV-JY90139","description":"90CM COOKER HOOD, HAND WAVE SENSOR DIGITAL CONTROL WITH CHARCOAL FILTER 100% COPPER DUAL FUNCTION","price":"220,000"}
+{"page":1,"model":"PV-NY90A11CHINV","description":"90CM INVERTER COOKER HOOD, HAND WAVE SENSOR, DIGITAL DISPLAY WITH LED LIGHT AND 100% COPPER DUAL FUNCTION","price":"230,000"}
+{"page":1,"model":"PV-JY6022B","description":"60CM COOKER HOOD, HAND WAVE SENSOR AND REMOTE WITH 100% COPPER AND CHARCOAL FILTER DUAL FUNCTION","price":"124,000"}
+{"page":1,"model":"PV-JY9067","description":"90CM COOKER HOOD, HAND WAVE SENSOR, DIGITAL DISPLAY, 100% COPPER AND CHARCOAL FILTER DUAL FUNCTION","price":"180,000"}
+{"page":1,"model":"PV-JY9003BB","description":"90CM RANGEHOOD MANUAL WITH ACTIVATED CARBON CHARCOAL FILTER PURE COPPER DUAL FUNCTION","price":""}
+{"page":1,"model":"PV-JY9013","description":"90CM RANGEHOOD DIGITAL DISPLAY WITH HAND SENSOR/CHARCOAL FILTER AND 100% COPPER","price":"190,000"}
+{"page":1,"model":"PV-JY9013","description":"SENSOR/CHARCOAL FILTER AND 100% COPPER DUAL FUNCTION","price":""}
+PAGE 2 CANDIDATES 10
+{"page":2,"model":"PV-TD6010B","description":"60CM RANGEHOOD,CHARCOAL FILTER DIGITAL CONTROL WITH HAND WAVE SENSOR 100% COPPER DUAL FUNCTION","price":"108,000"}
+{"page":2,"model":"PV-NYCVD90CHIN","description":"90CM DIGITAL INVERTER COOKERHOOD WITH 70% ENERGY SAVINGS, 100% COPPER WITH DUAL FUNCTION","price":"225,000"}
+{"page":2,"model":"PV-HB6005","description":"60CM COOKERHOOD, CHARCOAL FILTER WITH 100% COPPER DUAL FUNCTION, WITH TOUCH CONTROL SWITCH AS PHOTOS","price":"170,000"}
+{"page":2,"model":"PV-JY9015B","description":"90CM COOKER HOOD, HAND WAVE SENSOR WITH DIGITAL DISPLAY, LED LIGHT CHARCOAL FILTER DUAL FUNCTION,100% COPPER","price":"115,000"}
+{"page":2,"model":"PV-TD9110D","description":"90CM T-SHAPE RANGEHOOD TEMPERED GLASS DIGITAL DISPLAY WITH CHARCOAL FILTER 100% COPPER DUAL FUNCTION","price":""}
+{"page":2,"model":"PV-JY9066RM","description":"90CM COOKER HOOD, HAND WAVE SENSOR, DIGITAL DISPLAY, 100% COPPER AND CHARCOAL FILTER DUAL FUNCTION AND REMOTE CONTROL","price":"190,000"}
+{"page":2,"model":"PV-JY9026B","description":"90CM COOKER HOOD, DIGITAL DISPLAY 100% 90CM COOKER HOOD, DIGITAL DISPLAY 100% COPPER, HAND WAVE SENSOR WITH CHARCOAL FILTER LED LIGHT DUAL FUNCTION","price":"125,000"}
+{"page":2,"model":"PV-K5AFM","description":"AIR FRYER 5.0L DIGITAL COTROL PANEL AIR FRYER, 5L capacity for family use with copper motor Non-stick basket ,single pot Thermostat tempereture knob control Healthy and easy way to fry food INBUILT OVEN","price":""}
+{"page":2,"model":"PV-EG271BB","description":"60CM BUILT-IN ELECTRIC & GAS OVEN, GRILL, TIMER, LAMP • ROASTING FUNCTION • FULL BLACK FACE • KNOB CONTROL • OVEN WITH 1PC UP ELECTRIC PIPE • 1800W","price":""}
+{"page":2,"model":"PV-JY60KE","description":"56L/60cm Electric oven, Mechanical control, ABS plastic knobWith Mechanical timer • Max power: 2200W • Top heating element: 1000W • Grill heating element: 1200W Bottom heating element: 1000W","price":""}
+PAGE 3 CANDIDATES 1
+{"page":3,"model":"PVCM-265A","description":"63cm Built in Electric Oven (With Digital) Control Type:120mm E-TRONIC W/WHITE led Display 10hr timer With 5 Functions Cavity:with Grill,63L up 1200W, down 1000W) Max Power:2200W （ ELECTRIC & GAS BUILT-IN OVEN, DIGITAL CLOCK WITH AUTO CUT OFF TIMER, OVEN VENTILATION, ROASTING FUNCTION","price":"290,000"}
+PAGE 4 CANDIDATES 12
+{"page":4,"model":"PV-BA8705AGPS","description":"GAS COOKER 90CM 5 BURNERS GAS HOB, • 8mm real thickness TEMPERED glass in black; • Heavy cast iron pan support with BATTERY IGNITION.","price":"123,000"}
+{"page":4,"model":"PV-NY4G1E","description":"90CM 4GAS + 1 ELECTRIC GAS HOB, 8MM GLASS THICKNESS, ELECTRIC IGNITION with heavy cast pan support(Side electric burner)","price":"140,000"}
+{"page":4,"model":"PV-GT60G4","description":"60CM 4 BURNER GAS HOB, 8MM THICKNESS GLASS GAS, BATTERY IGINITION • WITH 4 BURNERS; • HEAVY CAST IRON PAN SUPPORT;","price":""}
+{"page":4,"model":"PV-JYPS4G1EB","description":"90CM 4 GAS+ 1 ELECTRIC BUILT-IN HOB BLACK STAINLESS STEEL, 8mm real stainless with additional pan support","price":"125,000"}
+{"page":4,"model":"PV-HB5G5848","description":"90CM 5 BURNERS GAS HOB, 8MM TEMPERED GLASS THICKNESS BATTERY IGNITION. PAN SUPPORT: HEAVY CAST IRON","price":"123,000"}
+{"page":4,"model":"PV-JYBA90G5S","description":"90CM 5 BURNERS GASHOB BLACK STAINLESS STEEL, METAL KNOB, BATTERY IGNITION, BLACK STAINLESS","price":"127,000"}
+{"page":4,"model":"PV-JYBA90G5S","description":"STEEL, WITH 5 GAS BURNER, WITH STEEL, WITH 5 GAS BURNER, WITH PAN SUPPORT.","price":"127,000"}
+{"page":4,"model":"PV-JY502GA","description":"POLYSTAR 2 BURNER BUILT-IN ELECTRIC GASHUB,8MM TEMPERED GLASS THICKNESS","price":"105,000"}
+{"page":4,"model":"PV-JY3802","description":"3 GAS BURNER BUILT-IN GASHUB, HEAVY CAST IRON PAN SUPPORT WITH METL KNOBS(90CM)","price":"110,000"}
+{"page":4,"model":"PV-JYB5AG","description":"90CM 5 BURNERS GAS HOB, 8MM TEMPERED GLASS THICKNESS BATTERY IGNITION. PAN SUPPORT: HEAVY CAST IRON","price":"120,000"}
+{"page":4,"model":"PV-GT60G3H","description":"3 BURNER & 1 ELECTRIC BUILT-IN GASHUB, ELECTRIC IGNITION WITH 8MM THICKNESS GLASS & HEAVY CAST IRON PAN SUPPORT","price":"110,500"}
+{"page":4,"model":"PV-NYQB2002T","description":"2 GAS BURNER BUILT-IN GASHUB, HEAVY CAST IRON PAN SUPPORT WITH METL KNOBS(90CM)","price":"110,000"}
+PAGE 5 CANDIDATES 7
+{"page":5,"model":"PV-JYG5E1","description":"90CM 4GAS + 1 ELECTRIC GAS HOB, 8MM GLASS THICKNESS, ELECTRIC IGNITION with heavy cast pan support(Center electric burner)","price":"135,000"}
+{"page":5,"model":"PV-LP78YF","description":"2 BURNER TABLE GAS COOKER WITH TEMPERED GLASS TOP, AUTO IGNITION.","price":""}
+{"page":5,"model":"PV-BS55G4A","description":"POLYSTAR 50 BY 60 4BRASS BURNER COOKER(AUTO-IGNITION) WITH GAS OVEN & TEMPERED GLASS, SUPER FAST COOKING MICROWAVE","price":"140,000"}
+{"page":5,"model":"PV-BD25BBL","description":"25LTR BUILT-IN MICROWAVE OVEN WITH GRILL FUNCTION INPUT POWER: 1400W, GRILL POWER: 1000W INPUT POWER: 1400W, GRILL POWER: 1000W POWER OUPUT: 900W, STAINLESS STEEL CAVITY, BS PLUG BS PLUG DIMENSIONS: W595*H390*D394mm","price":"180,000"}
+{"page":5,"model":"PV-BD20BBL","description":"20LTR BUILT-IN MICROWAVE OVEN WITH GRILL FUNCTION INPUT POWER: 1200W, GRILL POWER: 900W POWER OUPUT: 700W, STAINLESS STEEL CAVITY, BS PLUG DIMENSIONS: W595*H390*D328mm","price":"155,000"}
+{"page":5,"model":"PV-BD25UGL","description":"25LTR BUILT-IN MICROWAVE OVEN DIGITAL CONTROL WITH GRILL FUNCTION, MICROWAVE OUTPUT POWER: 850W, STAINLESS STEEL CAVITY AND PUSH BUTTON.","price":"175,000"}
+{"page":5,"model":"PV-BD20UGL","description":"20LTR BUILT-IN MICROWAVE OVEN WITH GRILL FUNCTION INPUT POWER: 1200W, GRILL POWER: 900W POWER OUPUT: 700W, STAINLESS STEEL CAVITY, BS PLUG DIMENSIONS.","price":"150,000"}
+PAGE 6 CANDIDATES 7
+{"page":6,"model":"PV-C20LMXB","description":"20L MANUAL SOLO MICROWAVES BLACK HOUSING, WHITE PAINTING CAVITY POWER OUTPUT: 700W, INPUT POWER: 1100W BS PLUG, NORMAL GLASS DOOR DIMENSIONS: W454.5*H261*D353mm","price":"75,000"}
+{"page":6,"model":"PV-25TTINV","description":"25LTR INVERTER DIGITAL TABLE MICROWAVE OVEN. 900w MICROWAVE OUTPUT POWER WITH TIMER, DEFROST SETTING AND TURNABLE GLASS TRAY","price":"130,000"}
+{"page":6,"model":"PV-42TTINV","description":"42LTR INVERTER DIGITAL TABLE MICROWAVE OVEN. 1000w MICROWAVE OUTPUT POWER WITH TIMER, DEFROST SETTING AND TURNABLE GLASS TRAY AIR CONDITIONER","price":"170,000"}
+{"page":6,"model":"PV-SN12","description":"1.5HP Split Air Conditioner, R410a; 1.5HP Split Air Conditioner, R410a; 2. on/off, cooling only 220V/50Hz, T1 ； 3. without copper pipe, with remote controller. 4. With Anti Rust Galvanize Sheet; 5. Indoor unit Panel FB(Gray)","price":"297,000"}
+{"page":6,"model":"PV-12R410XAN","description":"1.5HP SPLIT XA21, R410A 220V/50HZ COOLING ONLY SPLIT TYPE CONDITIONER WITH DELICATE PLASTIC PANEL AND LED DISPLAY, 3M PURE COPPER CONNECTING PIPES, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL, 2M DRAINAGE PIPE","price":"330,000"}
+{"page":6,"model":"PV-09R410XAN","description":"1HP SPLIT XA21, R410A 220V/50HZ COOLING ONLY SPLIT TYPE CONDITIONER WITH DELICATE PLASTIC PANEL AND LED DISPLAY, 3M PURE COPPER CONNECTING PIPES, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL, 2M DRAINAGE PIPE","price":"295,000"}
+{"page":6,"model":"PV-SN09","description":"1HP Split Air Conditioner, R410a; 2. on/off, cooling only 220V/50Hz, T1 ； 3. without copper pipe, with remote controller. 4. With Anti Rust Galvanize Sheet; 5. Indoor unit Panel FB(Gray)","price":"280,000"}
+PAGE 7 CANDIDATES 8
+{"page":7,"model":"PV-18TP41GM","description":"2HP INVERTER SPLIT AC, R410A, WITH SILVER COLOR PANEL AND LED DISPLAY, INVERTER COOLING ONLY, SPLIT 3M PURE COPPER CONNECTING PIPES, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL, 2M DRAINAGE PIPE WITH INSTALLATION KITS","price":"560,000"}
+{"page":7,"model":"PV-SN09INV","description":"1HP INVERTER SPLIT AC, SUPER COOLING, 3M PURE COPPER, 220V/50HZ COOLING ONLY, INVERTER SPLIT TYPE CONDITIONER WITH DELICATE PLASTIC PANEL AND LED DISPLAY, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL, 2M DRAINAGE PIPE","price":""}
+{"page":7,"model":"PV-12TP41INV","description":"1.5HP INVERTER SPLIT AC WITH COMPLETE KITS PIPE, 100% COPPER WITH GEN COOL WITH ANTI- RUST GALVANIZE SHEET, COOLING ONLY WITH REMOTE CONTROL","price":"395,000"}
+{"page":7,"model":"PV-12XA8BINV","description":"1.5HP INVERTER SPLIT AC, SUPER COOLING, 3M PURE COPPER INSTALLATION KIT, 220V/50HZ COOLING ONLY, INVERTER SPLIT TYPE CONDITIONER WITH DELICATE PLASTIC PANEL AND LED DISPLAY, ANTI RUST GALVANIZE SHEET, WITH LED DISPLAY, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL, 2M DRAINAGE PIPE","price":""}
+{"page":7,"model":"PV-SN12INV","description":"1.5HP INVERTER SPLIT AC , 100% COPPER WITH GEN COOL WITH ANTI-RUST GALVANIZE SHEET, COOLING ONLY WITH REMOTE CONTROL","price":""}
+{"page":7,"model":"PV-09INV41","description":"1HP INVERTER SPLIT AC, SUPER COOLING, 3M PURE COPPER INSTALLATION KIT, 220V/50HZ COOLING ONLY, INVERTER SPLIT TYPE CONDITIONER WITH DELICATE PLASTIC PANEL AND LED DISPLAY, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL, 2M DRAINAGE PIPE","price":"365,000"}
+{"page":7,"model":"PV-SN18INV","description":"2HP INVERTER SPLIT AC, R410A, WITH SILVER COLOR PANEL AND LED DISPLAY, INVERTER COOLING ONLY, SPLIT 3M PURE COPPER CONNECTING PIPES, ANTI RUST GALVANIZE SHEET, WITH REMOTE CONTROL.","price":"480,000"}
+{"page":7,"model":"PV-SN203CN","description":"2 TON FLOOR STANDING AC, R22 GAS, SUPER COOLING, ANTI RUST GALVANISE SHEET,LED COOLING, ANTI RUST GALVANISE SHEET,LED DISPLAY WITH REMOTE, NO KITS","price":""}
+PAGE 8 CANDIDATES 7
+{"page":8,"model":"PV-HDF206INV","description":"COOLING, 3M INSTALLATION KIT, R32 220V/50HZ • COOLING ONLY INVERTER FLOOR STANDING TYPE AIR CONDITIONER • WITH DELICATE PLASITC PANEL AND LED DISPLAY, • ANTI RUST GALVANIZE SHEET, • WITH REMOTE CONTROL, • WITH 2M DRAINAGE PIPE,","price":""}
+{"page":8,"model":"PV-HDF207WINV","description":"COOLING, 3M INSTALLATION KIT, R32 220V/50HZ • COOLING ONLY INVERTER FLOOR STANDING TYPE AIR CONDITIONER • WITH DELICATE PLASITC PANEL AND LED DISPLAY, • ANTI RUST GALVANIZE SHEET, • WITH REMOTE CONTROL, • WITH 2M DRAINAGE PIPE,","price":""}
+{"page":8,"model":"PVF-HDF306INV","description":"3 TON INVERTER FLOOR STANDING AC, SUPER COOLING, 3M INSTALLATION KIT • COOLING ONLY INVERTER FLOOR STANDING TYPE AIR CONDITIONER • WITH DELICATE PLASITC PANEL AND LED DISPLAY, • ANTI RUST GALVANIZE SHEET, • ANTI RUST GALVANIZE SHEET, • WITH REMOTE CONTROL,","price":""}
+{"page":8,"model":"PVF-503C","description":"• WITH 2M DRAINAGE PIPE, POLYSTAR 5TONS FLOOR STANDING AC WITH 100% PURE COPPER, PANEL & LED DISPLAY WITH ROTARY COMPRESOR,ANTI-RUST WITH REMOTE CONTROL/INSTALLATION KITS","price":"1,700,000"}
+{"page":8,"model":"PV-R1005CF","description":"POLYSTAR 10TONS FLOOR STANDING AC WITH 100% PURE COPPER, PANEL & LED DISPLAY WITH ROTARY COMPRESSOR, ANTI-RUST WITH REMOTE CONTROL(WITHOUT KITS)","price":"4,150,000"}
+{"page":8,"model":"PV-MD9W","description":"1HP WINDOW AC, SUPER COOLING. R22, 220V- 220V 50HZ, GMCC, NO DRAIN PIPE","price":"310,000"}
+{"page":8,"model":"PV-MD12W","description":"1.5HP WINDOW AC, SUPER COOLING. R22, 220V- 1.5HP WINDOW AC, SUPER COOLING. R22, 220V- 220V 50HZ, GMCC, NO DRAIN PIPE FAN","price":""}
+PAGE 9 CANDIDATES 6
+{"page":9,"model":"PV-18NDB","description":"18 INCHES INDUSTRIAL STANDING FAN,100% COPPER COIL, BLACK COLOUR • 3 Speeds • 3 aluminum blades • Round guard • Left and right oscillation • Full copper motor • 1M Adjustable of Rod , 3*0.75mm supply cord, total lenght 2m • Round base BS PLUG","price":"65,000"}
+{"page":9,"model":"PV-20NDB","description":"20 INCHES INDUSTRIAL STANDING FAN,100% COPPER COIL, BLACK COLOR, 3 Speeds 3 aluminum blades , iron surface, plastic inside Round guard Left and right oscillation Full copper motor 1m Adjustable Rod, 3*0.75mm supply cord, total lenght 2m cross base BS PLUG","price":"75,000"}
+{"page":9,"model":"PV-26NDB","description":"26 INCHES INDUSTRIAL STANDING FAN,100% COPPER COIL, BLACK COLOUR, 3 SPEEDS 3 aluminum blades , iron surface, plastic inside Round guard Left and right oscillation Left and right oscillation Full copper motor BLACK COLOR 1m Adjustable Rod, 3*0.75mm supply cord.","price":"85,000"}
+{"page":9,"model":"PV-20WF","description":"20 INCHES INDUSTRIAL WALL FAN,100% COPPER COIL, BLACK COLOR, 3 Speeds 3 aluminum blades , iron surface, plastic inside Round guard Left and right oscillation Full copper motor.","price":"63,000"}
+{"page":9,"model":"PV-24BC","description":"24\" CEILING FAN, 100% COPPER MOTOR, BROWN COLOUR WITH 4 METAL BLADE, WITH 5 SPEEDS CAPACITOR REGULATOR; PACKING: 1PC IN ONE SMALL COLOR BOX, 4PCS PER MASTER COLOR BOX;","price":"19,000"}
+{"page":9,"model":"PV-56BBC","description":"56\" CEILING FAN, 100% COPPER MOTOR, BROWN COLOUR 3 METAL BLADES, WITH 5 SPEEDS CAPACITOR REGULATOR; PACKING: 1PC IN ONE SMALL COLOR BOX, 3PCS PER MASTER COLOR BOX;","price":"23,000"}
+PAGE 10 CANDIDATES 4
+{"page":10,"model":"PV-56WC","description":"56\" CEILING FAN, 100% COPPER MOTOR, WHITE COLOUR 100% 3 METAL BLADES, WITH 5 SPEEDS CAPACITOR REGULATOR; PACKING: 1PC IN ONE SMALL COLOR BOX, 3PCS PER MASTER COLOR BOX;","price":"23,000"}
+{"page":10,"model":"PV-3018B-USB","description":"18\" RECHARGEABLE STANDING FAN WITH 5 BLADES AND REMOTE CONTROL, 100% COPPER MOTOR, 12V7Ah battery, Charge time: 15-18hr; working time: 3.5-16hr, 100-240V/50-60Hz, BS plug with 1.5m length,","price":"69,000"}
+{"page":10,"model":"PV-5018WB","description":"3 IN 1 18\" RECHARGEABLE FAN WITH 2PCS LED BULB & SOLAR PANEL, USB DC 5V MOBILE CHARGE WITH REMOTE CONTROL, HEIGHT ADJUSTABLE & SUPER STRONG","price":""}
+{"page":10,"model":"PVKL-3718BUSB","description":"18\"SOLAR.AC RECHARGEABLE FAN WITH REMOTE CONTROL, 100% COPPER MOTOR, 12V7Ah battery, Charge time: 3-15hr; working time: 3.5-16hr, 100- 240V/50-60Hz, BS plug KDK 16\" STANDING FAN WITH METAL BLADE, 3 KDK 16\" STANDING FAN WITH METAL BLADE, 3 SPEED AND OFF BY PUSH BUTTON SWITCH HEIGHT ADJUSTABLE 129CM-154CM COLOR GOLD AND WHITE KDK 16\" STANDING FAN WITH TIMER AND METAL BLADE, 3 SPEED AND OFF BY PUSH BUTTON SWITCH HEIGHT ADJUSTABLE 129CM-154CM COLOR GOLD KDK 56\" CEILING FAN, METAL BLADE, 3 SPEED AND 5 SPEED SELECTION(FEATURES, SCREW, FUSE, HOOK AND WIRE) COLOR: WHITE KDK 16\" PULL SWITCH WALL FAN WITH METAL BLADE","price":"99,500"}
+PAGE 11 CANDIDATES 10
+{"page":11,"model":"PV-TWF7.1GL-INV","description":"WASHING MACHINE 6KG INVERTER FRONT LOADER AUTOMATIC WASHING MACHINE WITH UNIVERSAL MOTOR, BS PLUG WASH AND SPIN.","price":"375,000"}
+{"page":11,"model":"PV-TWF7.1WL","description":"6KG FRONT LOADER AUTOMATIC WASHING MACHINE WITH UNIVERSAL MOTOR, BS PLUG WASH AND SPIN.","price":"334,000"}
+{"page":11,"model":"PV-TWF7.1GL","description":"6KG FRONT LOADER AUTOMATIC WASHING MACHINE WITH UNIVERSAL MOTOR, BS PLUG WASH AND SPIN.","price":"350,000"}
+{"page":11,"model":"PV-WD4.5K","description":"4.5KG SINGLE TUB WASHING MACHINE, TOP LOADER, WASHING ONLY.","price":""}
+{"page":11,"model":"PV-WDW4.7K","description":"3.0KG FOLDABLE SINGLE TUB WASHING MACHINE, PLASTIC COVER, POWERFUL PULSATOR AND MOBILE","price":"50,000"}
+{"page":11,"model":"PV-WDW7.5K","description":"5.5KG SINGLE TUB WASHING MACHINE, ANTI-RUST WITH BIG BUCKET, MECHANICAL CONTROL WATER LEVEL","price":""}
+{"page":11,"model":"PV-WDW7KG","description":"7KG TOP LOADER TWIN TUB MANUAL WASHING MACHINE, WASH & SPIN WITH TIMER,ALL PLASTIC BODY, ANTI-RUST","price":"192,000"}
+{"page":11,"model":"PV-WDW9KG","description":"9KG TOP LOADER TWIN TUB MANUAL WASHING MACHINE, WASH & SPIN WITH TIMER,ALL PLASTIC BODY, ANTI-RUST","price":"215,000"}
+{"page":11,"model":"PV-WDW10KG","description":"10KG TOP LOADER TWIN TUB MANUAL WASHING MACHINE, WASH & SPIN WITH TIMER,ALL PLASTIC BODY, ANTI-RUST SOLAR LIGHT","price":"270,000"}
+{"page":11,"model":"PVKL-90W","description":"90watts Solar light with built-in solar panel Watt power: 90W 32650 LFP Battery 15AH 32650 LFP Battery 15AH Luminous Flux: 1500lm","price":"31,000"}
+PAGE 12 CANDIDATES 8
+{"page":12,"model":"PV-HKC24ATV","description":"TELEVISION 24\" DLED TV, 1 HDMI, 2 USB, 1 AV, FREE WALL MOUNT, • SIZE: 23.6’’ • BACK LIGHT: DLED • NOISE REDUCTION: YES • CHILD LOCK: NO • OSD LANGUAGE: ENGLISH • AMPLIFIER: YES • SPEAKERS: 2X3W • POWER INPUT: 100-240/50/60HZ • MAX POWER CONSUMPTION; 40W • POWER SAVING 0.5W","price":"70,000"}
+{"page":12,"model":"PV-HK85FLQLED","description":"85\" QLED UHD 4K SMART TV, BLUETOOTH, 3 HDMI, 2 USB, 1 AV, WIFI, LAN, OFFICIAL NETFLIX AND YOUTUBE, Resolution: 3840 ×2160 /UHD, VIDAA 1.5G+4G RJ45 Input, ■ Earphone ■ RJ45 ■ AV ■ RF","price":"1,300,000"}
+{"page":12,"model":"PV-HK50FLSM","description":"","price":"365,000"}
+{"page":12,"model":"PV-HK50FLSM","description":"POLYSTAR 50\" DLED SMART TV VIDAA(FRAMELESS) WITH OFFICIAL NETFLIX,BLUETOTH AND YOUTUBE 32\" SMART LED TV WITH OFFICIAL NETFLIX &","price":"365,000"}
+{"page":12,"model":"PV-HKC32Q1SM","description":"YOUTUBE, DLED TV, Resolution: 1920*1080, Frameless VIDAA Smart 512M+4G Wifi Energy Saving Eyes Protection","price":"145,000"}
+{"page":12,"model":"PV-TG50UHDVID","description":"50\" SMART TV WITH TEMPERED SAFETY GLASS SCREEN, VIDAA OS,VOICE COMMAND, WITH BLUTOOTH, WALL MOUNT+ NO 2 PCS BATTERY, BS PLUG, 500V CAPACITY","price":"405,000"}
+{"page":12,"model":"PV-HK55FLSM","description":"POLYSTAR 55\" UHD 4K SMART TV VIDAA(FRAMELESS) WITH OFFICIAL NETFLIX,BLUETOTH AND YOUTUBE","price":"470,000"}
+{"page":12,"model":"PV-HK43FLSM","description":"POLYSTAR 55\" UHD 4K SMART TV VIDAA(FRAMELESS) WITH OFFICIAL NETFLIX,BLUETOTH AND YOUTUBE","price":"255,000"}
+PAGE 13 CANDIDATES 8
+{"page":13,"model":"PV-HK65FLTM","description":"POLYSTAR 65\" DLED VIDAA SMART TV VIDAA(FRAMELESS) 1G+8G Wifi WITH OFFICIAL NETFLIX,BLUETOTH AND YOUTUBE","price":"630,000"}
+{"page":13,"model":"PV-HK75FLUHD4K","description":"POLYSTAR 65\" DLED VIDAA SMART TV VIDAA(FRAMELESS) 1G+8G Wifi WITH OFFICIAL NETFLIX,BLUETOOTH AND YOUTUBE","price":"920,000"}
+{"page":13,"model":"PV-HK100FLQLED","description":"100\" QLED SMART TV FRAMELESS,1G+8G Wifi OFFICIAL NETFLIX,YOUTUBE,TWITTER,ENERGY SAVINGS,BLUETOOTH. VIDAA SMART","price":"2,750,000"}
+{"page":13,"model":"PV-TG43FHDVID","description":"43\" SMART TV WITH TEMPERED SAFETY GLASS SCREEN, VIDAA OS,VOICE COMMAND, WITH BLUTOOTH, WALL MOUNT+ NO 2 PCS BATTERY, BS PLUG.","price":"260,000"}
+{"page":13,"model":"PV-CF322GL","description":"CHEST FREEZER 200L CHEST FREEZER SILVER COLOUR, 10.Outside condenser With compressor fan With compressor fan","price":""}
+{"page":13,"model":"PV-CF322GL","description":"With Led light on door, With inner glass door and inner divider Product size:870x535x840mm","price":""}
+{"page":13,"model":"PV-CF197GL","description":"100L CHEST FREEZER WITH ADJUSTABLE THERMOSTAT, SLIDING SAFETY GLASS WITH KEY&LOCK, 100% HFC Free & FCKW, COMPRESSOR WITH LED LIGHT, FAST FREEZING FUNCTION","price":"265,000"}
+{"page":13,"model":"PV-CF250GL","description":"140L CHEST FREEZER WITH ADJUSTABLE THERMOSTAT, SLIDING SAFETY GLASS WITH KEY&LOCK, 100% HFC Free & FCKW, COMPRESSOR WITH LED LIGHT, FAST FREEZING FUNCTION REFRIGERATOR","price":"290,000"}
+PAGE 14 CANDIDATES 4
+{"page":14,"model":"PV-DD202RSL","description":"90LTR DOUBLE DOOR TABLE TOP FRIDGE WITH FAST FREEZING FUNCTION, 100% HFC & FCKW Free,Adjustable thermostat with compressor fan.","price":"195,000"}
+{"page":14,"model":"PV-DD203R6LR","description":"90LTR DOUBLE DOOR TABLE TOP FRIDGE WITH FAST FREEZING FUNCTION, 100% HFC & FCKW Free,Adjustable thermostat with compressor fan.","price":"195,000"}
+{"page":14,"model":"PV-SBS777WD-INV","description":"620LTR SIDE BY SIDE INVERTER FRIDGE WITH WATER DISPENSER, VCM INOX BLACK DOOR WATER DISPENSER, VCM INOX BLACK DOOR Without Glass No frost R600a Gas LED display With Drawers (fridge/freezer): 1/1 With Glass shelves: 4/4 With of Balconies: 3/3 BS Plug (W/D/H) Product Dimension: 911 x 636 x 1780mm","price":""}
+{"page":14,"model":"PV-SBS776WD-INV","description":"620LTR SIDE BY SIDE INVERTER FRIDGE WITH WATER DISPENSER, VCM INOX SILVER DOOR Without Glass No frost R600a Gas LED display With Drawers (fridge/freezer): 1/1 With Glass shelves: 4/4 With of Balconies: 3/3 BS Plug (W/D/H) Product Dimension: 911 x 636 x 1780mm ICE MAKER","price":"1,000,000"}
+PAGE 15 CANDIDATES 4
+{"page":15,"model":"PV-MZ19B","description":"ICE CUBE MAKER, 2.2L WATER TANK, 6-13 MIN EFFICIENCY, 10-12KG/24H CUBE MAKING, BLACK COLOUR CUBE MAKER POWER: 112W MATERIALS: ABS PLASTIC WHITE ICE BOX CAPACITY: 0.7KG REFRIGERANT: R600a","price":"87,000"}
+{"page":15,"model":"PV-SC276BG","description":"SHOWCASE 90L WINE COOLER, OUTSIDE CONDENSER, R600 GAS, BLACK COLOUR UNIT SZE: 475*470*820LMM COMPRESSOR FAN, BS PLUG 1,055L 3 DOORS ELEGANT SHOWCASE FRIDGE,","price":"280,000"}
+{"page":15,"model":"PV-CS1275DD3L","description":"INTERIOR LAMP, SUPERIOR DESIGN, PRODUCTS SIZE(L*D*H):1600*605*2000MM N/G.WEIGHT:175/195KGS, WHITE ANTI- CORROSION PRE PAINTED STEEL BODY, DOUBLE LAYER GLASS STRONGER STEEL SHELVES WHITE COLOR LINNER INSIDE CONDENSER BESIDES COMPRESSOR","price":"1,920,000"}
+{"page":15,"model":"PV-SC426BG","description":"350L SHOWCASE CHILLER WITH SAFETY GLASS, FAST FREEZING FUNCTION","price":""}
+PAGE 16 CANDIDATES 8
+{"page":16,"model":"PV-CSC615L","description":"538L CHEST SHOWCASE FREEZER,TWO BASKET & SHELF WITH OUTSIDE CONDENSER, Adjustable Thermostat Manual Defrost 100%HFC free & FCKW free Fast Freezing Function Products Dim:1620x690x900mm","price":"810,000"}
+{"page":16,"model":"PV-CSC303CSL","description":"226LTR CHEST SHOWCASE FREEZER,TWO BASKET & SHELF WITH OUTSIDE CONDENSER, Adjustable Thermostat Manual Defrost 100%HFC free & FCKW free Fast Freezing Function Products Dim:1620x690x900mm","price":"580,000"}
+{"page":16,"model":"PV-R6JX-5FFB","description":"WATER DISPENSER/WATER HEATER HOT AND COLD WATER DISPENSER WITH STORAGE CABINET BLACK COLOUR, WATER DRIP TRAY, BS PLUG, WITHOUT REFRIGERATOR, WITH DANFU COMPRESOR DIMENSIONS: 315*315*885mm 315*315*885mm","price":""}
+{"page":16,"model":"PV-JY10LWH","description":"10LTR VERTICAL ELECTRIC WATER HEATER WITH ORIGINAL FLEXIBLE CONNECTOR, POWER INPUT: 1500W","price":"59,000"}
+{"page":16,"model":"PV-R2-JXR-18G","description":"HOT AND COLD WATER DISPENSER WITH FRIDGE AND STORAGE CABINET,TEMPERED GLASS AND GREY PLASTIC, WITH DANFU COMPRESOR, U- SHAPE REFRIGERATOR, DIMENSIONS: 315*315*885mm","price":"125,000"}
+{"page":16,"model":"PV-JY15LWH","description":"15LTR VERTICAL ELECTRIC WATER HEATER WITH ORIGINAL FLEXIBLE CONNECTOR, POWER INPUT: 1500W","price":"69,000"}
+{"page":16,"model":"PV-R6JX-5BLK","description":"3Taps WITH HOT,NORMAL AND COLD WATER DISPENSER,SAFETY LOCK ,BOTTOM LOADING WITH LIGHT INDICATOR.HEATING POWER:580W","price":"169,000"}
+{"page":16,"model":"PV-R6JX-5RF","description":"HOT AND COLD WATER DISPENSER WITH STORAGE CABINET BLACK COLOUR, WATER DRIP TRAY, BS PLUG, WITHOUT REFRIGERATOR, WITH DANFU COMPRESOR DIMENSIONS: 315*315*885mm 315*315*885mm","price":"145,000"}
+PAGE 17 CANDIDATES 9
+{"page":17,"model":"PV-R6JX-5GN","description":"HOT AND COLD WATER DISPENSER WITH STORAGE CABINET BLACK COLOUR, WATER DRIP TRAY, BS PLUG, WITHOUT REFRIGERATOR, WITH DANFU COMPRESOR DIMENSIONS: 315*315*885mm","price":"145,000"}
+{"page":17,"model":"PV-K500","description":"ELECTRIC KETTLE 4.1L ELECTRIC KETTLE, STAINLESS STEEL HOUSING, 1850-2150W, 3X0.75mm POWER CORD EXPLOSURE LENGTH 75CM, WITH BS PLUG","price":"21,000"}
+{"page":17,"model":"PVKL-903","description":"1.8L ELECTRIC KETTLE, AUTO SWITCH OFF, WHITE AND BLACK COLOUR, POWER 1200W, ANTI DRY BOILING THRMOSTAT, FULL COPPER WIRE CABLE, BS PLUG PRODUCT SIZE: 18*13*25.5cm","price":"8,700"}
+{"page":17,"model":"PV-BL509G","description":"BLENDER 2 IN 1 BLENDER, 1.5L GLASS JAR, 7025 COPPER MOTOR WITH THERMOSTAT, GLASS GRINDER, POWER: 400w, COLOR: STAINLESS STEEL+BLACK JUICE EXTRACTOR","price":"25,500"}
+{"page":17,"model":"PV-JE3338K","description":"500ML CAPACITY JUICE CUP, 68MM FEEDING TUBE, 500ML CAPACITY JUICE CUP, 68MM FEEDING TUBE, 1.0L FRUIT POMACE CUP, 7025 FULL COPPER MOTOR, POWER: 400W, WITH BS PLUG 600ML CAPACITY JUICE CUP, 82MM FEEDING TUBE, 1.2L FRUIT POMACE CUP, 7025 FULL COPPER MOTOR, POWER: 400W, WITH BS PLUG","price":"29,500"}
+{"page":17,"model":"PV-JE388","description":"65MM JUICE EXTRACTOR, JUICE AND PULP SEPAPATE DESIGN, PULP COLLECTOR, 7030 FULL COPPER MOTOR, WITH BS PLUG, POWER : 450- 500W","price":"30,000"}
+{"page":17,"model":"PV-J808H","description":"FOOD PROCESSOR 75MM FOOD PROCESSOR, WITH UNBREAKABLE BLENDER JAR, MILL JAR, MINCER JAR AND FILTER, STAINLESS,","price":""}
+{"page":17,"model":"PVKL-SM604B4","description":"SANDWICH/TOASTER 4 SLICES SANDWICH MAKER, WITH STAINLESS STEEL PANEL, POWER AND READY INDICATOR, BLACK COLOUR, POWER: 1400W, BS PLUG","price":"20,000"}
+{"page":17,"model":"PV-SWB830B2","description":"2 SLICES SANDWICH MAKER, TRIANGLE PLATE, INJECTION, BLACK COLOUR, POWER: 750W, BLACK COLOUR, BS PLUG","price":"10,400"}
+PAGE 18 CANDIDATES 8
+{"page":18,"model":"PV-966HTDJ","description":"HOME THEATER DJ SPEAKER HOME THEATER, ELEGANT TOWER DESIGN, Power output 80W x 2 (THD=10%) Speaker driver 12\"x 2 + 3\"x 2 Bluetooth 5.0 wireless connection with TWS 3.5mm AUX audio input jack, USB Port playback/charging Karaoke Mic input MEGA Bass 10 Preset Equalizer and Bass/Treble adjustment","price":"210,000"}
+{"page":18,"model":"PV-98DJ","description":"Full function infraRed Remote Control HOME THEATER SYSTEM, LED DISPLAY, BLUETOOTH,SD CARD READER, MULTI COLOUR, TOP PANEL, PMPO 80,000W, FM, USB, DISCO LIGHT, FULL RANGE 4*4, DUMMY: 4*2, POWER OUTPUT: 100W*2(RMS)","price":"289,000"}
+{"page":18,"model":"PV-2021-5.25WL","description":"SOUND BAR SYSTEM, WIRELESS, HDMI, USB, AUX, BLUETOOTH, WOODEN BLACK, OUTPUT: 35W+10W*2, SPEAKER UNIT: 2*4, SUB: 5.25*1, MATERIAL: WOODEN+ABS+COVERED BLACK, BS","price":""}
+{"page":18,"model":"PV-861-3.1","description":"PLUG, PMPO: 360W HOME THEATRE SYSTEM WITH POWERFUL WOOFER, 3 EXTENDED SPEAKER, FM, RADIO, BLUETOOTH, AUX, WITH SINGLE LIGHT BLUE, PMPO: 36000W, WITH BS PLUG PMPO: 36000W, WITH BS PLUG","price":"65,000"}
+{"page":18,"model":"PV-DST1200AB","description":"ELECTRIC IRON ELECTRIC DRY ION, CLASSIC DESIGN, BLACK COLOUR, NONSTICK SOLEPLATE, POWER:1000- 1200W, CORD LINE: 1.5M, BS PLUG, WITH OVER HEAT PROTECTION","price":""}
+{"page":18,"model":"PV-DST1200BW","description":"ELECTRIC DRY IRON, BLACK AND WHITE IN COLOR, NONSTICK SOLEPLATE, POWER:1000-1200W, CORD LINE: 1.5M, BS PLUG, WITH OVER HEAT PROTECTION","price":""}
+{"page":18,"model":"PV-AC30AMPS","description":"AVS Protect your Equipment from Power Fluctuation 30Amps,160V~250V Air Conditioner guard, Monitor the voltage range","price":"5,000"}
+{"page":18,"model":"PV-FGTV13AMP","description":"13AMPS AUTOMATIC VOLTAGE REGULATOR, Under&Over-voltage protection Surges & Spikes Power-back surges Switch to Fridge using Fridge & chest freezer Switch to TV using Television Fridge/TV/HI-FI Guard","price":"3,200"}
+COUNT 131
+FILE MAXI.pdf PAGES 4
+Warning: TT: undefined function: 21
+PAGE 1 CANDIDATES 30
+{"page":1,"model":"MAXIAC120-16AR","description":"Item List 1 year warranty on all products. View Product Catalogue MAXI AC Humidifies and purifies the air , 3 speeds ,Remote Control ,Wide Oscillation angle , 7 h Timer ,Cool And Effective Airflow In Your Home ,60w.","price":"103,000.00"}
+{"page":1,"model":"MAXI 100 - OC","description":"MAXI Gas Cooker 1 Burner Gas, Table Top Gas , Metal LID Top C,white,black,inox,grey,Copper","price":"15,000.00"}
+{"page":1,"model":"MAXI 400","description":"4 Burner Gas, Table Top Gas , Metal LID Top C,white,black,inox,grey,copper color.","price":"37,800.00"}
+{"page":1,"model":"MAXI 411","description":"4 Burner (3 Gas, 1 Electrical), Table Top Gas Cooker","price":"69,000.00"}
+{"page":1,"model":"MAXI 6060 T-840","description":"60*60 CM4 Burner , Table Top Gas Cooker,Auto Ignition ,Black","price":"137,000.00"}
+{"page":1,"model":"MAXIST50MG4G011","description":"50 CM * 50 CM, 4 GAS BURNERS, BLACK COLOUR,, GLASS.","price":"125,000.00"}
+{"page":1,"model":"MAXI 5050 31 INOX","description":"50 CM * 50 CM, 3 GAS BURNERS, 1 ELECTRICAL, INOX, GLASS, OVEN BURNER UP & DOWN(1 knob control).","price":"179,000.00"}
+{"page":1,"model":"MAXI 5050 4B BASIC BLACK","description":"50 CM * 50 CM, 4 GAS BURNERS, BLACK & GREY COLOUR,OVEN BURNER UP & DOWN(1 knob control), GLASS.","price":"149,000.00"}
+{"page":1,"model":"MAXI 5050 4B IGL INOX","description":"50 CM * 50 CM, 4 GAS BURNERS, SILVER COLOUR, GLASS,IGNITION,OVEN LAMP,OVEN BURNER UP & DOWN(1 knob control) , FOOD PLASTIC CON","price":"177,000.00"}
+{"page":1,"model":"MAXI 6060 4B BLACK","description":"4 GAS BURNERS, BLACK COLOUR, IGNITION BOTTOM , OVEN LAMP ,OVEN BURNER UP & DOWN(1 knob control) GLASS, STAINLESS","price":"189,000.00"}
+{"page":1,"model":"MAXI 60*90(4+2) INOX","description":"60 CM * 90 CM, 4 GAS + 2 ELECTRICAL, GLASS, Stainless, OVEN BURNER UP & DOWN(1 knob control) Ignition bottom , Oven Lamp","price":"425,000.00"}
+{"page":1,"model":"MAXI 6090 (4+2) Black Gray","description":"4 GAS & 2 ELECTRICAL, Black & Gray, GLASS, STAINLESS ,IGNITION BUTTON, TIMER ,OVEN BURNER UP & DOWN(1 knob control)","price":"399,000.00"}
+{"page":1,"model":"MAXI 60*90 (4+2) WOOD","description":"60 CM * 90 CM, 4 GAS + 2 ELECTRICAL, GLASS, Ignition bottom , OVEN BURNER UP & DOWN(1 knob control) Oven Lamp","price":"425,000.00"}
+{"page":1,"model":"MAXI STYLE 60*90 (5B) INOX","description":"60 CM * 90 CM, 5 Gas Burners,Inox,(Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , Mechanical timer ,Oven lamp , OVEN BURNER UP & DOWN(1 knob control) Double Italian designed burner + sparker,Mirror Front Glass","price":"495,000.00"}
+{"page":1,"model":"MAXI STYLE 60*90 (4+2) INOX","description":"60 CM * 90 CM, 4 GAS + 2 ELECTRICAL,INOX, (Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , OVEN BURNER UP & DOWN(1 knob control) , Mechanical timer ,Oven lamp ,Double Italian designed burner + sparker,Mirror Front Glass","price":"495,000.00"}
+{"page":1,"model":"MAXI STYLE 60*90 5B WOOD","description":"60 CM * 90 CM,WOODEN,(Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , OVEN BURNER UP & DOWN(1 knob control) Mechanical timer ,Oven lamp ,Double Italian designed burner + sparker.","price":"495,000.00"}
+{"page":1,"model":"MAXI STYLE 60*90 (4+2) WOOD","description":"60 CM * 90 CM, 4 GAS + 2 ELECTRICAL,WOODEN,(Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , OVEN BURNER UP & DOWN(1 knob control) Mechanical timer ,Oven lamp ,Double Italian designed burner + sparker.","price":"495,000.00"}
+{"page":1,"model":"MAXI60X90K9630DF3SS","description":"Shine Line 90*60,half Inox,5 Pool Full Sabaf Gas Burners 2 Are Sabaf Wok And 1 Mini Wok ,cast Iron Pan Support Multiple,glass Top Lid,triple Glass Oven Door,full Auto Ignition ,Full Ffd,gas Thermostat,ot-4000 Digital Timer,turnspit,single Knob Control,double Turbofan,cooling Fan,lamp,dishwarmer,eva Handle,almira Knobs,-1tray & 1 Grid","price":"575,000.00"}
+{"page":1,"model":"MAXI60X90K9610MF0BB","description":"Premium 90x60 ,Matt Black ,5 Pool Gas Full Sabaf Burners 1 SabafWok,Enamel Pan Support ,Thermometer,,glass Top Lid,,full Buttom Ignition,full Ffd, lamp,Mechani Timer,Gas Thermostat,Single Knob Control ,Sapphire Handle Ikra Plus Knob 1tray & 1 Grid Shine Line 90x60,Top Table is graphite Grey Enamel Rest is Dove Gray ,5 Pool Gas Burners 1 is Sabaf Work ,Cast Iron,","price":"495,000.00"}
+{"page":1,"model":"MAXI60X90FK961MGD","description":"","price":""}
+{"page":1,"model":"5 Gas Burners","description":"","price":""}
+{"page":1,"model":"3 Gas Burners & 1 Electric Heater","description":"","price":""}
+{"page":1,"model":"4 Gas Burner","description":"4 GAS BURNERS, BLACK COLOUR, IGNITION BOTTOM , OVEN LAMP ,OVEN BURNER UP & DOWN(1 knob control)","price":""}
+{"page":1,"model":"2 Burners & 2 Electric","description":"GLASS, STAINLESS","price":"189,000.00"}
+{"page":1,"model":"4 Burners & 2 Electric Heater","description":"","price":""}
+{"page":1,"model":"Fouani Nigeria LTD","description":"","price":""}
+{"page":1,"model":"FATE ROUND ABOUT, UMARU AUDI ROAD.","description":"","price":""}
+{"page":1,"model":"Mobile: +234 810 753 9621","description":"","price":""}
+{"page":1,"model":"E-mail: ilorin@fouani.com","description":"View Product Catalogue","price":""}
+{"page":1,"model":"Website: www.fouani.com","description":"MAXI AC Humidifies and purifies the air , 3 speeds ,Remote Control ,Wide Oscillation angle , 7 h Timer ,Cool And Effective Airflow In Your Home ,60w. MAXI Gas Cooker 1 Burner Gas, Table Top Gas , Metal LID Top C,white,black,inox,grey,Copper 4 Burner Gas, Table Top Gas , Metal LID Top C,white,black,inox,grey,copper color. 4 Burner (3 Gas, 1 Electrical), Table Top Gas Cooker 60*60 CM4 Burner , Table Top Gas Cooker,Auto Ignition ,Black 50 CM * 50 CM, 4 GAS BURNERS, BLACK COLOUR,, GLASS. 50 CM * 50 CM, 3 GAS BURNERS, 1 ELECTRICAL, INOX, GLASS, OVEN BURNER UP & DOWN(1 knob control). 50 CM * 50 CM, 4 GAS BURNERS, BLACK & GREY COLOUR,OVEN BURNER UP & DOWN(1 knob control), GLASS. 50 CM * 50 CM, 4 GAS BURNERS, SILVER COLOUR, GLASS,IGNITION,OVEN LAMP,OVEN BURNER UP & DOWN(1 knob control) , FOOD PLASTIC CON 4 GAS BURNERS, BLACK COLOUR, IGNITION BOTTOM , OVEN LAMP ,OVEN BURNER UP & DOWN(1 knob control) GLASS, STAINLESS 60 CM * 90 CM, 4 GAS + 2 ELECTRICAL, GLASS, Stainless, OVEN BURNER UP & DOWN(1 knob control) Ignition bottom , Oven Lamp 4 GAS & 2 ELECTRICAL, Black & Gray, GLASS, STAINLESS ,IGNITION BUTTON, TIMER ,OVEN BURNER UP & DOWN(1 knob control) 60 CM * 90 CM, 4 GAS + 2 ELECTRICAL, GLASS, Ignition bottom , OVEN BURNER UP & DOWN(1 knob control) Oven Lamp 60 CM * 90 CM, 5 Gas Burners,Inox,(Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , Mechanical timer ,Oven lamp , OVEN BURNER UP & DOWN(1 knob control) Double Italian designed burner + sparker,Mirror Front Glass 60 CM * 90 CM, 4 GAS + 2 ELECTRICAL,INOX, (Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , OVEN BURNER UP & DOWN(1 knob control) , Mechanical timer ,Oven lamp ,Double Italian designed burner + sparker,Mirror Front Glass 60 CM * 90 CM,WOODEN,(Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , OVEN BURNER UP & DOWN(1 knob control) Mechanical timer ,Oven lamp ,Double Italian designed burner + sparker. 60 CM * 90 CM, 4 GAS + 2 ELECTRICAL,WOODEN,(Euro pool gas system),Push knobs ignition : hobs & oven,Top grid and burner cover are Cast iron , OVEN BURNER UP & DOWN(1 knob control) Mechanical timer ,Oven lamp ,Double Italian designed burner + sparker. Shine Line 90*60,half Inox,5 Pool Full Sabaf Gas Burners 2 Are Sabaf Wok And 1 Mini Wok ,cast Iron Pan Support Multiple,glass Top Lid,triple Glass Oven Door,full Auto Ignition ,Full Ffd,gas Thermostat,ot-4000 Digital Timer,turnspit,single Knob Control,double Turbofan,cooling Fan,lamp,dishwarmer,eva Handle,almira Knobs,-1tray & 1 Grid Premium 90x60 ,Matt Black ,5 Pool Gas Full Sabaf Burners 1 SabafWok,Enamel Pan Support ,Thermometer,,glass Top Lid,,full Buttom Ignition,full Ffd, lamp,Mechani Timer,Gas Thermostat,Single Knob Control ,Sapphire Handle Ikra Plus Knob 1tray & 1 Grid Shine Line 90x60,Top Table is graphite Grey Enamel Rest is Dove Gray ,5 Pool Gas Burners 1 is Sabaf Work ,Cast Iron, ,Thermometer,Glass Top ,Liddouble Gas Oven Pure Grey Painted ,full Push Button Ignition ,Full FFD,Single Knob Controls ,Mechanic Timer,Gas Thermostat,Lamp ,Black Oven Cavity ,harmony Knobs,Harmony Handle 1 TRAY& 1 GRID","price":"495,000.00"}
+PAGE 2 CANDIDATES 29
+{"page":2,"model":"MAXI60X90FK962DSS","description":"Shine Line 90x60 ,Half Inox,5 Pool Gas Full Sabaf Burners 2 Are Sabaf Wok,multiple Cast Iron ,Thermometer,,glass Top Lid,double Gas Oven Door With O Frame Stainless,full Auto Ignition,full Ffd,single Knob Controls,digital Timer Ot-3000,gas Thermostat,double Turbofan,cooling Fan,turnspit,lamp,black Oven Cavity ,Mila A Knobs,vera Handle-1tray & 1 Grid Shine Line 90x60 ,Black Shine,5 Pool Gas Full Sabaf Burners 2 Are Sabaf Wok,multiple Cast Iron ,Thermometer,,glass Top","price":"595,000.00"}
+{"page":2,"model":"MAXI60X90FK962DGD","description":"Lid,double Gas Oven Door With O Frame Stainless,full Auto Ignition,full Ffd,single Knob Controls,digital Timer Ot-3000,gas Thermostat,double Turbofan,cooling Fan,turnspit,lamp,black Oven Cavity ,Mila A Knobs,vera Handle-1tray & 1 Grid Shine Line 90x60,Half Inox ,5 Pool Gas Burners 1 is Sabaf Work ,Cast Iron, ,Thermometer,Glass Top ,Liddouble Gas Oven","price":"595,000.00"}
+{"page":2,"model":"MAXI60X90FK961MSS","description":"Pure Grey Painted ,full Push Button Ignition ,Full FFD,Single Knob Controls ,Mechanic Timer,Gas Thermostat,Lamp ,Black Oven Cavity ,harmony Knobs,Harmony Handle 1 TRAY& 1 GRID","price":"495,000.00"}
+{"page":2,"model":"MAXI60X90FK962DSP","description":"Shine Line 90x60 ,Matt Black5 Pool Gas Full Sabaf Burners 2 Are Sabaf Wok,multiple Cast Iron ,Thermometer,,glass Top","price":"595,000.00"}
+{"page":2,"model":"MAXI60X90FK962DBB","description":"Lid,double Gas Oven Door With O Frame Stainless,full Auto Ignition,full Ffd,single Knob Controls,digital Timer Ot-3000,gas Thermostat,double Turbofan,cooling Fan,turnspit,lamp,black Oven Cavity ,Mila A Knobs,vera Handle-1tray & 1 Grid Shine Line 90x60 ,Half Inox,5 Pool Gas Full Sabaf Burners 2 Are Sabaf Wok And 1 Mini Wok ,Multiple Cast Iron ,Glass Top","price":"595,000.00"}
+{"page":2,"model":"MAXI60X90FK963DSS","description":"Lid,triple Gas Oven Door With O Frame Stainless,full Auto Ignition,full Ffd,single Knob Controls,digital Timer Ot-4000,gas Thermostat,double Turbofan,cooling Fan,turnspit,lamp,dishwarmer ,Grey Oven Cavity ,Lenora B Knobs,lenora Handle- 1tray & 1 Grid MAXI INBUILT OVEN","price":"620,000.00"}
+{"page":2,"model":"MAXIOVENQBP7SSD","description":"QB Prime Model ,Stainless Steel Panel -Black Glass Oven Door, 60 cm Electrical Built in Oven, 0+7 Functions, Cooling Fan, Double Glass with low-e inner glass, White Led Display, Pop-up Aria B Onyx Black Light Chrome Coated Knobs- Aria Anodized Magic Silver Handle, 6-level Wire Side Racks, Rottiesserie Kit (Highline), 1 pc of Standart Oven Tray-1 pc. of Baseline Wire Grid, Type G Plug Strafor+Shrink Packaking.","price":"309,000.00"}
+{"page":2,"model":"MAXIBURNERDS201","description":"INBUILT OVEN, BURNER,HOOD DS201-4 gas 60 cm DS Compact Model, Stainless Steel Body Enamel Pan Supports, Flat Enamel Burner Caps Side Control, Remay Burners, FFD, UK Plug.","price":"146,000.00"}
+{"page":2,"model":"MAXIBURNERDS202","description":"","price":"146,000.00"}
+{"page":2,"model":"MAXIMWO20CKE","description":"MAXI MICROWAVE 20 L , BLACK ,MANUAL MANUAL CONTROL,35 MIN KITCHEN TIMER,DEFROST FUNCTION,5 POWER LEVELS","price":"57,000.00"}
+{"page":2,"model":"MAXIGEN EM10","description":"MAXI GENERATOR Generator,1kw / 1.25 kva, Gasoline, oil alret, 100% copper, Manual ,Elegant Design,6 L Fuel Tank","price":"229,000.00"}
+{"page":2,"model":"MAXIGEN 20GM","description":"Generator ,2.0 Kw ,Gasoline,oil alert,100%copper ,Manual,Elegant Designe","price":"215,000.00"}
+{"page":2,"model":"MAXIGEN 25GM","description":"Generator ,2.5 Kw ,Gasoline,oil alert,100%copper ,Manual,Elegant Designe","price":"225,000.00"}
+{"page":2,"model":"MAXI GEN25GKWH","description":"Generator ,2.5 Kw ,Gasoline,oil alert,100%copper ,Elegant Designe","price":"265,000.00"}
+{"page":2,"model":"MAXIGEN EK20","description":"Generator,2kw / 2.5 kva, Gasoline, oil alret, 100% copper,Key Starter15L Fuel Tank,Elegant.","price":"290,000.00"}
+{"page":2,"model":"MAXIGEN EK25","description":"Generator,2kw / 3.1 kva, Gasoline, Battery, oil alret, 100% copper, 15 L Fuel Tank,Wheels ,Handles","price":"375,000.00"}
+{"page":2,"model":"MAXIGEN EK50","description":"Generator with wheel,5kw / 6.2 kva, Gasoline, Battery, oil alret, 100% copper, 25 L Fuel Tank,Wheels,Handles","price":"579,000.00"}
+{"page":2,"model":"MAXIGEN EK65","description":"Generator with wheel,6.5kw / 8.1kva, Gasoline, Battery, oil alret, 100% copper, Wheel, 25 L Fuel Tank","price":"640,000.00"}
+{"page":2,"model":"MAXI GEN15KW","description":"Generato 15,000 KWH, Gasoline, Battery, oil alret, 100% copperl,60 L Fuel Tank,","price":"3,400,000.00"}
+{"page":2,"model":"MAXIGEN 17KW","description":"Generato 17,000 KWH, Gasoline, Battery, oil alret, 100% copperl,60L Fuel Tank,","price":"3,450,000.00"}
+{"page":2,"model":"MAXI WD1663","description":"MAXI Water Dispenser MAXI WATER DISPENSER, BLACK COLOR , 3 FAUCETS(HOT,COLD,NEUTRAL),CABINET","price":"127,700.00"}
+{"page":2,"model":"MAXIWD2382S-B","description":"MAXI WATER DISPENSER, BLACK COLOR , 3 FAUCETS(HOT,COLD,NEUTRAL)CABINET","price":"149,000.00"}
+{"page":2,"model":"MAXIWD2435S-W","description":"MAXI WATER DISPENSER, GREY COLOR , 2 FAUCETS(HOT,COLD,NEUTRAL)CABINET","price":"110,000.00"}
+{"page":2,"model":"MAXIWD1242S","description":"MAXI WATER DISPENSER, BLACK COLOR , 3 FAUCETS(HOT,COLD,NEUTRAL)","price":"95,000.00"}
+{"page":2,"model":"MAXI WD1639S","description":"Bottom loading, 3 Faucets (Hot, Neutral, Cold), double safety device for preventing over heat,High power stainless steel hot water tank,Space saving design, Dark Silver MAXI Dish Washer","price":"178,900.00"}
+{"page":2,"model":"MAXIDW5201M","description":"MAXI DISH WASHER ,SILVER","price":"289,000.00"}
+{"page":2,"model":"MAXI WH 10-20VE","description":"MAXI Water Heater 10 LTR, 2000 Watts, 230 V, 50/60 HZ, 105 Max Temp, Vertical Mounting, 324*324*315 mm","price":"65,000.00"}
+{"page":2,"model":"MAXI WH 15-20VE","description":"15 LTR, 2000 Watts, 230 V, 50/60 HZ, 105 Max Temp, Vertical Mounting, 368*368*340 mm","price":"75,000.00"}
+{"page":2,"model":"MAXI WH 30-20VE","description":"30 LTR, 2000 Watts, 230 V, 50/60 HZ, 105 Max Temp, Vertical Mounting, 368*368*340 mm","price":"99,000.00"}
+PAGE 3 CANDIDATES 44
+{"page":3,"model":"MK-17S30A2","description":"MAXI Home Appliances Electric Kettle,Silver, 1.7L,Fast Boiling System,Easy-To-Use 360° Rotatable Base,Rated Power: 1850-2200W","price":"22,400.00"}
+{"page":3,"model":"MJ-FP60D1","description":"FOOD PROCESSOR,WHITE,Rated Power: 800W,1.5L,Durable All-Copper-Wire Motor,Speed Adjust with Knob Control","price":"65,000.00"}
+{"page":3,"model":"1100PR","description":"contact grill,Non-stick plates,cool toch handle","price":"26,000.00"}
+{"page":3,"model":"MC4025B2","description":"Grill,Black,2000W,Easy Cleaning,Knob Control,","price":"44,000.00"}
+{"page":3,"model":"MT-RP2L22","description":"TOASTER,WHITE,Rated Power: 800 - 950W,Rated Power: 800 - 950W,2 Slice 2 Slot,7° for Browning Control","price":"24,000.00"}
+{"page":3,"model":"MAXITOA2L17W2","description":"Defrost /Reheat/Cancel , 2 Slice,6 settings browning control ,Removable Crumb Tray ,Cord Storage Anti-slip Feet","price":"34,000.00"}
+{"page":3,"model":"FAN 40-17NB","description":"MAXI TABLE FAN ,55W,3 SPEED LEVELS,OSCILATION FUNCTION","price":"34,900.00"}
+{"page":3,"model":"FAN 40-25J","description":"MAXI STANDING FAN 16'' , BLACK,5 BLADES,3SPEEDS SETTING,40W","price":"28,000.00"}
+{"page":3,"model":"FAN650-KFS","description":"MAXI 650MM Industrial Stand Fan,26'',Adjustable Height","price":"83,000.00"}
+{"page":3,"model":"FAN750-KFS","description":"MAXI 750MM Industrial Stand Fan,30'',,Adjustable Height","price":"99,000.00"}
+{"page":3,"model":"FAN30SM-KYS","description":"Industrial Stand Fan,30',Waterproof With Wheels","price":"124,000.00"}
+{"page":3,"model":"FAN45-25MRD","description":"MAXI Stand FAN,RECHARGEABLE,18'' ,9 SPEEDS ,5 BLADES ,BLACK","price":"74,000.00"}
+{"page":3,"model":"FAN 40AC-KYS","description":"MAXI Stand FAN,RECHARGEABLE,16''","price":"64,000.00"}
+{"page":3,"model":"AF40B2CN","description":"MAXI AIR FRYER , Black,Rated Power: 1500W,Capacity: 4L,3D Airflow System,LED Display","price":"54,000.00"}
+{"page":3,"model":"AF50C2TN","description":"MAXI AIR FRYER, 5L,Auto Pause,Easy Cleaning,Black,1400-1600w","price":"42,500.00"}
+{"page":3,"model":"AF85WA2CN","description":"MAXI AIR FRYER , Black,8.5L,DIGITAL LED DISPLAY,LESS OIL,REMOVABLE DRAWER,","price":"79,000.00"}
+{"page":3,"model":"MAXICK2103C-WT","description":"MAXI Induction cocker,2100W,Slim Design,1-3 h Timer Function ,Black","price":"38,000.00"}
+{"page":3,"model":"MAXICK508J-S","description":"Rice Cooker ,Even Heating,Auto Keep Warm ,Anti Over Flow ,Non Stick Coating ,One Pot Meal, Multi use","price":"33,000.00"}
+{"page":3,"model":"MAXICK6929WPB","description":"Electric Pressure Cooker ,70KPA+1000W Large Heating Powe,10 Preset Menus With one Touch Start , 6L ,9 Safety Protection","price":"59,000.00"}
+{"page":3,"model":"MAXIMIXER11JC","description":"MAXI hand mixer, 4 real-sharp blades,strong motor,detachable blade for easy cleaning,","price":"24,000.00"}
+{"page":3,"model":"MAXIMIXER0293A","description":"MAXI Kitchen Mixer 400 Watt","price":"39,900.00"}
+{"page":3,"model":"MAXIBLE2500BS","description":"BLENDER NUTRIBOOM ,900W,INCLUDES 6 ACCESSORIES ,HIGH SUFFICIENCY EXTRACTOR BLADES","price":"45,000.00"}
+{"page":3,"model":"MAXIDH5000-20L","description":"20L,TOCH CONTROL PANEL,2 MODES,WHEELS INCLUDED,TANK CAPACITY 6L,","price":"220,000.00"}
+{"page":3,"model":"MAXI INSTALLATION KIT PLUS-A","description":"Installation Kit USED WITH 1/1.5 HP INVERTER, 1 HP NON INVERTER , PLUG & WIRE","price":"35,000.00"}
+{"page":3,"model":"MAXI INSTALLATION KIT PLUS-B","description":"USED WITH 2 HP INVERTER, 1.5 HP NON INVERTER, PLUG & WIRE","price":"39,000.00"}
+{"page":3,"model":"INSTALLATION KIT 2HP","description":"Original Installation kit for floor standing & SPL AC 2HP, 5 M","price":"36,600.00"}
+{"page":3,"model":"INSTALLATION KIT 3HP+5HP","description":"Original Installation kit for floor standing & SPL AC 2HP, 5 M","price":"46,700.00"}
+{"page":3,"model":"INSTALLATION KIT 8HP","description":"Original Installation kit for floor standing AC 8HP","price":"95,000"}
+{"page":3,"model":"INSTALLATION KIT 10HP","description":"Original Installation kit for floor standing AC 10HP","price":"95,000"}
+{"page":3,"model":"MAXIUPS600DG","description":"MAXI UPS UPS 600VA LED Version","price":"34,000.00"}
+{"page":3,"model":"MAXIUPS800DG","description":"UPS 800VA LED Version","price":"42,000.00"}
+{"page":3,"model":"MAXIUPS12KDG","description":"1.2KVA LED Version","price":"71,000.00"}
+{"page":3,"model":"MAXIUPS2KDG","description":"UPS 2KVA LED Version","price":"103,000.00"}
+{"page":3,"model":"MAXIUPS3KDG","description":"UPS 3KVA LED Version MAXI TV STAND","price":"189,000.00"}
+{"page":3,"model":"MAXITVSTANDSAFIRA135","description":"MAXI TV STAND SAFIRA TV STAND (L:136CM,H:58.5,D:37.5) NATURALE","price":"76,000"}
+{"page":3,"model":"MAXITVSTANDPALADIO","description":"PALADIO TV STAND (L:136CM,H:58.5,D:37.5) OFF WHITE/CINAMOMO","price":"66,000"}
+{"page":3,"model":"MAXITVSTANDRUBI160","description":"RUBI TV STAND, (L:160CM,H:65.5,D:37.5) OFF WHITE/CINAMOMO","price":"73,000"}
+{"page":3,"model":"MAXITVSTANLAZULI136","description":"LAZULI TV STAND (L:136CM,H:63.5,D:36) BLACK MATTE MAXI EXTENSION","price":"78,000"}
+{"page":3,"model":"MAXIEXT1K3-PS","description":"MAXI EXTENSION CORD 3 OUTLET(70 PCS PER CARTON)","price":"6,500"}
+{"page":3,"model":"MAXIEXT1K4-PS","description":"MAXI EXTENSION CORD 4 OUTLET(60 PCS PER CARTON)","price":"7,000"}
+{"page":3,"model":"MAXIEXT4K4-PS","description":"MAXI EXTENSION 4 OUTLET SWITCH(60 PCS PER CARTON)","price":"9,000"}
+{"page":3,"model":"MAXIEXT1K3U3-PS","description":"MAXI EXTENSION 3 OUTLET USB(30 PCS PER CARTON)","price":"11,000"}
+{"page":3,"model":"ACBRACKET","description":"Bracket AC BRACKET, OUTDOOR UNIT.","price":"7,200.00"}
+{"page":3,"model":"BRACKET UNIVERSAL","description":"For 32\" TV","price":"4,600"}
+PAGE 4 CANDIDATES 0
+COUNT 103
+FILE LG.pdf PAGES 3
+Warning: TT: undefined function: 21
+PAGE 1 CANDIDATES 48
+{"page":1,"model":"TV 43LR6000","description":"LG Item List 2 years warranty on all products. View Product Catalogue LG TV 43 LED,AV,3 HDMI,3USB,SMART,BUILT IN SATELLITE RECEIVER,WiFi,Free Bracket","price":"335,000"}
+{"page":1,"model":"TV 50UA73006LA","description":"50\"UHD, AI Processor 4K Smart, HDR 10 Pro ,WebOS , Satellite, AV, 3 HDMI, 1 USB,DTV,MAGIC REMOTE","price":"445,000"}
+{"page":1,"model":"TV 55 UA73006LA","description":"55\"UHD, AI Processor 4K Smart, HDR 10 Pro ,WebOS , Satellite, AV, 3 HDMI, 1 USB,DTV","price":"575,000"}
+{"page":1,"model":"TV 70 UT80006LA","description":"70\"UHD, AI Think 4K Smart, Satellite, AV, 3 HDMI, 2 USB,DTV,Magic Remote","price":"950,000"}
+{"page":1,"model":"TV 86UR76006LC","description":"86\"UHD, AI Think 4K Smart, Satellite, AV, 3 HDMI, 2 USB,DTV,Magic Remote","price":"1,590,000"}
+{"page":1,"model":"TV 98UT90006LA","description":"98\"UHD, AI Think 4K Smart, Satellite, AV, 3 HDMI, 2 USB,DTV,Magic Remote","price":"3,550,000"}
+{"page":1,"model":"TV55 NANO80T6A","description":"55\" NANO, Smart, 3 HDMI, 2 USB, Magic Remote, Satellite","price":"635,000"}
+{"page":1,"model":"TV65 NANO80T6A","description":"65\" NANO, Smart, 3 HDMI, 2 USB, Magic Remote, Satellite","price":"975,000"}
+{"page":1,"model":"TV86 NANO80T6A","description":"86\" NANO, Smart, 3 HDMI, 2 USB, Magic Remote, Satellite","price":"1,995,000"}
+{"page":1,"model":"TV55QNED80A6A","description":"55'' QNED AI PROCESSOR 4 K ,Dynamic QNED C ,3HDMI,2 USB ,","price":"799,000"}
+{"page":1,"model":"TV 83 G56LA","description":"83\" OLED evo + Brightness Booster Max WebOs/Think AI, SMART, 4 HDMI,3 USB, AV,Free Wall Bracket,No Base Stand,2025 new, A11 Ai processor Gen 2,Dolby vision atoms AI search,AI CHATBOT,AI CONCIERGE","price":"5,900,000"}
+{"page":1,"model":"LGTV27ART10AK","description":"27'' 8 modes (Vivid, Standard, Eco, Cinema, Sports, Game, (ISF)Expert(Bright Room), (ISF)Expert(Dark Room)),Mobility - wireless, built-in battery 3 HOURS, 5-wheels,Easy to operate - touch screen, remote controller,˚,α7 Gen4 Processor,2K@60p, 10bit , 1 HDMI","price":"1,400,000"}
+{"page":1,"model":"AUD 72B","description":"Mobility - wireless, built-in battery, 5-wheels Connectivity - NFC, mirroring, Apple AirPlay 2, Apple HomeKit","price":"76,000"}
+{"page":1,"model":"AUD 2S XL","description":"Easy to operate - touch screen, remote controller","price":"185,000"}
+{"page":1,"model":"AUD 44CJ","description":"480 W,CD,Auto DJ,Bluetooth,Xboom,WOOFER,2 SPEAKERS","price":"189,000"}
+{"page":1,"model":"AUD 43NCK","description":"300 W,Bass Blast,Bt,Xboom ,2SPEAKERS","price":"160,000"}
+{"page":1,"model":"AUD 45CJ","description":"720W,XBOOM DJ Sharing,Karaoke Star,Dual Usb,DJ LOOP,,WOOFER,3 SPEAKERS","price":"226,000"}
+{"page":1,"model":"AUD 65CL","description":"950W,XBOOM DJ Sharing,Karaoke Star,Dual Usb,DJ LOOP","price":"275,000"}
+{"page":1,"model":"AUD 87CL","description":"2350W,XBOOM ,Dual Usb,DJ Effect,2 SPEAKERS,Multi Color Lighting , Bass Blast.","price":"375,000"}
+{"page":1,"model":"AUD 98CL","description":"3500W,XBOOM DJ Sharing,Karaoke Star,Dual Usb,DJ LOOP,USB,AUX,Multi Color Lighting,,WOOFER,2 SPEAKERS","price":"750,000"}
+{"page":1,"model":"AUD 5RNC (Pikin)","description":"500W, All In One HiFi System, Xboom, Multi Bluetooth, DJ,Sparkle Lighting,Vocal Effects&Karaoke star.","price":"255,000"}
+{"page":1,"model":"AUD 7RNC (Mama)","description":"1000W, All In One HiFi System, Xboom, RMS,Multi Bluetooth, DJ,Sparkle Lighting,Vocal Effects&Karaoke star.","price":"299,000"}
+{"page":1,"model":"LGAUD301STAGE","description":"60W, 6.5” woofer and 2.5” midranges,AI,Bass boost,voice enahnce,12 hours non stop,Lighting designed to sync with your music.,karaoke optimized, professional stage design","price":"332,000"}
+{"page":1,"model":"AUD 9RNC (Baba)","description":"1800 W, All In One HiFi System, Xboom,RMS,Multi Bluetooth, DJ,Sparkle Lighting,Vocal Effects&Karaoke star.","price":"380,000"}
+{"page":1,"model":"AUD 99CK ( Wahala )","description":"5000W, XBOOM, Rear Light Show,S shiny Woofer, Vocal Effects & Karaoke star, woofer, 2 SPEAKERS","price":"1,180,000"}
+{"page":1,"model":"AUD 4RP","description":"XBOOM 360 , OMNIDIRECTIONAL Sound Portable Wireless Bluetooth Speaker With Mood Lighting","price":"299,000"}
+{"page":1,"model":"AUD 60TS","description":"340W ,3.1CH Sound Bar,Dolby Atoms,BT,Wireless Subwoofer","price":"219,000"}
+{"page":1,"model":"AUD 10TYSG","description":"420W,3.1CH Sound Bar,Dolby atoms,BT,AI anakysis,Streams in stunning HD,Blends with the LG OLED G Series","price":"649,000"}
+{"page":1,"model":"AUD 65TRS","description":"440W,5.1CH Sound Bar,Dolby Atoms, Wirless, Rear surrounded speaker included","price":"269,000"}
+{"page":1,"model":"AUD 10TYSG","description":"420 W,3.1CH Sound Bar,Dolby Atmos,WI-FI Connectivity ,WOW SYNERGY WITH LG TV ,LG OLED EVO ONE WALL DESIGN TV MATCHING","price":"649,000"}
+{"page":1,"model":"AUD 9S-SC","description":"400 W, 3.1.3 Channel ,High R esolution Audio With Dolby Atmos ,Triple Level Spatial Sound With Up-Firing Channels,Dual Type Bracket & Subwoofer Included","price":"660,000"}
+{"page":1,"model":"AUD 2TBK","description":"5W, With powerful bass,water proof & dust proof,10h battery life,voice command","price":"51,000"}
+{"page":1,"model":"LGAUD5-2PBT","description":"","price":"96,500"}
+{"page":1,"model":"AUD BOUNCE","description":"2.1CH, battery 30H lithium battery,passed 7 durability test,IP67 water and dust resistant,AI analysis,","price":"183,000"}
+{"page":1,"model":"AUD GRAB","description":"2.1CH, battery 20H lithium battery,passed 7 durability test,IP67 water and dust resistant,AI analysis,","price":"142,500"}
+{"page":1,"model":"AUD 8TXG","description":"LG XBOOM GO ,Wireless Portable Speaker,60W With Power Bass, Water Proof & Dust Proof,Colorful Mood Lighting ,UP To 15 Hours Battery Life","price":"450,000"}
+{"page":1,"model":"AUD 5XLS","description":"200W,2.1CH, XBOOM,Dynamic pixel lighting & Mutli color Ring lighting, light up the party. 12h of battery life, handle & wheels.","price":"399,000"}
+{"page":1,"model":"AUD 9TXL","description":"LG XBOOM GO ,1000W,Extreme Party Sound,Pixel Art Display,Multi Color Ring Lighting,Easy To Carry ,Mic&Guitar Input.","price":"767,000"}
+{"page":1,"model":"AUD 1D-RK","description":"60 W, USB , AUX , Multi Bluetooth, Black","price":"139,200"}
+{"page":1,"model":"AUD 667HD","description":"600W, 2.2 ch, Body Guard, 2 Speakers,Bluetooth,DVD AUDIO, HDMI, USB","price":"290,000"}
+{"page":1,"model":"AUD 675LHD","description":"1000W, 4.2CH, Body Gaurd, 2 Speakers, Powerful Bass Blast, Bluetooth","price":"299,000"}
+{"page":1,"model":"AUD 687LHD","description":"1250W, 4.2CH, 2 Speakers, Powerful Bass Blast, Bluetooth","price":"339,000"}
+{"page":1,"model":"REF 051 SA","description":"","price":""}
+{"page":1,"model":"Fouani Nigeria LTD","description":"","price":""}
+{"page":1,"model":"FATE ROUND ABOUT, UMARU AUDI ROAD.","description":"","price":""}
+{"page":1,"model":"Mobile: +234 810 753 9621","description":"View Product Catalogue","price":""}
+{"page":1,"model":"E-mail: ilorin@fouani.com","description":"","price":""}
+{"page":1,"model":"Website: www.fouani.com","description":"LG TV 43 LED,AV,3 HDMI,3USB,SMART,BUILT IN SATELLITE RECEIVER,WiFi,Free Bracket 50\"UHD, AI Processor 4K Smart, HDR 10 Pro ,WebOS , Satellite, AV, 3 HDMI, 1 USB,DTV,MAGIC REMOTE 55\"UHD, AI Processor 4K Smart, HDR 10 Pro ,WebOS , Satellite, AV, 3 HDMI, 1 USB,DTV 70\"UHD, AI Think 4K Smart, Satellite, AV, 3 HDMI, 2 USB,DTV,Magic Remote 86\"UHD, AI Think 4K Smart, Satellite, AV, 3 HDMI, 2 USB,DTV,Magic Remote 98\"UHD, AI Think 4K Smart, Satellite, AV, 3 HDMI, 2 USB,DTV,Magic Remote 55\" NANO, Smart, 3 HDMI, 2 USB, Magic Remote, Satellite 65\" NANO, Smart, 3 HDMI, 2 USB, Magic Remote, Satellite 86\" NANO, Smart, 3 HDMI, 2 USB, Magic Remote, Satellite 55'' QNED AI PROCESSOR 4 K ,Dynamic QNED C ,3HDMI,2 USB , 83\" OLED evo + Brightness Booster Max WebOs/Think AI, SMART, 4 HDMI,3 USB, AV,Free Wall Bracket,No Base Stand,2025 new, A11 Ai processor Gen 2,Dolby vision atoms AI search,AI CHATBOT,AI CONCIERGE 27'' 8 modes (Vivid, Standard, Eco, Cinema, Sports, Game, (ISF)Expert(Bright Room), (ISF)Expert(Dark Room)),Mobility - wireless, built-in battery 3 HOURS, 5-wheels,Easy to operate - touch screen, remote controller,˚,α7 Gen4 Processor,2K@60p, 10bit , 1 HDMI Mobility - wireless, built-in battery, 5-wheels Connectivity - NFC, mirroring, Apple AirPlay 2, Apple HomeKit Easy to operate - touch screen, remote controller 480 W,CD,Auto DJ,Bluetooth,Xboom,WOOFER,2 SPEAKERS 300 W,Bass Blast,Bt,Xboom ,2SPEAKERS 720W,XBOOM DJ Sharing,Karaoke Star,Dual Usb,DJ LOOP,,WOOFER,3 SPEAKERS 950W,XBOOM DJ Sharing,Karaoke Star,Dual Usb,DJ LOOP 2350W,XBOOM ,Dual Usb,DJ Effect,2 SPEAKERS,Multi Color Lighting , Bass Blast. 3500W,XBOOM DJ Sharing,Karaoke Star,Dual Usb,DJ LOOP,USB,AUX,Multi Color Lighting,,WOOFER,2 SPEAKERS 500W, All In One HiFi System, Xboom, Multi Bluetooth, DJ,Sparkle Lighting,Vocal Effects&Karaoke star. 1000W, All In One HiFi System, Xboom, RMS,Multi Bluetooth, DJ,Sparkle Lighting,Vocal Effects&Karaoke star. 60W, 6.5” woofer and 2.5” midranges,AI,Bass boost,voice enahnce,12 hours non stop,Lighting designed to sync with your music.,karaoke optimized, professional stage design 1800 W, All In One HiFi System, Xboom,RMS,Multi Bluetooth, DJ,Sparkle Lighting,Vocal Effects&Karaoke star. 5000W, XBOOM, Rear Light Show,S shiny Woofer, Vocal Effects & Karaoke star, woofer, 2 SPEAKERS XBOOM 360 , OMNIDIRECTIONAL Sound Portable Wireless Bluetooth Speaker With Mood Lighting 340W ,3.1CH Sound Bar,Dolby Atoms,BT,Wireless Subwoofer 420W,3.1CH Sound Bar,Dolby atoms,BT,AI anakysis,Streams in stunning HD,Blends with the LG OLED G Series 440W,5.1CH Sound Bar,Dolby Atoms, Wirless, Rear surrounded speaker included 420 W,3.1CH Sound Bar,Dolby Atmos,WI-FI Connectivity ,WOW SYNERGY WITH LG TV ,LG OLED EVO ONE WALL DESIGN TV MATCHING 400 W, 3.1.3 Channel ,High R esolution Audio With Dolby Atmos ,Triple Level Spatial Sound With Up-Firing Channels,Dual Type Bracket & Subwoofer Included 5W, With powerful bass,water proof & dust proof,10h battery life,voice command 2.1CH, battery 30H lithium battery,passed 7 durability test,IP67 water and dust resistant,AI analysis, 2.1CH, battery 20H lithium battery,passed 7 durability test,IP67 water and dust resistant,AI analysis, LG XBOOM GO ,Wireless Portable Speaker,60W With Power Bass, Water Proof & Dust Proof,Colorful Mood Lighting ,UP To 15 Hours Battery Life 200W,2.1CH, XBOOM,Dynamic pixel lighting & Mutli color Ring lighting, light up the party. 12h of battery life, handle & wheels. LG XBOOM GO ,1000W,Extreme Party Sound,Pixel Art Display,Multi Color Ring Lighting,Easy To Carry ,Mic&Guitar Input. 60 W, USB , AUX , Multi Bluetooth, Black 600W, 2.2 ch, Body Guard, 2 Speakers,Bluetooth,DVD AUDIO, HDMI, USB 1000W, 4.2CH, Body Gaurd, 2 Speakers, Powerful Bass Blast, Bluetooth 1250W, 4.2CH, 2 Speakers, Powerful Bass Blast, Bluetooth LG REFRIGERATOR 45L, One door,ICE, Key & lock, Mech Control. Page 1 of 3","price":"165,000"}
+PAGE 2 CANDIDATES 47
+{"page":2,"model":"REF 242 PQGB","description":"263 L,Non Frost ,silver ,10 years warranty on linear comproser , R600, Inverter","price":"480,000"}
+{"page":2,"model":"REF 252 SLBB","description":"260 L,Non Frost ,silver ,10 years warranty on linear comproser , R600, Inverter","price":"470,000"}
+{"page":2,"model":"REF 372PLGB","description":"375 L,Non Frost ,silver ,10 years warranty on linear comproser , R600, Inverter","price":"739,000"}
+{"page":2,"model":"REF 392 PLGB","description":"395 L , vitamin plus,Silver,R600 Gas , Inverter,10 years warranty on linear compressor.","price":"725,000"}
+{"page":2,"model":"REF 502 HLCL C","description":"471 L , vitamin plus,Silver, deodorizer: , LED lamp inside,R600 Gas , Inverter,10 years warranty on linear compressor.","price":"765,000"}
+{"page":2,"model":"REF 502 HLCL T","description":"471 L , vitamin plus,Silver, deodorizer: , LED lamp inside,R600 Gas , Inverter,10 years warranty on linear compressor., Water Dispenser","price":"795,000"}
+{"page":2,"model":"REF 257 KLKW-L","description":"674L,2 DOOR,WATER DISPENSER&ICE MAKER ,SILVER,LINEAR COMPRESSOR","price":"1,499,000"}
+{"page":2,"model":"REF 22FFQPB","description":"570 L, French Door, MoodUP® Refrigerators,Black Color , R600 Gas ,4Doors.","price":"2,050,000"}
+{"page":2,"model":"REF24FDMMB-A","description":"LG 617L, French Door, MoodUP® Refrigerators, Objet Collection, 3 Star,Color Collection(,Music Collection ( Bluetooth Speaker),Door Cooling & Multi Air Flow,Hygiene Fresh,Retractable Shelves","price":"4,800,000"}
+{"page":2,"model":"REF 411 ELDM","description":"1Door,411 L,Silver,Linear Compressor,Water dispenser ,R600 Gas,Refrigerator.","price":"695,000"}
+{"page":2,"model":"FRZ 145BQCF","description":"LG FREEZER 142L,SILVER ,R600 GAS,lock and key","price":"269,000"}
+{"page":2,"model":"LG DW 532DFC-FP","description":"LG DISH WASHER LG QuadWash™ Dishwasher, 14 Place Setting, EasyRack™ Plus, Inverter Direct Drive , A++ Energy Efficiency, SmartThin,Linear Compressor(10 years Warranty)","price":"795,000"}
+{"page":2,"model":"Dryer 80T2SP7RM-RH","description":"LG Dryer Dryer, Silver, 8KG, LED display, Drum light, Low noise, Sensor dry","price":"712,200"}
+{"page":2,"model":"WM 2V3FYP6JE-F","description":"LG WASHING MACHINE Front loader, 9 KG, Direct drive, 10 yrs warranty on Direct Drive motor, 6 Montion ,SILVER COLOUR","price":"540,000"}
+{"page":2,"model":"WM 4V3RYP6JE-F","description":"Front loader, 10.5KG, Direct drive, 10 yrs warranty on Direct Drive motor, 6 Montion ,SILVER COLOUR","price":"590,000"}
+{"page":2,"model":"WASH N DRY","description":"","price":""}
+{"page":2,"model":"WM 2V5FGPYJE","description":"2 in 1 ,Washer (9KG), Dryer (5KG), Direct Drive Motor, Smart,True Steam , Silver","price":"660,900"}
+{"page":2,"model":"WM 4V5RGPYJE","description":"2 in 1 ,Washer (10.5KG), Dryer (7KG), Direct Drive Motor, Smart,True Steam , Silver","price":"750,000"}
+{"page":2,"model":"WM0Z6DRP249","description":"2 in 1 ,Washer (13KG), Dryer (8KG), Direct Drive Motor, Smart,True Steam , Silver","price":"899,000"}
+{"page":2,"model":"WM0Z6DRP24","description":"2 in 1 ,Washer (15KG), Dryer (8KG), Direct Drive Motor, Smart,True Steam ,Dark Silver","price":"999,000"}
+{"page":2,"model":"WM0Z8DRP24","description":"2 in 1 ,Washer (20KG), Dryer (10KG), Direct Drive Motor, Smart,True Steam ,Dark Silver","price":"1,175,000"}
+{"page":2,"model":"WM 1401","description":"Washer, Twin Top, 12 KG, twin Tub","price":"349,000"}
+{"page":2,"model":"WM 1561","description":"Washer, Top loader, 15 KG, twin Tub,Black","price":"359,000"}
+{"page":2,"model":"WM 1861","description":"Washer, Top loader, 16 KG, twin Tub,Middle Black","price":"389,000"}
+{"page":2,"model":"LGWM85S1TDDT2","description":"Top loader 8KG, Full automatic,Silver Color, 36% Energy Saving,Smart Inverter","price":"349,000"}
+{"page":2,"model":"LGWM95S1TDDT2","description":"Top loader 9 KG, Full automatic,Silver Color, 36% Energy Saving,Smart Inverter","price":"418,000"}
+{"page":2,"model":"WM 1185","description":"Top loader 11 KG, Full automatic,White Color, 36% Energy Saving,Smart Inverter","price":"467,500"}
+{"page":2,"model":"WM1385NEHTG-T","description":"Top Loader 13 Kg ,Direct Drive , Linear Comprosser,Turbo Drum, Silver","price":"480,000"}
+{"page":2,"model":"WM 19H3SDHT2","description":"Top Loader 19 Kg ,Direct Drive , Linear Comprosser,Turbo Drum, Silver","price":"616,800"}
+{"page":2,"model":"LG WM 069FDFS","description":"10 KG Comm. Washing Machine, DRUM VOLUME 105.6 L, SPIN SPEED 1150 RPM, WATER CONSUMPTION 45.5 L , Electric Circuit Breaker shall be 3,200 w","price":"2,200,000"}
+{"page":2,"model":"MWO 6535","description":"LG MICROWAVE 25 Liters, Black, Smart Inverter, LED Lamp, Touch Control, Stable Turntable, Grill","price":"190,000"}
+{"page":2,"model":"MWO 8265CIS","description":"42 Liters, Inverter,LED Lamp,Touch Control,Stable Turntable,Anti Bacterial ,Stainless Silver, Grill","price":"215,000"}
+{"page":2,"model":"MWO 8265DIS","description":"42 Liters, Inverter,LED Lamp,Touch Control,Stable Turntable,Anti Bacterial ,Black, Grill","price":"209,000"}
+{"page":2,"model":"SPL 1.0HP STA","description":"LG AC Standard LVS, HVS, R410 GAS, COPPER CONDENSER, (ON/OFF)","price":"264,000"}
+{"page":2,"model":"SPL 1.5HP STA","description":"Standard LVS, HVS, R410 GAS, COPPER CONDENSER, (ON/OFF)","price":"274,000"}
+{"page":2,"model":"SPL 2.0HP STA","description":"Standard LVS, HVS, R410 GAS, COPPER CONDENSER, (ON/OFF)","price":"535,000"}
+{"page":2,"model":"SPL 1.0HP INV","description":"DUAL INVERTER,MORE ENERGY SAVING,FASTER COOLING,QUIETER THAN A WHISPER,R410,COPPER","price":"414,000"}
+{"page":2,"model":"SPL 1.5HP INV","description":"DUAL INVERTER,MORE ENERGY SAVING,FASTER COOLING,QUIETER THAN A WHISPER,R410,COPPER","price":"429,000"}
+{"page":2,"model":"SPL 2.0HP INV","description":"DUAL INVERTER,MORE ENERGY SAVING,FASTER COOLING,QUIETER THAN A WHISPER,R410,COPPER","price":"629,000"}
+{"page":2,"model":"SPL 1.0HPGENCOOL-B","description":"LVS, HVS, R410 GAS, CAN WORK ON 0.7 KVA GEN, COPPER CONDENSER,10 YEARS WARRANTY ON COMPRESSOR.","price":"414,000"}
+{"page":2,"model":"SPL 1.5HPGENCOOL-B","description":"LVS, HVS, R410 GAS, CAN WORK ON 0.9 KVA GEN, COPPER CONDENSER,10YEARS WARRANTY ON COMPRESSOR, YOU CAN USE ONLY 1 HP KIT FOR INSTALLATION","price":"464,000"}
+{"page":2,"model":"SPL 2.0HPGENCOOL-B","description":"LVS, HVS, R410 GAS, CAN WORK ON 1.5 KVA GEN, COPPER CONDENSER,10 YEARS WARRANTY ON COMPRESSOR","price":"729,000"}
+{"page":2,"model":"SPL 2.5HPGENCOOL-B","description":"LVS, HVS, R410 GAS, CAN WORK ON 1.8 KVA GEN, COPPER CONDENSER,10 YEARS WARRANTY ON COMPRESSOR","price":"895,000"}
+{"page":2,"model":"SPL 1.5 HP GEN ARTCOOL MIRROR","description":"Black Mirror , Gencool ,Premium Design,Dual Inverter , Ionizer, WiFi,Can work on 09 Kva Gen","price":"795,000"}
+{"page":2,"model":"SPL 2.0 HP GEN ARTCOOL MIRROR","description":"Black Mirror , Gencool ,Premium Design,Dual Inverter , Ionizer, WiFi,Can work on 1.5 Kva Gen","price":"950,000"}
+{"page":2,"model":"FS 2HP INVERTER","description":"Standing AC, Auto Restart, Inverter, R410 Gas, No Kit,Gencool Type Can Work On 2.5 KVA Generator","price":"1,095,000"}
+{"page":2,"model":"FS 3HP INVERTER","description":"Standing AC, Auto Restart, Inverter, R410 Gas, No Kit,Gencool Type Can Work On 3.5 KVA Generator Page 2 of 3","price":"1,290,000"}
+PAGE 3 CANDIDATES 15
+{"page":3,"model":"FS 5HP INVERTER","description":"Standing AC, Auto Restart, Inverter, R410 Gas, No Kit,Gencool Type Can Work On 6.0 KVA Generator","price":"2,450,000"}
+{"page":3,"model":"FS 10 HP INVERTER","description":"Standing AC, Auto Restart, Inverter, R410 Gas, No Kit","price":"6,500,000"}
+{"page":3,"model":"LGFS2HPN2XA0","description":"2hpStanding AC, Auto cleaning management,ultra fine filter,AI dry+,artificial intelligence smart care,LED display","price":"1,350,000"}
+{"page":3,"model":"FS25N2XA0","description":"2.5hpStanding AC, Auto cleaning management,ultra fine filter,AI dry+,artificial intelligence smart care,LED display","price":"1,490,000"}
+{"page":3,"model":"FS25Q2YB0","description":"2.5hpStanding AC, Minimalist air conditioner completed with digital circle,One-sided wind,(Automatic + Self) Cleaning Management,Digital Circle Design,Smart Care","price":"3,750,000"}
+{"page":3,"model":"CEILING CONC. 22GM1A4(ABNQ22GM1A4)","description":"2HP,OPTIMAL AIR DISTRIBUTION, AUTO RESTART, ANTI BACTERIA FILTER, ANTI CORROSION GOLFD FIN.","price":"1,156,600"}
+{"page":3,"model":"CEILING CONC. 30GM1A4(ABNQ30GM1A4)","description":"3HP,,OPTIMAL AIR DISTRIBUTION, AUTO RESTART, ANTI BACTERIA FILTER, ANTI CORROSION GOLFD FIN.","price":"1,387,800"}
+{"page":3,"model":"CEILING CONC. 48GM1A4(ABNQ50GM1A4)","description":"5 HP,,OPTIMAL AIR DISTRIBUTION, AUTO RESTART, ANTI BACTERIA FILTER, ANTI CORROSION GOLFD FIN.","price":"2,124,400"}
+{"page":3,"model":"CEILING CASSETTE 2.0HP INV","description":"","price":"1,150,000"}
+{"page":3,"model":"CEILING CASSETTE 2.5HP INV","description":"CASSETTE TYPE, SUPER SLIM DESIGN, OPTIMAL AIR DISTRIBUTION, AUTO RESTART, ANTI BACTERIA FILTER, ANTI CORROSION GOLFD FIN, LONG DISTANCE PIPING HIGH ELEVATION MAX 30 M FOR 2HP & 50 M FOR 2.5HP","price":"1,475,000"}
+{"page":3,"model":"CEILING CASSETTE 3HP INV","description":"AND ABOVE,R410 GAS,INVERTER TYPE","price":"1,500,000"}
+{"page":3,"model":"CEILING CASSETTE 5.0HP INV","description":"LG STYLER INSTALLATION KIT (AC UNITS)","price":"1,950,000"}
+{"page":3,"model":"INSTALLATION KIT 3HP&5HP","description":"Original Installation kit for floor standing & SPL AC 3.0HP and 5.0HP, 5 M","price":"46,700"}
+{"page":3,"model":"CEILLING FAN12P-LCF","description":"CEILLING FAN LOW NOISE,NATURAL AIR FLOW,WIFI /VOICE CONTROL ,MOSQUITO AWAY BRACKETS AC BRACKET, OUTDOOR UNIT.","price":"7,200"}
+{"page":3,"model":"BRACKET UNIVERSAL","description":"For 32\" TV Page 3 of 3","price":"6,500"}
+COUNT 110
+FILE HPZ Latest Price Effective  27th  July  2026-1.pdf PAGES 2
+PAGE 1 CANDIDATES 1
+{"page":1,"model":"Refrigerators","description":"HPZ PRODUCTS PRICE ACROSS ALL SALES CHANNELS IN LAGOS, WEST, EAST, MBELT & NORTH REGIONS EFFECTIVE FROM: 27th July, 2026 ITEM EX DEPOT V.A.T DEALER PRICE MODELS REFERENCE PRICE (NAIRA) (NAIRA) (NAIRA) 100112788 HT REF 1 DOOR DCOOL HR- 135BA R6 BLK 194,697.67 14,602.33 209,300.00 100114726 HT REF 1DOOR DCOOL HR-179BA R6 SLV 295,906.98 22,193.02 318,100.00 100111421 HT REF 1DOOR DCOOL HR-185CS R6 SLV 327,720.93 24,579.07 352,300.00 100114727 HT REF 1DOOR DCOOL HR-217BA R6 SLV 330,325.58 24,774.42 355,100.00 100114319 HT REF TMOUNT 2DOOR DCOOL 92CEX R6 SLV 244,465.12 18,334.88 262,800.00 100113176 HT REF TMOUNT 2DOOR DCOOL 95BEX R6 SLV 246,325.58 18,474.42 264,800.00 100114320 HT REF TMOUNT 2DOOR DCOOL 150CEX R6 SLV 286,976.74 21,523.26 308,500.00 100113178 HT REF TMOUNT DD HRF-160BEX R6 SLV 326,697.67 24,502.33 351,200.00 100109180 HT REF TMOUNT DD HRF-185BLUX R6 SLV 380,465.12 28,534.88 409,000.00 100109181 HT REF TMOUNT DD HRF-210BLUX R6 SLV 426,604.65 31,995.35 458,600.00 100109182 HT REF TMOUNT DD HRF-250BLUX R6 SLV 461,116.28 34,583.72 495,700.00 100109183 HT REF TMOUNT DD HRF-320BLUX R6 SLV 536,372.09 40,227.91 576,600.00 100109482 HT REF TMOUNT DD HRF-355BLUX R6 SLV 602,232.56 45,167.44 647,400.00 100113175 HT REF TMOUNT DD HRF-350IBGA R6 BLK 795,534.88 59,665.12 855,200.00 100111585 HT REF TMOUNT DD HRF-420IBGA R6 BLK 831,534.88 62,365.12 893,900.00 100111193 HT REF SxS FFREE HRF-520IBS BLK 1,004,558.14 75,341.86 1,079,900.00 100113243 HT REF SxS FFREE HRF-525SS (NG) R6 SLV 1,272,465.12 95,434.88 1,367,900.00 100109175 HT REF SxS FFREE HRF-540SG6 R6 GRY 1,128,186.05 84,613.95 1,212,800.00 100109176 HT REF SxS FFREE HRF-540WBS R6 BLK 1,185,860.47 88,939.53 1,274,800.00 100109177 HT REF SxS FFREE HRF-619SI(B) R6 BLK 1,539,627.91 115,472.09 1,655,100.00 100115373 HT REF SXS FFREE HRF-580VNFNBL (NG) 1,478,139.53 110,860.47 1,589,000.00 100115281 HT REF SxS FFREE HTF-825 TDBGU3 2,890,046.51 216,753.49 3,106,800.00 100112409 HT FREEZER CHEST SML HTF-100HAS R6 SLV 280,558.14 21,041.86 301,600.00 100114624 HT FREEZER CHEST SML HTF-100HBS SLV 262,511.63 19,688.37 282,200.00 100114625 HT FREEZER CHEST SML HTF-150HBS SLV 302,790.70 22,709.30 325,500.00 100115057 HT FREEZER CHEST SML HTF-150HAS R6 SLV 323,441.86 24,258.14 347,700.00 100115058 HT FREEZER CHEST SML 200 R6 WHT 348,000.00 26,100.00 374,100.00 100114627 HT FREEZER CHEST SML HTF-200HBS SLV 338,232.56 25,367.44 363,600.00 100115059 HT FREEZER CHEST SML HTF-200HAS R6 SLV 368,651.16 27,648.84 396,300.00 100107715 HT FREEZER CHEST LRG HTF-719HB R290 WHT 1,211,534.88 90,865.12 1,302,400.00 100108665 HT FREEZER CHEST MED HTF-219IW R6 WHT 440,372.09 33,027.91 473,400.00 100108666 HT FREEZER CHEST MED HTF-219IS R6 SLV 455,441.86 34,158.14 489,600.00 100108680 HT FREEZER CHEST MED HTF-219TS R6 SLV 550,511.63 41,288.37 591,800.00 100112196 HT FREEZER CHEST MED HTF-319V WHT 563,813.95 42,286.05 606,100.00 100112195 HT FREEZER CHEST MED HTF-319VS SLV 580,558.14 43,541.86 624,100.00 100108681 HT FREEZER CHEST MED HTF-319TS R6 SLV 682,325.58 51,174.42 733,500.00 100112194 HT FREEZER CHEST MED HTF-259V SLV 522,139.53 39,160.47 561,300.00 100108098 HT FREEZER CHEST LRG HTF-379IS R6 SLV 812,930.23 60,969.77 873,900.00 100108682 HT FREEZER CHEST LRG HTF-379TS R6 SLV 855,720.93 64,179.07 919,900.00 100108099 HT FREEZER CHEST LRG HTF-429IS R6 SLV 930,325.58 69,774.42 1,000,100.00 100108100 HT FREEZER CHEST LRG HTF-519IS R6 SLV 1,016,093.02 76,206.98 1,092,300.00 100110030 HT FREEZER UPRIGHT SML HF-180BS R6 SLV 489,488.37 36,711.63 526,200.00 100109408 HT FREEZER UPRIGHT MED HF-250BS R6 SLV 761,302.33 57,097.67 818,400.00 100115033 HT ICE CREAM FREEZER SD - 377L 689,302.33 51,697.67 741,000.00 100115034 HT ICE CREAM FREEZER SD - 517L 894,883.72 67,116.28 962,000.00 100115340 HT BEVERAGE CHILLERS SC-339H 706,976.74 53,023.26 760,000.00 100115342 HT BEVERAGE CHILLERS SC-412H 883,720.93 66,279.07 950,000.00 100112901 HT AC SPLIT 1HP HSU-09CFQE-QW01 WHT 321,302.33 24,097.67 345,400.00 100112902 HT AC SPLIT 1.5HP HSU-12CFQE-QW01 WHT 367,906.98 27,593.02 395,500.00 100112903 HT AC SPLIT 2HP HSU-18CFQE-QW01 WHT 541,116.28 40,583.72 581,700.00 100109646 HT AC SU ENERGY 1HP HSU-09LNEB-03 WHT 405,395.35 30,404.65 435,800.00 100109647 HT AC SU ENERGY 1.5HP HSU-12LNEB-03 WHT 452,186.05 33,913.95 486,100.00 100109648 HT AC SU ENERGY 2HP HSU-18LNEB-03 WHT 652,558.14 48,941.86 701,500.00 100114249 HT AC SU INVERTER 1HP HSU-09CIRM-QW01 405,395.35 30,404.65 435,800.00 100114250 HT AC SU INVERTER 1.5HP HSU-12CIRM-QW01 452,186.05 33,913.95 486,100.00 100114251 HT AC SU INVERTER 2HP HSU-18CIRM-QW01 652,558.14 48,941.86 701,500.00 100113560 HT AC SU ENERGY 1.5HP HSU-12CIFP-SB01 706,976.74 53,023.26 760,000.00 100113561 HT AC SU ENERGY 2HP HSU-18CIFP-SB01 883,720.93 66,279.07 950,000.00 100113470 HT AC FLRU 2HP HPU-18CIXM-SW-01 1,136,000.00 85,200.00 1,221,200.00 100113469 HT AC FLRU 3HP HPU-24CIXM-SW-01 1,274,976.74 95,623.26 1,370,600.00 100112090 HT CAC FLOOR 5HP AP48KC1QRA/1U48NC1Q WHT 2,511,627.91 188,372.09 2,700,000.00 100110285 1U96WS1ERB/ AP96FS1ERA WHT 10HP DC INVERTER 5,209,302.33 390,697.67 5,600,000.00 100008258 HT AC SPLITU INSTALLTN KIT 6.35MM/9.52MM 30,046.51 2,253.49 32,300.00 100008260 HT AC SPLITU INSTALLTN KIT 6.35MM/12.70M 36,093.02 2,706.98 38,800.00","price":"41,100.00"}
+PAGE 2 CANDIDATES 0
+COUNT 1
+FILE product_sell_price_table-1.pdf PAGES 4
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+PAGE 1 CANDIDATES 0
+PAGE 2 CANDIDATES 0
+PAGE 3 CANDIDATES 0
+PAGE 4 CANDIDATES 0
+COUNT 0

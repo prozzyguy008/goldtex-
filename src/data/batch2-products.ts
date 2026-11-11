@@ -7,7 +7,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 32A2N",
-    "name": "32'' led hd tv,2 hdmi, 1 usb divx,1 av ,black,free bracket,sattelite tv.",
+    "name": "32\" HD LED TV",
     "description": "32'' LED HD TV,2 HDMI, 1 USB DIVX,1 AV ,Black,Free Bracket,Sattelite Tv.",
     "specs": [
       "32'' LED HD TV",
@@ -31,7 +31,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 32A2Q",
-    "name": "32'' led fhd tv,2 hdmi, 2 usb divx,1 av ,black,free bracket",
+    "name": "32\" Full HD LED TV",
     "description": "32'' LED FHD TV,2 HDMI, 2 USB DIVX,1 AV ,Black,Free Bracket",
     "specs": [
       "32'' LED FHD TV",
@@ -54,7 +54,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 43A5200",
-    "name": "43'' led hd tv,2 hdmi, 2 usb divx,1 av ,black,free bracket",
+    "name": "43\" HD LED TV",
     "description": "43'' LED HD TV,2 HDMI, 2 USB DIVX,1 AV ,Black,Free Bracket",
     "specs": [
       "43'' LED HD TV",
@@ -77,7 +77,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 32A4Q",
-    "name": "32\" led full hd tv,2 hdmi, 2 usb divx,1 av ,black, smart , wi fi,free bracket",
+    "name": "32\" Full HD Smart LED TV",
     "description": "32\" LED FULL HD TV,2 HDMI, 2 USB DIVX,1 AV ,Black, Smart , WI FI,Free Bracket",
     "specs": [
       "32\" LED FULL HD TV",
@@ -102,7 +102,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 40 A4Q",
-    "name": "40\" led full hd tv,2 hdmi, 2 usb divx,1 av ,black, smart , wi fi.free bracket",
+    "name": "40\" Full HD Smart LED TV",
     "description": "40\" LED FULL HD TV,2 HDMI, 2 USB DIVX,1 AV ,Black, Smart , WI FI.Free Bracket",
     "specs": [
       "40\" LED FULL HD TV",
@@ -126,7 +126,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 43 A4Q",
-    "name": "43\" led full hd tv,2 hdmi, 2 usb divx,1 av ,black, smart , wi fi.free bracket",
+    "name": "43\" Full HD Smart LED TV",
     "description": "43\" LED FULL HD TV,2 HDMI, 2 USB DIVX,1 AV ,Black, Smart , WI FI.Free Bracket",
     "specs": [
       "43\" LED FULL HD TV",
@@ -150,7 +150,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 55A6Q",
-    "name": "55\" uhd 4k smart tv, 3 hdmi, 2 usb, 1 av, free wall bracket,dolby vision hdr,bt,game mode plus,free wall bracket",
+    "name": "55\" 4K Smart LED TV",
     "description": "55\" UHD 4K SMART TV, 3 HDMI, 2 USB, 1 AV, Free Wall Bracket,Dolby Vision HDR,BT,Game Mode Plus,Free Wall Bracket",
     "specs": [
       "55\" UHD 4K SMART TV",
@@ -175,7 +175,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 58A6N",
-    "name": "58\" uhd 4k smart tv, 3 hdmi, 2 usb, 1 av, free wall bracket, wifi, lan,free wall bracket",
+    "name": "58\" 4K Smart LED TV",
     "description": "58\" UHD 4K SMART TV, 3 HDMI, 2 USB, 1 AV, Free Wall Bracket, WIFI, LAN,Free Wall Bracket",
     "specs": [
       "58\" UHD 4K SMART TV",
@@ -200,7 +200,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 65A6Q",
-    "name": "65\" uhd 4k smart tv, 3 hdmi, 2 usb, 1 av, free wall bracket,dolby vision hdr,bt,game mode plus,free wall bracket",
+    "name": "65\" 4K Smart LED TV",
     "description": "65\" UHD 4K SMART TV, 3 HDMI, 2 USB, 1 AV, Free Wall Bracket,Dolby Vision HDR,BT,Game Mode Plus,Free Wall Bracket",
     "specs": [
       "65\" UHD 4K SMART TV",
@@ -225,7 +225,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HISTV55U7QF",
-    "name": "Histv55u7qf",
+    "name": "55\" TV",
     "description": "HISTV55U7QF",
     "specs": [],
     "cost": null,
@@ -241,7 +241,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "TV65U8Q",
-    "name": "Tv65u8q",
+    "name": "65\" TV",
     "description": "TV65U8Q",
     "specs": [],
     "cost": null,
@@ -257,7 +257,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV85U8Q",
-    "name": "85 uled ,vidaa,hi view ai engine,built in subwoofer,4hdmi,2 usb,free wallbracket",
+    "name": "ULED LED TV",
     "description": "85 ULED ,VIDAA,HI VIEW AI ENGINE,BUILT IN SUBWOOFER,4HDMI,2 USB,FREE WALLBRACKET",
     "specs": [
       "85 ULED",
@@ -281,7 +281,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "TV55U6Q",
-    "name": "Pro,3hdmi,2usb,dolby vision iq, multi channel surround,",
+    "name": "55\" TV",
     "description": "Pro,3HDMI,2USB,Dolby Vision IQ, Multi channel surround,",
     "specs": [
       "Pro",
@@ -303,7 +303,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "TV65U6Q",
-    "name": "Tv65u6q",
+    "name": "65\" TV",
     "description": "TV65U6Q",
     "specs": [],
     "cost": null,
@@ -319,7 +319,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 55Q6Q",
-    "name": "55' qled 4k smart tv with quantum dot colour,120 high refrsh rate,3hdmi,2usb,dolby vision iq,voice remote",
+    "name": "55\" QLED 4K Smart LED TV",
     "description": "55' QLED 4K Smart TV With Quantum Dot Colour,120 high refrsh rate,3HDMI,2USB,Dolby Vision IQ,Voice remote",
     "specs": [
       "55' QLED 4K Smart TV With Quantum Dot Colour",
@@ -342,7 +342,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HISTV85U7Q",
-    "name": "Histv85u7q",
+    "name": "85\" TV",
     "description": "HISTV85U7Q",
     "specs": [],
     "cost": null,
@@ -358,7 +358,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 75U8N",
-    "name": "Tv 75u8n",
+    "name": "LED TV",
     "description": "TV 75U8N",
     "specs": [],
     "cost": null,
@@ -374,7 +374,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "HISTV100U7Q",
-    "name": "100uled tv,vidaa voice ,hi-view ai engine,14.4hz game mode pro ,built in subwoofer,4hdmi,2 usb ,",
+    "name": "ULED LED TV",
     "description": "100ULED TV,VIDAA VOICE ,HI-VIEW AI ENGINE,14.4HZ GAME MODE PRO ,BUILT IN SUBWOOFER,4HDMI,2 USB ,",
     "specs": [
       "100ULED TV",
@@ -398,7 +398,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV100Q7QRM",
-    "name": "100' qled 4k smart tv with quantum dot colour,120 high refrsh rate,4hdmi,2usb,dolby vision iq voice remote",
+    "name": "100\" QLED 4K Smart LED TV",
     "description": "100' QLED 4K Smart TV With Quantum Dot Colour,120 high refrsh rate,4HDMI,2USB,Dolby Vision IQ Voice remote",
     "specs": [
       "100' QLED 4K Smart TV With Quantum Dot Colour",
@@ -420,7 +420,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 100UX",
-    "name": "100'' uled x , mini led ,hdr10+ adaptive,imax enhanced ,dolby vision atmos,dtsx",
+    "name": "100\" Mini-LED LED TV",
     "description": "100'' ULED X , MINI LED ,HDR10+ ADAPTIVE,IMAX ENHANCED ,DOLBY VISION ATMOS,dtsx",
     "specs": [
       "100'' ULED X",
@@ -443,7 +443,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 110UX",
-    "name": "110'' uled x , mini led ,hdr10+ adaptive,imax enhanced ,dolby vision atmos,dtsx",
+    "name": "110\" Mini-LED LED TV",
     "description": "110'' ULED X , MINI LED ,HDR10+ ADAPTIVE,IMAX ENHANCED ,DOLBY VISION ATMOS,dtsx",
     "specs": [
       "110'' ULED X",
@@ -466,7 +466,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 116UX",
-    "name": "110'' uled x , mini led ,hdr10+ adaptive,imax enhanced ,dolby vision atmos,dtsx",
+    "name": "110\" Mini-LED LED TV",
     "description": "110'' ULED X , MINI LED ,HDR10+ ADAPTIVE,IMAX ENHANCED ,DOLBY VISION ATMOS,dtsx",
     "specs": [
       "110'' ULED X",
@@ -489,7 +489,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV55S7Q(CANVAS)",
-    "name": "Tv55s7q(canvas)",
+    "name": "Art Mode QLED Smart TV",
     "description": "TV55S7Q(CANVAS)",
     "specs": [],
     "cost": null,
@@ -505,7 +505,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV65S7Q(CANVAS)",
-    "name": "Tv65s7q(canvas)",
+    "name": "Art Mode QLED Smart TV",
     "description": "TV65S7Q(CANVAS)",
     "specs": [],
     "cost": null,
@@ -521,7 +521,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF 045DR",
-    "name": "44 l, frost , low noise, environment-friendly tech , silver",
+    "name": "44L Refrigerator",
     "description": "44 L, Frost , Low Noise, Environment-Friendly Tech , Silver",
     "specs": [
       "44 L",
@@ -543,7 +543,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF 093DR",
-    "name": "90 l, frost , low noise, environment-friendly tech , silver",
+    "name": "90L Refrigerator",
     "description": "90 L, Frost , Low Noise, Environment-Friendly Tech , Silver",
     "specs": [
       "90 L",
@@ -565,7 +565,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "REF 121",
-    "name": "Ref 121",
+    "name": "Refrigerator",
     "description": "REF 121",
     "specs": [],
     "cost": null,
@@ -581,7 +581,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "HISREF20RSDR",
-    "name": "150l, frost , low noise, environment-friendly tech , silver",
+    "name": "150L Refrigerator",
     "description": "150L, Frost , Low Noise, Environment-Friendly Tech , Silver",
     "specs": [
       "150L",
@@ -603,7 +603,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF RS230RSD",
-    "name": "176 l,frost , low noise, environment-friendly tech , silver",
+    "name": "176L Refrigerator",
     "description": "176 L,Frost , Low Noise, Environment-Friendly Tech , Silver",
     "specs": [
       "176 L",
@@ -625,7 +625,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF172DR",
-    "name": "124 l, frost , low noise, environment-friendly tech , silver,r600 gas.",
+    "name": "124L Refrigerator",
     "description": "124 L, Frost , Low Noise, Environment-Friendly Tech , Silver,R600 Gas.",
     "specs": [
       "124 L",
@@ -648,7 +648,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF 66WR",
-    "name": "504 l,no frost , low noise, environment-friendly tech , silver,r600 gas",
+    "name": "504L Refrigerator",
     "description": "504 L,No Frost , Low Noise, Environment-Friendly Tech , Silver,R600 Gas",
     "specs": [
       "504 L",
@@ -671,7 +671,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Water appliances",
     "model": "REF 565 DRI",
-    "name": "535 l,no frost , low noise, environment-friendly tech , silver,r600 gas,water dispenser",
+    "name": "Water Dispenser",
     "description": "535 L,No Frost , Low Noise, Environment-Friendly Tech , Silver,R600 Gas,Water Dispenser",
     "specs": [
       "535 L",
@@ -695,7 +695,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF 54WC",
-    "name": "392 l,no frost , low noise, environment-friendly tech , silver,4 doors ,r600 gas ,",
+    "name": "392L Refrigerator",
     "description": "392 L,No Frost , Low Noise, Environment-Friendly Tech , Silver,4 Doors ,R600 Gas ,",
     "specs": [
       "392 L",
@@ -719,7 +719,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Water appliances",
     "model": "REF 68WCB",
-    "name": "522l,no frost , 4doors,black color ,r600 gas ,water dispenser and ice maker, invertor technology, triple cooling system",
+    "name": "Water Dispenser",
     "description": "522L,No Frost , 4DOORS,Black Color ,R600 Gas ,Water Dispenser and Ice maker, Invertor Technology, Triple Cooling System",
     "specs": [
       "522L",
@@ -744,7 +744,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Water appliances",
     "model": "REF 61WC-RQ",
-    "name": "482l,4 doors, silver color,,dual tech cooling,inverter,,r600 gas ,water dispenser",
+    "name": "Water Dispenser",
     "description": "482L,4 Doors, Silver Color,,Dual Tech Cooling,Inverter,,R600 Gas ,Water Dispenser",
     "specs": [
       "482L",
@@ -768,7 +768,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Water appliances",
     "model": "REF 61WCB-RQ",
-    "name": "482l,4 doors, black color,,dual tech cooling,inverter,,r600 gas ,water dispenser",
+    "name": "Water Dispenser",
     "description": "482L,4 Doors, Black Color,,Dual Tech Cooling,Inverter,,R600 Gas ,Water Dispenser",
     "specs": [
       "482L",
@@ -792,7 +792,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "REF 68WCS",
-    "name": "538 l,frost free , low noise, environment-friendly tech , silver,dispenser,r600 gas ,4 doors",
+    "name": "538L Refrigerator",
     "description": "538 L,Frost Free , Low Noise, Environment-Friendly Tech , Silver,Dispenser,R600 Gas ,4 DOORS",
     "specs": [
       "538 L",
@@ -817,7 +817,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Freezers",
     "model": "FRZ FC 180 SH",
-    "name": "145 l,fast freezer , power indicator function ,silver, r600 gas",
+    "name": "145L Refrigerator",
     "description": "145 L,Fast Freezer , Power Indicator Function ,Silver, R600 Gas",
     "specs": [
       "145 L",
@@ -839,7 +839,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Freezers",
     "model": "FRZ FC 260SH",
-    "name": "198 l,fast freezer , power indicator function ,silver,r600 gas",
+    "name": "198L Refrigerator",
     "description": "198 L,Fast Freezer , Power Indicator Function ,Silver,R600 Gas",
     "specs": [
       "198 L",
@@ -861,7 +861,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Freezers",
     "model": "HIS FC 340SH",
-    "name": "250 l, fast freezer, power indicator function, silver, r600 gas",
+    "name": "250L Refrigerator",
     "description": "250 L, Fast Freezer, Power Indicator Function, Silver, R600 Gas",
     "specs": [
       "250 L",
@@ -883,7 +883,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Freezers",
     "model": "FRZ FC 370SH",
-    "name": "217 l,fast freezer, power indicator function, silver, r600 gas,",
+    "name": "217L Refrigerator",
     "description": "217 L,Fast Freezer, Power Indicator Function, Silver, R600 Gas,",
     "specs": [
       "217 L",
@@ -905,7 +905,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Refrigeration",
     "subcategory": "Freezers",
     "model": "FRZ FC 66DD",
-    "name": "500l,fast freezer , power indicator function ,silver,double door,r600 gas.",
+    "name": "500L Double Door Fridge",
     "description": "500L,Fast Freezer , Power Indicator Function ,Silver,Double Door,R600 Gas.",
     "specs": [
       "500L",
@@ -928,7 +928,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM 6010-WFDJ",
-    "name": "Fl, 6 kg, smart control, silver",
+    "name": "6kg Front Load Washing Machine",
     "description": "FL, 6 KG, Smart Control, Silver",
     "specs": [
       "FL",
@@ -949,7 +949,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM 7012 WFQP",
-    "name": "Fl, 7 kg, smart control, silver, energy saving, rpm 1200,inverter",
+    "name": "7kg Front Load Washing Machine",
     "description": "FL, 7 KG, Smart Control, Silver, Energy Saving, Rpm 1200,Inverter",
     "specs": [
       "FL",
@@ -973,7 +973,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM 8014T-WFQP",
-    "name": "Fl, 8 kg, smart control, silver, energy saving, rpm 1200,inverter",
+    "name": "8kg Front Load Washing Machine",
     "description": "FL, 8 KG, Smart Control, Silver, Energy Saving, Rpm 1200,Inverter",
     "specs": [
       "FL",
@@ -997,7 +997,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM 1043BT-WF3S",
-    "name": "Fl, 10.5 kg, smart control, gray, energy savinf, inverter",
+    "name": "10.5kg Front Load Washing Machine",
     "description": "FL, 10.5 KG, Smart control, Gray, Energy Savinf, Inverter",
     "specs": [
       "FL",
@@ -1020,7 +1020,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WF 7S1247BB",
-    "name": "Fl, 12 kg, smart control, black, energy saving, rpm 1200,inverter,smart control,energy monitoring",
+    "name": "12kg Front Load Washing Machine",
     "description": "FL, 12 KG, Smart Control, Black, Energy Saving, Rpm 1200,Inverter,Smart Control,Energy Monitoring",
     "specs": [
       "FL",
@@ -1045,7 +1045,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WF 5S1243BT",
-    "name": "Fl, 12 kg, smart control, black, energy saving, rpm 1200,inverter,connect life , steam",
+    "name": "12kg Front Load Washing Machine",
     "description": "FL, 12 KG, Smart Control, Black, Energy Saving, Rpm 1200,Inverter,Connect Life , Steam",
     "specs": [
       "FL",
@@ -1070,7 +1070,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Laundry",
     "subcategory": "Laundry",
     "model": "WD 3S8043BT",
-    "name": "Fl, wash 8 kg, dryer 5 kg, silver color, inverter motor smart control, rpm 1400motor,connect life",
+    "name": "8kg Inverter Washing Machine",
     "description": "FL, WASH 8 KG, DRYER 5 KG, Silver Color, Inverter Motor Smart Control, Rpm 1400Motor,CONNECT LIFE",
     "specs": [
       "FL",
@@ -1094,7 +1094,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Laundry",
     "subcategory": "Laundry",
     "model": "WM 1043BT-WD3S",
-    "name": "Fl, wash 10.5 kg, dryer 6kg, silver color, inverter motor smart control, rpm 1400motor",
+    "name": "10.5kg Inverter Washing Machine",
     "description": "FL, WASH 10.5 KG, DRYER 6KG, Silver Color, Inverter Motor Smart Control, Rpm 1400Motor",
     "specs": [
       "FL",
@@ -1117,7 +1117,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Laundry",
     "subcategory": "Laundry",
     "model": "WM 5S1245BB-WD",
-    "name": "Fl, wash 12 kg, dryer 8 kg,black color, smart inverter motor",
+    "name": "12kg Inverter Washing Machine",
     "description": "FL, Wash 12 KG, Dryer 8 KG,Black Color, Smart Inverter Motor",
     "specs": [
       "FL",
@@ -1139,7 +1139,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM WSPA 503",
-    "name": "5 kg , twin tub, classical design, lint filter ,white color.",
+    "name": "5 Kg",
     "description": "5 KG , Twin Tub, Classical Design, Lint Filter ,White Color.",
     "specs": [
       "5 KG",
@@ -1161,7 +1161,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM WSQB 753",
-    "name": "7.5 kg , twin tub, classical design, lint filter ,white color.",
+    "name": "7.5 Kg , Twin Tub, Classical Design, Lint Fil",
     "description": "7.5 KG , Twin Tub, Classical Design, Lint Filter ,White Color.",
     "specs": [
       "7.5 KG",
@@ -1183,7 +1183,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM WSRB 113",
-    "name": "11 kg , twin tub, classical design, lint filter ,white color.",
+    "name": "11 Kg",
     "description": "11 KG , Twin Tub, Classical Design, Lint Filter ,White Color.",
     "specs": [
       "11 KG",
@@ -1205,7 +1205,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM3K9022UBWT",
-    "name": "Top load, 9 kg, smart control, titanium gray colour, 10 level water selection,bubble clean",
+    "name": "9kg Washing Machine",
     "description": "Top Load, 9 KG, Smart Control, Titanium Gray Colour, 10 Level Water Selection,Bubble Clean",
     "specs": [
       "Top Load",
@@ -1228,7 +1228,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM 1402T-WTJA",
-    "name": "Top load, 14 kg, smart control, titanium gray colour, 10 level water selection,bubble clean",
+    "name": "14kg Washing Machine",
     "description": "Top Load, 14 KG, Smart Control, Titanium Gray Colour, 10 Level Water Selection,Bubble Clean",
     "specs": [
       "Top Load",
@@ -1251,7 +1251,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HISWM3W1422UBWT",
-    "name": "Top load, 14kg, smart control, 8 level water selection, black colour, 8 level water selection",
+    "name": "14kg Washing Machine",
     "description": "Top Load, 14KG, Smart Control, 8 Level Water Selection, Black Colour, 8 Level Water Selection",
     "specs": [
       "Top Load",
@@ -1274,7 +1274,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HISWM5I2023DBWT",
-    "name": "Top load, 20kg, smart control, 8 level water selection, black colour, 8 level water selection",
+    "name": "20kg Washing Machine",
     "description": "Top Load, 20KG, Smart Control, 8 Level Water Selection, Black Colour, 8 Level Water Selection",
     "specs": [
       "Top Load",
@@ -1297,7 +1297,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Laundry",
     "subcategory": "Laundry",
     "model": "DRYER7S107BB",
-    "name": "Dryer,10kg,connect life,heat pump,ion refresh,black",
+    "name": "Tumble Dryer",
     "description": "DRYER,10KG,CONNECT LIFE,HEAT PUMP,ION REFRESH,BLACK",
     "specs": [
       "DRYER",
@@ -1320,7 +1320,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1.0HP Copper-TG",
-    "name": "Copper condenser, super cooling gold fin",
+    "name": "Copper Condenser",
     "description": "Copper Condenser, Super Cooling Gold Fin",
     "specs": [
       "Copper Condenser",
@@ -1339,7 +1339,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1.5HP Copper-TG",
-    "name": "Copper condenser, super cooling gold fin",
+    "name": "Copper Condenser",
     "description": "Copper Condenser, Super Cooling Gold Fin",
     "specs": [
       "Copper Condenser",
@@ -1358,7 +1358,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 2 HP Copper-TG",
-    "name": "Copper condenser, super cooling gold fin",
+    "name": "Copper Condenser",
     "description": "Copper Condenser, Super Cooling Gold Fin",
     "specs": [
       "Copper Condenser",
@@ -1377,7 +1377,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1HP Copper Inv-DK",
-    "name": "Copper condenser, super cooling gold fin ,r410 gas ,inverter , white",
+    "name": "Copper Condenser",
     "description": "Copper Condenser, Super Cooling Gold Fin ,R410 Gas ,Inverter , White",
     "specs": [
       "Copper Condenser",
@@ -1399,7 +1399,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1.5 HP Copper Inv-DK",
-    "name": "Copper condenser, super cooling gold fin ,r410 gas ,inverter , white",
+    "name": "Copper Condenser",
     "description": "Copper Condenser, Super Cooling Gold Fin ,R410 Gas ,Inverter , White",
     "specs": [
       "Copper Condenser",
@@ -1421,7 +1421,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 2HP Copper Inv-DK",
-    "name": "Copper condenser, super cooling gold fin ,r410 gas ,inverter , white",
+    "name": "Copper Condenser",
     "description": "Copper Condenser, Super Cooling Gold Fin ,R410 Gas ,Inverter , White",
     "specs": [
       "Copper Condenser",
@@ -1443,7 +1443,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL1.5 HP QH INVERTER",
-    "name": "Spl1.5 hp qh inverter",
+    "name": "Spl1",
     "description": "SPL1.5 HP QH INVERTER",
     "specs": [],
     "cost": null,
@@ -1459,7 +1459,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "(AS12QH)",
-    "name": "(as12qh)",
+    "name": "(As12qh)",
     "description": "(AS12QH)",
     "specs": [],
     "cost": null,
@@ -1475,7 +1475,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "PAC 1.5HP",
-    "name": "Portable ac,r410a,27 kg net weight,size 480*380*890 mm .",
+    "name": "Split AC",
     "description": "Portable AC,R410A,27 KG Net Weight,Size 480*380*890 mm .",
     "specs": [
       "Portable AC",
@@ -1496,7 +1496,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "FS 2.0HP",
-    "name": "10 meters air flow, supper cooling , gold fin, can be used only with split 1.5/2 hp kit",
+    "name": "2HP Split AC",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin, Can Be Used Only With Split 1.5/2 HP Kit",
     "specs": [
       "10 Meters Air Flow",
@@ -1517,7 +1517,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 3.0HP",
-    "name": "10 meters air flow, supper cooling , gold fin",
+    "name": "10 Meters Air Flow",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin",
     "specs": [
       "10 Meters Air Flow",
@@ -1537,7 +1537,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 2.0HP INV",
-    "name": "10 meters air flow, supper cooling , gold fin,inverter",
+    "name": "10 Meters Air Flow",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin,Inverter",
     "specs": [
       "10 Meters Air Flow",
@@ -1558,7 +1558,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 3.0HP INV",
-    "name": "10 meters air flow, supper cooling , gold fin,inverter",
+    "name": "10 Meters Air Flow",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin,Inverter",
     "specs": [
       "10 Meters Air Flow",
@@ -1579,7 +1579,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 5.5 HP INV",
-    "name": "Supper cooling , gold fin, inverter r410 gas , white color,1 year warranty ,",
+    "name": "Supper Cooling",
     "description": "Supper Cooling , Gold Fin, Inverter R410 Gas , White Color,1 Year Warranty ,",
     "specs": [
       "Supper Cooling",
@@ -1601,7 +1601,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "HIS CEIL 2.0HP",
-    "name": "R410 gas , 18,000 btu ,wireless remote ,white color ,long distance piping high elevation max 20 m",
+    "name": "18000 BTU Split AC",
     "description": "R410 Gas , 18,000 Btu ,Wireless Remote ,White Color ,LONG DISTANCE PIPING HIGH ELEVATION MAX 20 M",
     "specs": [
       "R410 Gas",
@@ -1624,7 +1624,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "HIS CEIL 2.5HP",
-    "name": "R410 gas , 24,225 btu ,wireless remote ,white color .long distance piping high elevation max 20 m",
+    "name": "24225 BTU Split AC",
     "description": "R410 Gas , 24,225 Btu ,Wireless Remote ,White Color .Long Distance Piping High Elevation Max 20 M",
     "specs": [
       "R410 Gas",
@@ -1646,7 +1646,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Cassette",
     "model": "HIS CEIL 5.0HP",
-    "name": "Cassette type ,r410gas , 47,597btu ,wireless remote ,white color .",
+    "name": "47597 BTU Split AC",
     "description": "Cassette Type ,R410Gas , 47,597Btu ,Wireless Remote ,White Color .",
     "specs": [
       "Cassette Type",
@@ -1669,7 +1669,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS CEIL CONC 2 HP",
-    "name": "2 hp ceilling conceiled , r410 gas,white color",
+    "name": "2 Hp Ceilling Conceiled",
     "description": "2 HP Ceilling Conceiled , R410 Gas,White Color",
     "specs": [
       "2 HP Ceilling Conceiled",
@@ -1689,7 +1689,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS CEIL CONC 2.5 HP INV",
-    "name": "2.5 hp ceilling conceiled ,inverter , r410 gas,white color,inverter",
+    "name": "2.5 Hp Ceilling Conceiled ,Inverter , R410 Ga",
     "description": "2.5 HP Ceilling Conceiled ,Inverter , R410 Gas,White Color,Inverter",
     "specs": [
       "2.5 HP Ceilling Conceiled",
@@ -1711,7 +1711,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HISAF06AFGY1S1",
-    "name": "5.2l,metal interior,7 auto cooking menu,large touch display,black.",
+    "name": "5.2l,Metal Interior,7 Auto Cooking Menu,Large",
     "description": "5.2L,metal interior,7 auto cooking menu,large touch display,black.",
     "specs": [
       "5.2L",
@@ -1733,7 +1733,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS ICM1263",
-    "name": "120,w,12 kg of ice daily ,s&l ice cubes , quick delivery ,white,water tank capacity 1000 ml, 9pcs/7mins",
+    "name": "120",
     "description": "120,W,12 KG Of Ice Daily ,S&L Ice Cubes , Quick Delivery ,White,Water Tank Capacity 1000 ml, 9pcs/7mins",
     "specs": [
       "120",
@@ -1758,7 +1758,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS ICM 9000",
-    "name": "His icemaker 45kg commercial",
+    "name": "His Icemaker 45kg Commercial",
     "description": "HIS ICEMAKER 45KG COMMERCIAL",
     "specs": [
       "HIS ICEMAKER 45KG COMMERCIAL"
@@ -1776,7 +1776,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWO 20MOBS10-H",
-    "name": "20l, black color,digital,mechanical control, defrost function, 6 power levels.",
+    "name": "20l",
     "description": "20L, Black Color,Digital,Mechanical control, Defrost Function, 6 Power Levels.",
     "specs": [
       "20L",
@@ -1799,7 +1799,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWO 20MOMS10-H",
-    "name": "20l, silver mirror color, manual",
+    "name": "20l",
     "description": "20L, Silver Mirror Color, Manual",
     "specs": [
       "20L",
@@ -1835,7 +1835,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Laundry",
     "subcategory": "Laundry",
     "model": "WASH & DRY",
-    "name": "Wash & dry",
+    "name": "Washing Machine",
     "description": "WASH & DRY",
     "specs": [],
     "cost": null,
@@ -1867,7 +1867,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWO4211DSVG-HMMG",
-    "name": "42l,led display,black ,with crispy grill technology,10 mwo power levels .",
+    "name": "Electric Grill",
     "description": "42L,LED Display,Black ,With Crispy Grill Technology,10 MWO Power levels .",
     "specs": [
       "42L",
@@ -1889,7 +1889,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "HISGRILL701GCW",
-    "name": "Sandwich maker,compact size,cool touch handle,power light indicating the power status",
+    "name": "Sandwich Maker",
     "description": "sandwich maker,compact size,cool touch handle,power light indicating the power status",
     "specs": [
       "sandwich maker",
@@ -1910,7 +1910,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "HISGRILL181CG01",
-    "name": "Hisgrill181cg01",
+    "name": "Electric Grill",
     "description": "HISGRILL181CG01",
     "specs": [],
     "cost": null,
@@ -1926,7 +1926,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "AUD 205G",
-    "name": "Sound bar, 2.0 ch, hdmi, bluetooth, optical input, aux ,usb,dolby aud, 120 watts. wall mountable",
+    "name": "Sound Bar",
     "description": "Sound Bar, 2.0 Ch, HDMI, Bluetooth, Optical Input, AUX ,USB,Dolby AUD, 120 Watts. Wall Mountable",
     "specs": [
       "Sound Bar",
@@ -1951,7 +1951,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "AUD 218",
-    "name": "Sound bar, 2.0 ch, hdmi, bluetooth, optical input, aux ,usb, 200watts. wall mountable",
+    "name": "Sound Bar",
     "description": "Sound Bar, 2.0 Ch, HDMI, Bluetooth, Optical Input, AUX ,USB, 200Watts. Wall Mountable",
     "specs": [
       "Sound Bar",
@@ -1976,7 +1976,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "AUD 2107G",
-    "name": "Sound bar, 2.1 ch, hdmi, bluetooth, optical input, aux ,usb,300 watts, wall bracket.",
+    "name": "Sound Bar",
     "description": "Sound Bar, 2.1 Ch, HDMI, Bluetooth, Optical Input, AUX ,USB,300 Watts, Wall Bracket.",
     "specs": [
       "Sound Bar",
@@ -2001,7 +2001,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "AUD 3120-AX",
-    "name": "Sound bar, 3.1.2 ch, hdmi, bluetooth, optical input, aux ,usb,360 watts, wall bracket.",
+    "name": "Sound Bar",
     "description": "Sound Bar, 3.1.2 Ch, HDMI, Bluetooth, Optical Input, AUX ,USB,360 Watts, Wall Bracket.",
     "specs": [
       "Sound Bar",
@@ -2026,7 +2026,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "AUD 3120G-U",
-    "name": "Sound bar,3.1 ch,uline hdmi, bluetooth, optical input, aux ,usb,420 watts",
+    "name": "Sound Bar",
     "description": "Sound bar,3.1 Ch,ULINE HDMI, Bluetooth, Optical Input, AUX ,USB,420 Watts",
     "specs": [
       "Sound bar",
@@ -2051,7 +2051,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "AUD 3120G-AX",
-    "name": "Sound bar, 3.1.2 ch, hdmi, bluetooth, optical input, aux ,usb,420 watts, wall bracket.",
+    "name": "Sound Bar",
     "description": "Sound Bar, 3.1.2 Ch, HDMI, Bluetooth, Optical Input, AUX ,USB,420 Watts, Wall Bracket.",
     "specs": [
       "Sound Bar",
@@ -2076,7 +2076,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "HISAUD3100Q-AX",
-    "name": "Sound bar, 3.1.2ch,dolby atoms,6.5wireless subwoofer,hdmi, bluetooth, aux ,usb, 500watts",
+    "name": "Sound Bar",
     "description": "Sound Bar, 3.1.2Ch,Dolby atoms,6.5Wireless subwoofer,HDMI, Bluetooth, AUX ,USB, 500Watts",
     "specs": [
       "Sound Bar",
@@ -2101,7 +2101,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "AUD 5140Q-AX",
-    "name": "Aud 5140q-ax",
+    "name": "Aud 5140q-Ax",
     "description": "AUD 5140Q-AX",
     "specs": [],
     "cost": null,
@@ -2117,7 +2117,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "AUD 120HA",
-    "name": "Mini hifi, bluetooth, usb, 50watts, 4woofer *2,led display",
+    "name": "Hi-Fi System",
     "description": "Mini HiFi, Bluetooth, USB, 50Watts, 4woofer *2,LED Display",
     "specs": [
       "Mini HiFi",
@@ -2140,7 +2140,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "AUD 300HP",
-    "name": "All in one ,400 max audio power ,rich bass,8lights mode ,pair play ,karaoke mode,stereo sound ,crisp highs",
+    "name": "Party Speaker",
     "description": "All In One ,400 Max Audio Power ,Rich Bass,8Lights Mode ,Pair Play ,Karaoke Mode,Stereo Sound ,Crisp Highs",
     "specs": [
       "All In One",
@@ -2165,7 +2165,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "AUD SATURN",
-    "name": "Aud saturn",
+    "name": "Aud Saturn",
     "description": "AUD SATURN",
     "specs": [],
     "cost": null,
@@ -2181,7 +2181,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 32D2N",
-    "name": "32'' led hd tv,3 hdmi, 2 usb,1 av ,black,free bracket",
+    "name": "32\" HD LED TV",
     "description": "32'' LED HD TV,3 HDMI, 2 USB,1 AV ,Black,Free Bracket",
     "specs": [
       "32'' LED HD TV",
@@ -2204,7 +2204,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 43D3N",
-    "name": "43'' led hd tv,3 hdmi, 2 usb,1 av ,black,free bracket",
+    "name": "43\" HD LED TV",
     "description": "43'' LED HD TV,3 HDMI, 2 USB,1 AV ,Black,Free Bracket",
     "specs": [
       "43'' LED HD TV",
@@ -2227,7 +2227,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 32D4N",
-    "name": "32'' led hd tv,3 hdmi, 2 usb divx,1 av ,black,free bracket",
+    "name": "32\" HD LED TV",
     "description": "32'' LED HD TV,3 HDMI, 2 USB DIVX,1 AV ,Black,Free Bracket",
     "specs": [
       "32'' LED HD TV",
@@ -2250,7 +2250,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "TV 43D4N",
-    "name": "43'' led hd tv,3 hdmi, 2 usb divx,1 av ,black,free bracket",
+    "name": "43\" HD LED TV",
     "description": "43'' LED HD TV,3 HDMI, 2 USB DIVX,1 AV ,Black,Free Bracket",
     "specs": [
       "43'' LED HD TV",
@@ -2273,7 +2273,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "100107861",
-    "name": "Tec ckr tbl 2hob tgc-2ga glass duo",
+    "name": "Gas Hob",
     "description": "TEC CKR TBL 2HOB TGC-2GA GLASS DUO",
     "specs": [
       "TEC CKR TBL 2HOB TGC-2GA GLASS DUO"
@@ -2291,7 +2291,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "100107863",
-    "name": "Tec ckr tbl 2hob tgc-2sa stainless duo",
+    "name": "Gas Hob",
     "description": "TEC CKR TBL 2HOB TGC-2SA STAINLESS DUO",
     "specs": [
       "TEC CKR TBL 2HOB TGC-2SA STAINLESS DUO"
@@ -2309,7 +2309,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "100107864",
-    "name": "Tec ckr tbl 2hob tgc-2ta teflon duo",
+    "name": "Gas Hob",
     "description": "TEC CKR TBL 2HOB TGC-2TA TEFLON DUO",
     "specs": [
       "TEC CKR TBL 2HOB TGC-2TA TEFLON DUO"
@@ -2327,7 +2327,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100107259",
-    "name": "Tec ckr std-g my lady 504g og-4540 inx",
+    "name": "Standing Cooker",
     "description": "TEC CKR STD-G MY LADY 504G OG-4540 INX",
     "specs": [
       "TEC CKR STD-G MY LADY 504G OG-4540 INX"
@@ -2345,7 +2345,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100107260",
-    "name": "Tec ckr std-g my lady 503g1e og-4531 inx",
+    "name": "Standing Cooker",
     "description": "TEC CKR STD-G MY LADY 503G1E OG-4531 INX",
     "specs": [
       "TEC CKR STD-G MY LADY 503G1E OG-4531 INX"
@@ -2363,7 +2363,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100107262",
-    "name": "Tec ckr std-g my diva 604g og-6840 inx",
+    "name": "Standing Cooker",
     "description": "TEC CKR STD-G MY DIVA 604G OG-6840 INX",
     "specs": [
       "TEC CKR STD-G MY DIVA 604G OG-6840 INX"
@@ -2381,7 +2381,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100107326",
-    "name": "Tec ckr std-g d madame 905g og-9850 inx",
+    "name": "Standing Cooker",
     "description": "TEC CKR STD-G D MADAME 905G OG-9850 INX",
     "specs": [
       "TEC CKR STD-G D MADAME 905G OG-9850 INX"
@@ -2399,7 +2399,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100107327",
-    "name": "Tec ckr std d madame 904g1e og-9841 inx",
+    "name": "Standing Cooker",
     "description": "TEC CKR STD D MADAME 904G1E OG-9841 INX",
     "specs": [
       "TEC CKR STD D MADAME 904G1E OG-9841 INX"
@@ -2417,7 +2417,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100109360",
-    "name": "Tec gen ptr sml bobo 2800ms 2.5kva/2.0kw",
+    "name": "2.5kVA Generator",
     "description": "TEC GEN PTR SML BOBO 2800MS 2.5kVA/2.0kW",
     "specs": [
       "TEC GEN PTR SML BOBO 2800MS 2.5kVA/2.0kW"
@@ -2435,7 +2435,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100109363",
-    "name": "Tec gen ptr med hstl4000es 3.75kva/3.0kw",
+    "name": "3.75kVA Generator",
     "description": "TEC GEN PTR MED HSTL4000ES 3.75kVA/3.0kW",
     "specs": [
       "TEC GEN PTR MED HSTL4000ES 3.75kVA/3.0kW"
@@ -2453,7 +2453,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100109364",
-    "name": "Tec gen ptr med hstl4800es 4.15kva/3.3kw",
+    "name": "4.15kVA Generator",
     "description": "TEC GEN PTR MED HSTL4800ES 4.15kVA/3.3kW",
     "specs": [
       "TEC GEN PTR MED HSTL4800ES 4.15kVA/3.3kW"
@@ -2471,7 +2471,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100109368",
-    "name": "Tec gen ptr lrg igwe 8500es 7.5kva/6.0kw",
+    "name": "7.5kVA Generator",
     "description": "TEC GEN PTR LRG IGWE 8500ES 7.5kVA/6.0kW",
     "specs": [
       "TEC GEN PTR LRG IGWE 8500ES 7.5kVA/6.0kW"
@@ -2489,7 +2489,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100109370",
-    "name": "Tec gen ptr lrg ult12000rs 10.0kva/8.0kw 1,448,372.09",
+    "name": "10.0kVA Generator",
     "description": "TEC GEN PTR LRG ULT12000RS 10.0kVA/8.0kW 1,448,372.09",
     "specs": [
       "TEC GEN PTR LRG ULT12000RS 10.0kVA/8.0kW 1",
@@ -2509,7 +2509,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114111",
-    "name": "Tec gen spare engine hustler4000es",
+    "name": "Tec Gen Spare Engine Hustler4000es",
     "description": "TEC GEN SPARE ENGINE HUSTLER4000ES",
     "specs": [
       "TEC GEN SPARE ENGINE HUSTLER4000ES"
@@ -2527,7 +2527,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114112",
-    "name": "Tec gen spare engine hustler4800es",
+    "name": "Tec Gen Spare Engine Hustler4800es",
     "description": "TEC GEN SPARE ENGINE HUSTLER4800ES",
     "specs": [
       "TEC GEN SPARE ENGINE HUSTLER4800ES"
@@ -2545,7 +2545,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114113",
-    "name": "Tec gen spare engine igwe8500es",
+    "name": "Tec Gen Spare Engine Igwe8500es",
     "description": "TEC GEN SPARE ENGINE IGWE8500ES",
     "specs": [
       "TEC GEN SPARE ENGINE IGWE8500ES"
@@ -2563,7 +2563,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114114",
-    "name": "Tec gen spare engine ultimate12000rs",
+    "name": "Tec Gen Spare Engine Ultimate12000rs",
     "description": "TEC GEN SPARE ENGINE ULTIMATE12000RS",
     "specs": [
       "TEC GEN SPARE ENGINE ULTIMATE12000RS"
@@ -2581,7 +2581,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114115",
-    "name": "Tec gen spare alternator hustler4000es",
+    "name": "Tec Gen Spare Alternator Hustler4000es",
     "description": "TEC GEN SPARE ALTERNATOR HUSTLER4000ES",
     "specs": [
       "TEC GEN SPARE ALTERNATOR HUSTLER4000ES"
@@ -2599,7 +2599,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114116",
-    "name": "Tec gen spare alternator hustler4800es",
+    "name": "Tec Gen Spare Alternator Hustler4800es",
     "description": "TEC GEN SPARE ALTERNATOR HUSTLER4800ES",
     "specs": [
       "TEC GEN SPARE ALTERNATOR HUSTLER4800ES"
@@ -2617,7 +2617,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114117",
-    "name": "Tec gen spare alternator igwe8500es",
+    "name": "Tec Gen Spare Alternator Igwe8500es",
     "description": "TEC GEN SPARE ALTERNATOR IGWE8500ES",
     "specs": [
       "TEC GEN SPARE ALTERNATOR IGWE8500ES"
@@ -2635,7 +2635,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114118",
-    "name": "Tec gen spare alternator ultimate12000rs",
+    "name": "Tec Gen Spare Alternator Ultimate12000rs",
     "description": "TEC GEN SPARE ALTERNATOR ULTIMATE12000RS",
     "specs": [
       "TEC GEN SPARE ALTERNATOR ULTIMATE12000RS"
@@ -2653,7 +2653,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114119",
-    "name": "Tec gen spare control panel hustl4000es",
+    "name": "Tec Gen Spare Control Panel Hustl4000es",
     "description": "TEC GEN SPARE CONTROL PANEL HUSTL4000ES",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL HUSTL4000ES"
@@ -2671,7 +2671,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114120",
-    "name": "Tec gen spare control panel hustl4800es",
+    "name": "Tec Gen Spare Control Panel Hustl4800es",
     "description": "TEC GEN SPARE CONTROL PANEL HUSTL4800ES",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL HUSTL4800ES"
@@ -2689,7 +2689,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114121",
-    "name": "Tec gen spare control panel igwe8500es",
+    "name": "Tec Gen Spare Control Panel Igwe8500es",
     "description": "TEC GEN SPARE CONTROL PANEL IGWE8500ES",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL IGWE8500ES"
@@ -2707,7 +2707,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114122",
-    "name": "Tec gen spare control panel ult12000rs",
+    "name": "Tec Gen Spare Control Panel Ult12000rs",
     "description": "TEC GEN SPARE CONTROL PANEL ULT12000RS",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL ULT12000RS"
@@ -2725,7 +2725,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "100006707",
-    "name": "Tec stabilizer digital 2000va",
+    "name": "Voltage Stabilizer",
     "description": "TEC STABILIZER DIGITAL 2000VA",
     "specs": [
       "TEC STABILIZER DIGITAL 2000VA"
@@ -2743,7 +2743,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "100006708",
-    "name": "Tec stabilizer digital 5000va",
+    "name": "Voltage Stabilizer",
     "description": "TEC STABILIZER DIGITAL 5000VA",
     "specs": [
       "TEC STABILIZER DIGITAL 5000VA"
@@ -2761,7 +2761,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWACM- SAC0901",
-    "name": "Btu: 9000 inner machine size: 713*270*210mm outer machine size: 700*295*440mm inner machine weight: 7kg outer machine weight: 22kg refrigerant: r410a rated input power :787w eer （ w/w ） :3.05 items: only cooling power supply source: 220 ～ 240v-1-50hz evaporator&condenser tube material: inner-grooved copper; φ7",
+    "name": "7 BTU Split AC",
     "description": "BTU: 9000 Inner machine size: 713*270*210mm Outer machine size: 700*295*440mm Inner machine weight: 7kg Outer machine Weight: 22kg Refrigerant: R410A Rated Input Power :787w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz Evaporator&Condenser tube material: Inner-grooved copper; Φ7",
     "specs": [
       "BTU: 9000 Inner machine size: 713*270*210mm Outer machine size: 700*295*440mm Inner machine weight: 7kg Outer machine Weight: 22kg Refrigerant: R410A Rated Input Power :787w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz Evaporator&Condenser tube material: Inner-grooved copper",
@@ -2780,7 +2780,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWACM- SAC0902INV",
-    "name": "Btu: 9000 - inverter version inner machine size: 713*270*210mm outer machine size: 700*295*440mm inner machine weight: 7kg outer machine weight: 21kg refrigerant: r32 rated input power :909w eer （ w/w ） :3.05 items: only cooling power supply source: 220 ～ 240v-1-50hz",
+    "name": "Inverter Split AC",
     "description": "BTU: 9000 - INVERTER VERSION Inner machine size: 713*270*210mm Outer machine size: 700*295*440mm Inner machine weight: 7kg Outer machine Weight: 21kg Refrigerant: R32 Rated Input Power :909w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz",
     "specs": [
       "BTU: 9000 - INVERTER VERSION Inner machine size: 713*270*210mm Outer machine size: 700*295*440mm Inner machine weight: 7kg Outer machine Weight: 21kg Refrigerant: R32 Rated Input Power :909w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz"
@@ -2798,7 +2798,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "WITHOUT KIT MWACM- SAC0902INV",
-    "name": "Evaporator&condenser tube material: inner-grooved copper; φ7 btu: 12000",
+    "name": "7 BTU Split AC",
     "description": "Evaporator&Condenser tube material: Inner-grooved copper; Φ7 BTU: 12000",
     "specs": [
       "Evaporator&Condenser tube material: Inner-grooved copper",
@@ -2817,7 +2817,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWACM- SAC1201",
-    "name": "Inner machine size: 820*300*200mm outer machine size: 700*295*440mm inner machine weight: 9kg outer machine weight: 24kg refrigerant: r410a rated input power : 1160w eer （ w/w ） :3.05 items: only cooling power supply source: 220 ～ 240v-1-50hz evaporator&condenser tube material: inner-grooved copper; φ7",
+    "name": "Split AC",
     "description": "Inner machine size: 820*300*200mm Outer machine size: 700*295*440mm Inner machine weight: 9kg Outer machine Weight: 24kg Refrigerant: R410A Rated Input Power : 1160w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz Evaporator&Condenser tube material: Inner-grooved copper; Φ7",
     "specs": [
       "Inner machine size: 820*300*200mm Outer machine size: 700*295*440mm Inner machine weight: 9kg Outer machine Weight: 24kg Refrigerant: R410A Rated Input Power : 1160w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz Evaporator&Condenser tube material: Inner-grooved copper",
@@ -2836,7 +2836,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWACM- SAC1202INV",
-    "name": "Btu: 12000 - inverter version inner machine size: 820*300*200mm outer machine size: 700*295*440mm inner machine weight: 8.5kg outer machine weight: 21kg refrigerant: r32 rated input power : 1255w eer （ w/w ） :3.05 items: only cooling power supply source: 220 ～ 240v-1-50hz",
+    "name": "Inverter Split AC",
     "description": "BTU: 12000 - INVERTER VERSION Inner machine size: 820*300*200mm Outer machine size: 700*295*440mm Inner machine weight: 8.5kg Outer machine Weight: 21kg Refrigerant: R32 Rated Input Power : 1255w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz",
     "specs": [
       "BTU: 12000 - INVERTER VERSION Inner machine size: 820*300*200mm Outer machine size: 700*295*440mm Inner machine weight: 8.5kg Outer machine Weight: 21kg Refrigerant: R32 Rated Input Power : 1255w EER （ w/w ） :3.05 Items: ONLY COOLING Power supply source: 220 ～ 240V-1-50Hz"
@@ -2854,7 +2854,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WITHOUT KIT MWACM- SAC1202INV",
-    "name": "Evaporator&condenser tube material: inner-grooved copper; φ7",
+    "name": "Split AC",
     "description": "Evaporator&Condenser tube material: Inner-grooved copper; Φ7",
     "specs": [
       "Evaporator&Condenser tube material: Inner-grooved copper",
@@ -2873,7 +2873,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWACM-AC0918",
-    "name": "For ac",
+    "name": "Air Conditioner",
     "description": "For AC",
     "specs": [
       "For AC"
@@ -2891,7 +2891,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MW-MIC762WLS",
-    "name": "Size: 50 * 30mm frequency: 762.85mhz hifi system",
+    "name": "Hi-Fi System",
     "description": "Size: 50 * 30mm Frequency: 762.85Mhz HIFI SYSTEM",
     "specs": [
       "Size: 50 * 30mm Frequency: 762.85Mhz HIFI SYSTEM"
@@ -2909,7 +2909,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- MHF1202",
-    "name": "Pmpo ： 2200w speaker: 12\"x2+1\"x2 playback sources: bluetooth, usb, dvd, line-in hdmi output, coaxial output, s-video output compatible with: dvd/dvd+r/dvd+rw, cd/cd- r/cd-rw, mp3/mpeg4, kodak picture fm tuner with auto-search two microphone inputs with independent volume control amplifier: 430 *300*180mm speakers*2: 380*295*560mm",
+    "name": "Microphone",
     "description": "PMPO ： 2200W Speaker: 12\"x2+1\"x2 Playback sources: Bluetooth, USB, DVD, Line-in HDMI output, Coaxial output, S-Video output Compatible with: DVD/DVD+R/DVD+RW, CD/CD- R/CD-RW, MP3/MPEG4, Kodak Picture FM tuner with auto-search Two microphone inputs with independent volume control Amplifier: 430 *300*180mm Speakers*2: 380*295*560MM",
     "specs": [
       "PMPO ： 2200W Speaker: 12\"x2+1\"x2 Playback sources: Bluetooth",
@@ -2934,7 +2934,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- MHF8802",
-    "name": "Hifi system pmpo ： 2200w speaker:8\"*4+ 1\"x2 playback sources: bluetooth, usb, dvd, line-in, hdmi, coaxial compatible with: dvd/dvd+r/dvd+rw, cd/cd- r/cd-rw, mp3/mpeg4, kodak picture fm tuner with auto-search two microphone inputs with independent volume control include: wireless remote control /one wired microphone amplifier:430 *300*180mm speakers*2:285*285*795mm",
+    "name": "2200W Hi-Fi System",
     "description": "HIFI SYSTEM PMPO ： 2200W Speaker:8\"*4+ 1\"x2 Playback sources: Bluetooth, USB, DVD, Line-in, HDMI, Coaxial Compatible with: DVD/DVD+R/DVD+RW, CD/CD- R/CD-RW, MP3/MPEG4, Kodak Picture FM tuner with auto-search Two microphone inputs with independent volume control Include: Wireless remote control /One wired microphone Amplifier:430 *300*180mm Speakers*2:285*285*795mm",
     "specs": [
       "HIFI SYSTEM PMPO ： 2200W Speaker:8\"*4+ 1\"x2 Playback sources: Bluetooth",
@@ -2959,7 +2959,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MW-MHF1243",
-    "name": "Hifi system pmpo ： 3500w double bluetooth connection function speaker:12\"*2+8\"*2+3\"x4 playback sources: bluetooth,usb, sd card, aux in, hdmi, optical colorful speaker light / top light led display / digital amplifier fm tuner with auto-search 4× microphone inputs with independent volume control include: wireless remote control /two wired microphone amplifier:430 *300*180mm speakers*2:285*285*795mm",
+    "name": "3500W Hi-Fi System",
     "description": "HIFI SYSTEM PMPO ： 3500W DOUBLE BLUETOOTH CONNECTION FUNCTION Speaker:12\"*2+8\"*2+3\"x4 Playback sources: Bluetooth,USB, SD card, AUX IN, HDMI, optical Colorful speaker light / Top light LED display / digital amplifier FM tuner with auto-search 4× microphone inputs with independent volume control Include: Wireless remote control /Two wired microphone Amplifier:430 *300*180mm Speakers*2:285*285*795mm",
     "specs": [
       "HIFI SYSTEM PMPO ： 3500W DOUBLE BLUETOOTH CONNECTION FUNCTION Speaker:12\"*2+8\"*2+3\"x4 Playback sources: Bluetooth",
@@ -2982,7 +2982,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD-MMS305",
-    "name": "3.1 multiple media speaker pmpo:560w speaker unit: 6.5'x1 +3'x3 speaker support usb. sd ,fm radio,bluetooth and display include: remote control satelite*3: 80 x 120 x320mm subwoofer: 298*170*325mm",
+    "name": "560W Speaker",
     "description": "3.1 Multiple Media Speaker PMPO:560W Speaker Unit: 6.5'x1 +3'x3 speaker support USB. SD ,FM Radio,Bluetooth and Display Include: Remote control Satelite*3: 80 x 120 x320mm Subwoofer: 298*170*325mm",
     "specs": [
       "3.1 Multiple Media Speaker PMPO:560W Speaker Unit: 6.5'x1 +3'x3 speaker support USB. SD",
@@ -3002,7 +3002,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD-MMS306",
-    "name": "3.1 multiple media speaker pmpo:560w speaker unit: 6.5'x1 +3'x3 speaker support usb. sd ,fm radio,bluetooth and display include: remote control satelite*3: 80 x 120 x320mm subwoofer: 298*170*325mm",
+    "name": "560W Speaker",
     "description": "3.1 Multiple Media Speaker PMPO:560W Speaker Unit: 6.5'x1 +3'x3 speaker support USB. SD ,FM Radio,Bluetooth and Display Include: Remote control Satelite*3: 80 x 120 x320mm Subwoofer: 298*170*325mm",
     "specs": [
       "3.1 Multiple Media Speaker PMPO:560W Speaker Unit: 6.5'x1 +3'x3 speaker support USB. SD",
@@ -3022,7 +3022,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS0603SG",
-    "name": "6.5 inch speaker pmpo ： 480w unit size ： 260*260*300mm speaker: 6.5\"x1+1.5”x1 function:usb/tf/bt/fm/led display battery ： 7.4v/4500mah color box size ： 300*290*350mm include: wired mic/ remote control/9v/ 4a adaptor",
+    "name": "Microphone",
     "description": "6.5 Inch Speaker PMPO ： 480W Unit size ： 260*260*300mm Speaker: 6.5\"x1+1.5”x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/4500mAH Color box size ： 300*290*350mm Include: Wired Mic/ remote Control/9V/ 4A Adaptor",
     "specs": [
       "6.5 Inch Speaker PMPO ： 480W Unit size ： 260*260*300mm Speaker: 6.5\"x1+1.5”x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/4500mAH Color box size ： 300*290*350mm Include: Wired Mic/ remote Control/9V/ 4A Adaptor"
@@ -3040,7 +3040,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS0801",
-    "name": "Double 8 inch speaker pmpo ： 900w unit size ： 320*335*715mm speaker: 8\"x2+1.5\"x1 function:usb/tf/bt/fm/led display battery ： 12v/4.5ah color box size ： 375*363*802mm include: wireless mic/ remote control/ 12v 6a adaptor",
+    "name": "Microphone",
     "description": "Double 8 Inch Speaker PMPO ： 900W Unit size ： 320*335*715mm Speaker: 8\"x2+1.5\"x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 375*363*802mm Include: Wireless Mic/ remote Control/ 12V 6A Adaptor",
     "specs": [
       "Double 8 Inch Speaker PMPO ： 900W Unit size ： 320*335*715mm Speaker: 8\"x2+1.5\"x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 375*363*802mm Include: Wireless Mic/ remote Control/ 12V 6A Adaptor"
@@ -3058,7 +3058,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS0803SG",
-    "name": "8 inch speaker pmpo ： 540w unit size ： 280*280*340mm speaker: 8\"x1+1.5“x1 function:usb/tf/bt/fm/led display battery ： 7.4v/4500mah color box size ： 300*290*350mm include: wired mic/ remote control/9v/ 4a adaptor",
+    "name": "Microphone",
     "description": "8 Inch Speaker PMPO ： 540W Unit size ： 280*280*340mm Speaker: 8\"x1+1.5“x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/4500mAH Color box size ： 300*290*350mm Include: Wired Mic/ remote Control/9V/ 4A Adaptor",
     "specs": [
       "8 Inch Speaker PMPO ： 540W Unit size ： 280*280*340mm Speaker: 8\"x1+1.5“x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/4500mAH Color box size ： 300*290*350mm Include: Wired Mic/ remote Control/9V/ 4A Adaptor"
@@ -3076,7 +3076,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS1001",
-    "name": "Double 10 inch speaker pmpo ： 1500w unit size ： 355*345*860mm speaker: 10\"x2+1.5\"x1 function:usb/tf/bt/fm/led display battery ： 12v/4.5ah color box size ： 407*397*954mm include: wireless mic/ remote control/ 15v/8a adaptor",
+    "name": "Microphone",
     "description": "Double 10 Inch Speaker PMPO ： 1500W Unit size ： 355*345*860mm Speaker: 10\"x2+1.5\"x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 407*397*954mm Include: Wireless Mic/ remote Control/ 15V/8A Adaptor",
     "specs": [
       "Double 10 Inch Speaker PMPO ： 1500W Unit size ： 355*345*860mm Speaker: 10\"x2+1.5\"x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 407*397*954mm Include: Wireless Mic/ remote Control/ 15V/8A Adaptor"
@@ -3094,7 +3094,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS1002SG",
-    "name": "10 inch speaker pmpo ： 900w unit size ： 320*335*715mm speaker: 10\"*1+3\"*1+1.5*1 function:usb/tf/bt/fm/led display battery ： 12v/4.5ah color box size ： 375*363*802mm include: wireless mic/ remote control/ 15v 6a adaptor",
+    "name": "Microphone",
     "description": "10 Inch Speaker PMPO ： 900W Unit size ： 320*335*715mm Speaker: 10\"*1+3\"*1+1.5*1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 375*363*802mm Include: Wireless Mic/ remote Control/ 15V 6A Adaptor",
     "specs": [
       "10 Inch Speaker PMPO ： 900W Unit size ： 320*335*715mm Speaker: 10\"*1+3\"*1+1.5*1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 375*363*802mm Include: Wireless Mic/ remote Control/ 15V 6A Adaptor"
@@ -3112,7 +3112,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS1201SG",
-    "name": "12 inch speaker pmpo ： 1200w unit size ： 350*350*790mm speaker: 12\"x1+3“x2+1.5”x1 function:usb/tf/bt/fm/led display battery ： 12v/5.5ah carton box: 400*377*840mm include: wireless mic/ remote control",
+    "name": "Microphone",
     "description": "12 Inch Speaker PMPO ： 1200W Unit size ： 350*350*790mm Speaker: 12\"x1+3“x2+1.5”x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/5.5AH Carton box: 400*377*840mm Include: Wireless Mic/ remote Control",
     "specs": [
       "12 Inch Speaker PMPO ： 1200W Unit size ： 350*350*790mm Speaker: 12\"x1+3“x2+1.5”x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/5.5AH Carton box: 400*377*840mm Include: Wireless Mic/ remote Control"
@@ -3130,7 +3130,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MWAUD- PTS1202SG",
-    "name": "12 inch speaker pmpo ： 1500w unit size ： 355*345*860mm speaker: 12\"*1+3\"*1+1.5*1 function:usb/tf/bt/fm/led display battery ： 12v/4.5ah color box size ： 407*397*954mm include: wireless mic/ remote control/ 15v/8a adaptor",
+    "name": "Microphone",
     "description": "12 Inch Speaker PMPO ： 1500W Unit size ： 355*345*860mm Speaker: 12\"*1+3\"*1+1.5*1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 407*397*954mm Include: Wireless Mic/ remote Control/ 15V/8A Adaptor",
     "specs": [
       "12 Inch Speaker PMPO ： 1500W Unit size ： 355*345*860mm Speaker: 12\"*1+3\"*1+1.5*1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 12V/4.5AH Color box size ： 407*397*954mm Include: Wireless Mic/ remote Control/ 15V/8A Adaptor"
@@ -3148,7 +3148,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MW-PTS6204",
-    "name": "Double 6.5 inch speaker pmpo ： 600w unit size: 555*255*255mm speaker: 6.5‘’x2+1.5‘’x1 function:usb/tf/bt/fm/led display battery ： 7.4v/4500ma unit size ： color box size ： include: wireless mic/ remote control / adaptor /suspenders",
+    "name": "Microphone",
     "description": "Double 6.5 Inch Speaker PMPO ： 600W Unit Size: 555*255*255mm Speaker: 6.5‘’x2+1.5‘’x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/4500mA Unit size ： Color box size ： Include: Wireless Mic/ remote Control / Adaptor /suspenders",
     "specs": [
       "Double 6.5 Inch Speaker PMPO ： 600W Unit Size: 555*255*255mm Speaker: 6.5‘’x2+1.5‘’x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/4500mA Unit size ： Color box size ： Include: Wireless Mic/ remote Control / Adaptor /suspenders"
@@ -3166,7 +3166,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MW-PTS6205",
-    "name": "Double 6.5 inch speaker pmpo ： 600w unit size: 270*250*560mm speaker: 6.5‘’x2+1.5‘’x1 function:usb/tf/bt/fm/led display battery ： 7.4v/3600ma unit size ： color box size ： include: wireless mic/ remote control / adaptor",
+    "name": "Microphone",
     "description": "Double 6.5 Inch Speaker PMPO ： 600W Unit Size: 270*250*560mm Speaker: 6.5‘’x2+1.5‘’x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/3600mA Unit size ： Color box size ： Include: Wireless Mic/ remote Control / Adaptor",
     "specs": [
       "Double 6.5 Inch Speaker PMPO ： 600W Unit Size: 270*250*560mm Speaker: 6.5‘’x2+1.5‘’x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 7.4V/3600mA Unit size ： Color box size ： Include: Wireless Mic/ remote Control / Adaptor"
@@ -3184,7 +3184,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "HiFi & speakers",
     "model": "MW-PTS8317",
-    "name": "Triple 8 inch speaker pmpo ： 600w unit size ： 285*280*900mm speaker: 8‘’x3+1.5‘’x1 function:usb/tf/bt/fm/led display battery ： 3.7v/3600ma color box size ： 313*313*942mm include: wireless mic/ remote control / power cable",
+    "name": "Microphone",
     "description": "Triple 8 Inch Speaker PMPO ： 600W Unit size ： 285*280*900mm Speaker: 8‘’x3+1.5‘’x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 3.7V/3600mA Color box size ： 313*313*942mm Include: Wireless Mic/ remote Control / Power Cable",
     "specs": [
       "Triple 8 Inch Speaker PMPO ： 600W Unit size ： 285*280*900mm Speaker: 8‘’x3+1.5‘’x1 Function:USB/TF/BT/FM/LED DISPLAY Battery ： 3.7V/3600mA Color box size ： 313*313*942mm Include: Wireless Mic/ remote Control / Power Cable"
@@ -3202,7 +3202,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "MWAUD-MSB120",
-    "name": "2.1 wired soundbar output: 260w speaker: 6.5\"x1+2.25\"x4 soundbar size: 920*90*70mm subwoofer size: 240*240*390mm support usb playing/aux in/optical/hdmi/fm with light include: remote control",
+    "name": "260W Sound Bar",
     "description": "2.1 Wired Soundbar Output: 260W Speaker: 6.5\"x1+2.25\"x4 Soundbar size: 920*90*70mm Subwoofer size: 240*240*390mm Support USB playing/Aux in/Optical/HDMI/FM With light Include: Remote control",
     "specs": [
       "2.1 Wired Soundbar Output: 260W Speaker: 6.5\"x1+2.25\"x4 Soundbar size: 920*90*70mm Subwoofer size: 240*240*390mm Support USB playing/Aux in/Optical/HDMI/FM With light Include: Remote control"
@@ -3220,7 +3220,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWAUD-MSB160",
-    "name": "2.1 wired soundbar output: 300w speaker: 6.25\"x1+5890\"x2 soundbar size: 940*98*65.9mm subwoofer size: 212*293*375mm support usb playing/aux in/optical/hdmi/fm eq setting metal grill & matt finish ac power supply button: power on/off mode, pair, volume+, volume- include: remote control",
+    "name": "Split AC",
     "description": "2.1 Wired Soundbar Output: 300W Speaker: 6.25\"x1+5890\"x2 Soundbar size: 940*98*65.9mm Subwoofer size: 212*293*375mm Support USB playing/Aux in/Optical/HDMI/FM EQ setting Metal grill & matt finish AC power supply Button: power on/off mode, pair, volume+, volume- Include: Remote control",
     "specs": [
       "2.1 Wired Soundbar Output: 300W Speaker: 6.25\"x1+5890\"x2 Soundbar size: 940*98*65.9mm Subwoofer size: 212*293*375mm Support USB playing/Aux in/Optical/HDMI/FM EQ setting Metal grill & matt finish AC power supply Button: power on/off mode",
@@ -3241,7 +3241,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "MWAUD- MSB2180",
-    "name": "2.1 wired soundbar output: 160w speaker: 5.25\"x1+2\"x4 soundbar size: 810*70*70mm subwoofer size: 225*225*350mm support usb playing/aux in/optical/hdmi/fm with light include ： av cable,remote cotrol",
+    "name": "160W Sound Bar",
     "description": "2.1 Wired Soundbar Output: 160W Speaker: 5.25\"x1+2\"x4 Soundbar size: 810*70*70mm Subwoofer size: 225*225*350mm Support USB playing/Aux in/Optical/HDMI/FM With light Include ： AV CABLE,REMOTE COTROL",
     "specs": [
       "2.1 Wired Soundbar Output: 160W Speaker: 5.25\"x1+2\"x4 Soundbar size: 810*70*70mm Subwoofer size: 225*225*350mm Support USB playing/Aux in/Optical/HDMI/FM With light Include ： AV CABLE",
@@ -3260,7 +3260,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "MWAUD- MSB2280",
-    "name": "2.1 wired soundbar output: 280w speaker: 6.5\"x1+2.25\"x4 soundbar size: 920*90*70mm subwoofer size: 210*300*430mm support usb playing/aux in/optical/hdmi/fm with light on soundbar and subwoofer include: remote control",
+    "name": "280W Sound Bar",
     "description": "2.1 Wired Soundbar Output: 280W Speaker: 6.5\"x1+2.25\"x4 Soundbar size: 920*90*70mm Subwoofer size: 210*300*430mm Support USB playing/Aux in/Optical/HDMI/FM With light on Soundbar and Subwoofer Include: Remote control",
     "specs": [
       "2.1 Wired Soundbar Output: 280W Speaker: 6.5\"x1+2.25\"x4 Soundbar size: 920*90*70mm Subwoofer size: 210*300*430mm Support USB playing/Aux in/Optical/HDMI/FM With light on Soundbar and Subwoofer Include: Remote control"
@@ -3278,7 +3278,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWAUD- MSB260WLS",
-    "name": "2.1 wireless soundbar output: 300w speaker: 6.25\"x1+5890\"x2 soundbar size: 940*98*65.9mm subwoofer size: 212*293*375mm support usb playing/aux in/optical/hdmi/fm with led display eq setting metal grill & matt finish ac power supply & wireless button: power on/off mode, pair, volume+, volume- include: remote control",
+    "name": "Split AC",
     "description": "2.1 Wireless Soundbar Output: 300W Speaker: 6.25\"x1+5890\"x2 Soundbar size: 940*98*65.9mm Subwoofer size: 212*293*375mm Support USB playing/Aux in/Optical/HDMI/FM With LED display EQ setting Metal grill & matt finish AC power supply & WIRELESS Button: power on/off mode, pair, volume+, volume- Include: Remote control",
     "specs": [
       "2.1 Wireless Soundbar Output: 300W Speaker: 6.25\"x1+5890\"x2 Soundbar size: 940*98*65.9mm Subwoofer size: 212*293*375mm Support USB playing/Aux in/Optical/HDMI/FM With LED display EQ setting Metal grill & matt finish AC power supply & WIRELESS Button: power on/off mode",
@@ -3299,7 +3299,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Audio",
     "subcategory": "Sound bars",
     "model": "MWAUD-MSB400",
-    "name": "2.1 wired soundbar output: 400w speaker: 10\"x1+2.25\"x4 soundbar size: 960*90*70mm subwoofer size: 290*290*480mm support usb playing/aux in/optical/hdmi/fm with light on soundbar include: remote control rated power: 2100w",
+    "name": "400W Sound Bar",
     "description": "2.1 Wired Soundbar Output: 400W Speaker: 10\"x1+2.25\"x4 Soundbar size: 960*90*70mm Subwoofer size: 290*290*480mm Support USB playing/Aux in/Optical/HDMI/FM With light on Soundbar Include: Remote control Rated power: 2100W",
     "specs": [
       "2.1 Wired Soundbar Output: 400W Speaker: 10\"x1+2.25\"x4 Soundbar size: 960*90*70mm Subwoofer size: 290*290*480mm Support USB playing/Aux in/Optical/HDMI/FM With light on Soundbar Include: Remote control Rated power: 2100W"
@@ -3317,7 +3317,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MW-EWH3028W",
-    "name": "Capacity: 30l rated temperature: 75°c product size: 355*330*360mm water inlet mode: bottom inlet earth leakage protection plug blue porcelain enamel liner, corrosion-proof, anti- scaling, anti-explosion, acid-proof, and long service life. over-temperature protection, over-pressure protection, anti-dry-burning protection abs shell, split foaming, the split-type foaming structure offers excellent heat retention performance. 316 stainless steel brazed heating tube with magnesium rod",
+    "name": "Split AC",
     "description": "Capacity: 30L Rated Temperature: 75°C Product Size: 355*330*360mm Water Inlet Mode: Bottom Inlet Earth Leakage Protection Plug Blue porcelain enamel liner, corrosion-proof, anti- scaling, anti-explosion, acid-proof, and long service life. Over-Temperature Protection, Over-Pressure Protection, Anti-Dry-Burning Protection ABS Shell, Split Foaming, The split-type foaming structure offers excellent heat retention performance. 316 Stainless Steel Brazed Heating Tube with Magnesium Rod",
     "specs": [
       "Capacity: 30L Rated Temperature: 75°C Product Size: 355*330*360mm Water Inlet Mode: Bottom Inlet Earth Leakage Protection Plug Blue porcelain enamel liner",
@@ -3342,7 +3342,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM- BLD01BK",
-    "name": "Output power: 450w capacity: 1.5l & 100ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 190 * 170* 398 (mm) motor:7630 rotor cca stator aluminum with ptc thermostat housing material: pp jar material: pc 2 in 1 & dry mill blade:6 leaves blade",
+    "name": "450W Grinder & Blender",
     "description": "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190 * 170* 398 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade",
     "specs": [
       "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190 * 170* 398 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade"
@@ -3360,7 +3360,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-BLD01Y",
-    "name": "Output power: 450w capacity: 1.5l & 100ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 190 * 170* 398 (mm) motor:7630 rotor cca stator aluminum with ptc thermostat housing material: pp jar material: pc 2 in 1 & dry mill blade:6 leaves blade",
+    "name": "450W Grinder & Blender",
     "description": "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190 * 170* 398 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade",
     "specs": [
       "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190 * 170* 398 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade"
@@ -3378,7 +3378,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM- BLD02BK",
-    "name": "Output power: 450w capacity: 1.5l & 100ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 174 * 174* 401 (mm) motor:7630 rotor cca stator aluminum with ptc thermostat housing material: pp jar material: pc 2 in 1 & dry mill blade:6 leaves blade",
+    "name": "450W Grinder & Blender",
     "description": "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 174 * 174* 401 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade",
     "specs": [
       "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 174 * 174* 401 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade"
@@ -3396,7 +3396,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-BLD02Y",
-    "name": "Output power: 450w capacity: 1.5l & 100ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 174 * 174* 401 (mm) motor:7630 rotor cca stator aluminum with ptc thermostat housing material: pp jar material: pc 2 in 1 & dry mill blade:6 leaves blade",
+    "name": "450W Grinder & Blender",
     "description": "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 174 * 174* 401 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade",
     "specs": [
       "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 174 * 174* 401 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade"
@@ -3414,7 +3414,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM- BLD03BK",
-    "name": "Output power: 450w capacity: 1.5l & 100ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 190* 170* 400 (mm) motor:7630 rotor cca stator aluminum with ptc thermostat housing material: pp jar material: pc 2 in 1 & dry mill blade:6 leaves blade",
+    "name": "450W Grinder & Blender",
     "description": "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190* 170* 400 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade",
     "specs": [
       "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190* 170* 400 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade"
@@ -3432,7 +3432,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-BLD03Y",
-    "name": "Output power: 450w capacity: 1.5l & 100ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 190* 170* 400 (mm) motor:7630 rotor cca stator aluminum with ptc thermostat housing material: pp jar material: pc 2 in 1 & dry mill blade:6 leaves blade",
+    "name": "450W Grinder & Blender",
     "description": "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190* 170* 400 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade",
     "specs": [
       "Output power: 450W Capacity: 1.5L & 100ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 190* 170* 400 (mm) Motor:7630 Rotor CCA Stator Aluminum with PTC Thermostat Housing Material: PP Jar Material: PC 2 in 1 & Dry Mill Blade:6 leaves Blade"
@@ -3450,7 +3450,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-HS05BK",
-    "name": "Output power:1000w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 265* 210* 345 (mm) motor:9525 copperclad aluminum housing material: pp blade:6 leaves blade outer carton:52.5*39*41cm ， 6pcs/ctn",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn",
     "specs": [
       "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn"
@@ -3468,7 +3468,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-HS05Y",
-    "name": "Output power:1000w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 265* 210* 345 (mm) motor:9525 copperclad aluminum housing material: pp blade:6 leaves blade outer carton:52.5*39*41cm ， 6pcs/ctn",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn",
     "specs": [
       "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn"
@@ -3486,7 +3486,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-HS06BK",
-    "name": "Output power:1000w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 265* 210* 345 (mm) motor:9525 copperclad aluminum housing material: pp blade:6 leaves blade outer carton:52.5*39*41cm ， 6pcs/ctn",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn",
     "specs": [
       "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn"
@@ -3504,7 +3504,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-HS06Y",
-    "name": "Output power:1000w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 265* 210* 345 (mm) motor:9525 copperclad aluminum housing material: pp blade:6 leaves blade outer carton:52.5*39*41cm ， 6pcs/ctn",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn",
     "specs": [
       "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn"
@@ -3522,7 +3522,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-HS07BK",
-    "name": "Output power:1000w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 265* 210* 345 (mm) motor:9525 copperclad aluminum housing material: pp blade:6 leaves blade outer carton:52.5*39*41cm ， 6pcs/ctn",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn",
     "specs": [
       "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn"
@@ -3540,7 +3540,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM-HS07Y",
-    "name": "Output power:1000w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button gift box dimensions: 265* 210* 345 (mm) motor:9525 copperclad aluminum housing material: pp blade:6 leaves blade outer carton:52.5*39*41cm ， 6pcs/ctn",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn",
     "specs": [
       "Output power:1000W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button Gift Box Dimensions: 265* 210* 345 (mm) Motor:9525 copperclad aluminum Housing Material: PP Blade:6 leaves Blade Outer carton:52.5*39*41cm ， 6pcs/ctn"
@@ -3558,7 +3558,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWBGM- HS08KIT",
-    "name": "Output power:1000w capacity: 2.5l blending cup+2l meat grinding cup +0.6l grinder cup ptc overheat and overload protection safety button stainless steel body/chassis mechanical control with 3-gear rotary knob 7632 rotor copper long-axis motor",
+    "name": "1000W Grinder & Blender",
     "description": "Output power:1000W Capacity: 2.5L blending cup+2L meat grinding cup +0.6L Grinder Cup PTC overheat and overload protection Safety button Stainless steel body/chassis Mechanical control with 3-gear rotary knob 7632 rotor copper long-axis motor",
     "specs": [
       "Output power:1000W Capacity: 2.5L blending cup+2L meat grinding cup +0.6L Grinder Cup PTC overheat and overload protection Safety button Stainless steel body/chassis Mechanical control with 3-gear rotary knob 7632 rotor copper long-axis motor"
@@ -3576,7 +3576,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWBLD- HSB01BK-1800",
-    "name": "Output power:1800w capacity: 2l&600ml grinder cup ptc overheat and overload protection safety button 15 speeds control withpulse function gift box dimensions: 340* 245* 290 (mm) 100% pure copper 9525 motor voltage 220 - 240v; food-grade 6-blade stainless steel blade knob control for speed, with pulse function color: black packaging: 5-layer hardened carton with handle",
+    "name": "1800W Grinder & Blender",
     "description": "Output power:1800W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button 15 Speeds Control Withpulse Function Gift Box Dimensions: 340* 245* 290 (mm) 100% pure copper 9525 motor voltage 220 - 240V; Food-grade 6-blade stainless steel blade Knob control for speed, with pulse function Color: Black Packaging: 5-layer hardened carton with handle",
     "specs": [
       "Output power:1800W Capacity: 2L&600ml Grinder Cup PTC overheat and overload protection Safety button 15 Speeds Control Withpulse Function Gift Box Dimensions: 340* 245* 290 (mm) 100% pure copper 9525 motor voltage 220 - 240V",
@@ -3596,7 +3596,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWBLD- HSB02BK-2200",
-    "name": "Output power:2200w capacity: 2.5&600ml grinder cup ptc overheat and overload protection safety button 15 speeds control withpulse function gift box dimensions: 300* 208* 390 (mm) 100% pure copper 9530 motor voltage 220 - 240v; 50/60hz. food-grade 6-blade stainless steel blade knob control for speed, with pulse function color: black packaging: 5-layer hardened carton with handle",
+    "name": "2200W Grinder & Blender",
     "description": "Output power:2200W Capacity: 2.5&600ml Grinder Cup PTC overheat and overload protection Safety button 15 Speeds Control Withpulse Function Gift Box Dimensions: 300* 208* 390 (mm) 100% pure copper 9530 motor voltage 220 - 240V; 50/60Hz. Food-grade 6-blade stainless steel blade Knob control for speed, with pulse function Color: Black Packaging: 5-layer hardened carton with handle",
     "specs": [
       "Output power:2200W Capacity: 2.5&600ml Grinder Cup PTC overheat and overload protection Safety button 15 Speeds Control Withpulse Function Gift Box Dimensions: 300* 208* 390 (mm) 100% pure copper 9530 motor voltage 220 - 240V",
@@ -3616,7 +3616,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWBLD-SS02BL- HEAT",
-    "name": "Blender power: 800w heating power: 800w capacity: 1.75l glass cup ptc overheat and overload protection safety button blade:8 leaves blade motor:7625 copperclad aluminum jar material: glass blade:8 leaves blade",
+    "name": "800W Blender",
     "description": "Blender power: 800W Heating power: 800W Capacity: 1.75L Glass Cup PTC overheat and overload protection Safety button Blade:8 Leaves Blade Motor:7625 copperclad aluminum Jar Material: Glass Blade:8 leaves Blade",
     "specs": [
       "Blender power: 800W Heating power: 800W Capacity: 1.75L Glass Cup PTC overheat and overload protection Safety button Blade:8 Leaves Blade Motor:7625 copperclad aluminum Jar Material: Glass Blade:8 leaves Blade"
@@ -3634,7 +3634,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWBLD-SS03BL- HEAT",
-    "name": "Blender power: 800w heating power: 800w capacity: 1.75l glass cup ptc overheat and overload protection safety button blade:8 leaves blade motor:9530 copperclad aluminum housing material: pp jar material: glass blade:8 leaves blade",
+    "name": "800W Blender",
     "description": "Blender power: 800W Heating power: 800W Capacity: 1.75L Glass Cup PTC overheat and overload protection Safety button Blade:8 Leaves Blade Motor:9530 copperclad aluminum Housing Material: PP Jar Material: Glass Blade:8 leaves Blade",
     "specs": [
       "Blender power: 800W Heating power: 800W Capacity: 1.75L Glass Cup PTC overheat and overload protection Safety button Blade:8 Leaves Blade Motor:9530 copperclad aluminum Housing Material: PP Jar Material: Glass Blade:8 leaves Blade"
@@ -3652,7 +3652,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS3029GR",
-    "name": "Output power:3000w capacity: 2l&600ml grinder cup digital display & knob speed control&sound proof over abs plastic housing product size:260*210*440mm motor:100% pure copper motor ptc overheat and overload protection safety button",
+    "name": "3000W Grinder & Blender",
     "description": "Output power:3000W Capacity: 2L&600ml Grinder Cup Digital Display & Knob Speed Control&Sound proof over ABS Plastic Housing Product Size:260*210*440mm Motor:100% pure copper motor PTC overheat and overload protection Safety button",
     "specs": [
       "Output power:3000W Capacity: 2L&600ml Grinder Cup Digital Display & Knob Speed Control&Sound proof over ABS Plastic Housing Product Size:260*210*440mm Motor:100% pure copper motor PTC overheat and overload protection Safety button"
@@ -3670,7 +3670,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS3363GR",
-    "name": "Output power:3300w pot capacity: 6l ptc overheat and overload protection safety button motor:100% pure copper motor gift box dimensions: 450 * 245 * 340mm operation sun protection: mechanical manual switch power cord: 1.53m*1",
+    "name": "Output Power:3300w Pot Capacity: 6l Ptc Overh",
     "description": "Output power:3300W Pot Capacity: 6L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 450 * 245 * 340mm Operation Sun Protection: Mechanical Manual Switch Power Cord: 1.53M*1",
     "specs": [
       "Output power:3300W Pot Capacity: 6L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 450 * 245 * 340mm Operation Sun Protection: Mechanical Manual Switch Power Cord: 1.53M*1"
@@ -3688,7 +3688,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS3678GR",
-    "name": "Output power:3600w jug capacity: 10l ptc overheat and overload protection safety button motor:100% pure copper motor gift box dimensions: 590 * 310 * 365mm operation: mechanical manual switch power cord: 1.53m * 1",
+    "name": "Output Power:3600w Jug Capacity: 10l Ptc Over",
     "description": "Output power:3600W Jug Capacity: 10L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 590 * 310 * 365mm Operation: Mechanical Manual Switch Power Cord: 1.53M * 1",
     "specs": [
       "Output power:3600W Jug Capacity: 10L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 590 * 310 * 365mm Operation: Mechanical Manual Switch Power Cord: 1.53M * 1"
@@ -3706,7 +3706,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS4023BK",
-    "name": "Output power:4000w capacity: 4l digital display & knob speed control abs plastic housing product size:245 * 255 * 575mm ptc overheat and overload protection motor:100% pure copper motor",
+    "name": "Output Power:4000w Capacity: 4l Digital Displ",
     "description": "Output power:4000W Capacity: 4L Digital Display & Knob Speed Control ABS Plastic Housing Product Size:245 * 255 * 575mm PTC overheat and overload protection Motor:100% pure copper motor",
     "specs": [
       "Output power:4000W Capacity: 4L Digital Display & Knob Speed Control ABS Plastic Housing Product Size:245 * 255 * 575mm PTC overheat and overload protection Motor:100% pure copper motor"
@@ -3724,7 +3724,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWBGM-CUP01",
-    "name": "Safety button it is for 1000w blenders: 05 06 07 —— output power: 1000w",
+    "name": "1000W Blender",
     "description": "Safety button it is for 1000w blenders: 05 06 07 —— Output Power: 1000W",
     "specs": [
       "Safety button it is for 1000w blenders: 05 06 07 —— Output Power: 1000W"
@@ -3742,7 +3742,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-EMG1008MT",
-    "name": "Capacity: 8l blade: 420 stainless steel, 6 blades ptc overheat and overload protection motor:100% pure copper motor safety button pure copper motor stainless steel mixing barrel - 201 stainless steel",
+    "name": "Capacity: 8l Blade: 420 Stainless Steel",
     "description": "Capacity: 8L Blade: 420 Stainless Steel, 6 Blades PTC overheat and overload protection Motor:100% pure copper motor Safety button Pure Copper Motor Stainless Steel Mixing Barrel - 201 Stainless Steel",
     "specs": [
       "Capacity: 8L Blade: 420 Stainless Steel",
@@ -3761,7 +3761,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-AIRF0671",
-    "name": "Power (w):1400-1600w capacity:6l temperature: 100-200 ℃ voltage (v):220-240v frequency(hz):50-60hz timer:1-30min color: black with a visible window",
+    "name": "6L Air Fryer",
     "description": "Power (W):1400-1600W Capacity:6L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black With a visible window",
     "specs": [
       "Power (W):1400-1600W Capacity:6L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black With a visible window"
@@ -3779,7 +3779,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-AIRF0862",
-    "name": "Power (w):1400-1600w capacity:8l temperature: 100-200 ℃ voltage (v):220-240v frequency(hz):50-60hz timer:1-30min color: black with a visible window",
+    "name": "8L Air Fryer",
     "description": "Power (W):1400-1600W Capacity:8L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black With a visible window",
     "specs": [
       "Power (W):1400-1600W Capacity:8L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black With a visible window"
@@ -3797,7 +3797,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-AIRF1033BK",
-    "name": "Power (w):1400w-1600w capacity:10l temperature: 100-200 ℃ voltage (v):220-240v frequency(hz):50-60hz timer:1-30min color: black",
+    "name": "10L Air Fryer",
     "description": "Power (W):1400W-1600W Capacity:10L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black",
     "specs": [
       "Power (W):1400W-1600W Capacity:10L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black"
@@ -3815,7 +3815,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-AIRF1447BK",
-    "name": "Power: 2000-2400w capacity: 2pcs glass bowls (6l & 8l) temperature :50-200 ℃ digital display, touch screen, 7 presets heat-resistant glass bowl high-speed air circulation technology voltage: 220-240v product dimensions: 355*395*445mm",
+    "name": "6L Air Fryer",
     "description": "Power: 2000-2400W Capacity: 2pcs glass bowls (6L & 8L) Temperature :50-200 ℃ Digital display, touch screen, 7 presets Heat-resistant glass bowl High-speed air circulation technology Voltage: 220-240V Product dimensions: 355*395*445mm",
     "specs": [
       "Power: 2000-2400W Capacity: 2pcs glass bowls (6L & 8L) Temperature :50-200 ℃ Digital display",
@@ -3835,7 +3835,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWKCA- AIRF0601",
-    "name": "Power (w):1400-1600w capacity:6l temperature: 100-200 ℃ voltage (v):220-240v frequency(hz):50-60hz timer:1-30min color: black",
+    "name": "6L Air Fryer",
     "description": "Power (W):1400-1600W Capacity:6L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black",
     "specs": [
       "Power (W):1400-1600W Capacity:6L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black"
@@ -3853,7 +3853,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWKCA- AIRF0801",
-    "name": "Power (w):1400-1600w capacity:8l temperature: 100-200 ℃ voltage (v):220-240v frequency(hz):50-60hz timer:1-30min color: black",
+    "name": "8L Air Fryer",
     "description": "Power (W):1400-1600W Capacity:8L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black",
     "specs": [
       "Power (W):1400-1600W Capacity:8L Temperature: 100-200 ℃ Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-30min Color: black"
@@ -3871,7 +3871,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWKCA- AIRF1201",
-    "name": "Power (w):2200-2600w capacity: 12l, two pans temperature: 50-200 ℃ display : imd panel,touch screen voltage (v):220-240v frequency(hz):50-60hz timer:1-60min color: black",
+    "name": "12L Air Fryer",
     "description": "Power (W):2200-2600W Capacity: 12L, two pans Temperature: 50-200 ℃ Display : IMD panel,touch screen Voltage (V):220-240V Frequency(Hz):50-60Hz Timer:1-60min Color: black",
     "specs": [
       "Power (W):2200-2600W Capacity: 12L",
@@ -3891,7 +3891,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- AIRF1802",
-    "name": "Power (w):1700 w inside capacity: 18 l temperature range: 50-210 ℃ display : imd panel,touch screen temperature:220-240v, , 50/60hz cable length: 100mm with plug timer range: 1-60 minutes",
+    "name": "18L Air Fryer",
     "description": "Power (W):1700 W Inside capacity: 18 L Temperature range: 50-210 ℃ Display : IMD panel,touch screen Temperature:220-240V, , 50/60Hz Cable length: 100mm with plug Timer range: 1-60 minutes",
     "specs": [
       "Power (W):1700 W Inside capacity: 18 L Temperature range: 50-210 ℃ Display : IMD panel",
@@ -3911,7 +3911,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWKCA- DPF0601",
-    "name": "Voltage: ac 220v power: 2500w maximum capacity: 6l product dimensions: 270 x 425 x 275mm oil tank dimensions: 325 x 265 x 150mm fry basket dimensions: 205 x 185 x100mm package dimensions: 450 x 295 x 295mm n.w.: 2.8kgs; g.w.: 3.0kgs temperature range: 50 - 200 ℃",
+    "name": "Split AC",
     "description": "Voltage: AC 220V Power: 2500W Maximum Capacity: 6L Product Dimensions: 270 X 425 X 275mm Oil Tank Dimensions: 325 X 265 X 150mm Fry Basket Dimensions: 205 X 185 X100mm Package Dimensions: 450 X 295 X 295mm N.W.: 2.8KGS; G.W.: 3.0KGS Temperature Range: 50 - 200 ℃",
     "specs": [
       "Voltage: AC 220V Power: 2500W Maximum Capacity: 6L Product Dimensions: 270 X 425 X 275mm Oil Tank Dimensions: 325 X 265 X 150mm Fry Basket Dimensions: 205 X 185 X100mm Package Dimensions: 450 X 295 X 295mm N.W.: 2.8KGS",
@@ -3930,7 +3930,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWKCA- DPF1201",
-    "name": "Voltage: ac 220v power: 5000w maximum capacity: 6l + 6l product size: 540 x 425 x 275mm cylinder size: 325 x 265 x 150mm frying basket size: 205 x 185 x 100mm packaging size: 570 x 460 x 305mm net weight: 5.6kgs gross weight: 6.0kgs temperature range: 50 - 200 ℃",
+    "name": "Split AC",
     "description": "Voltage: AC 220V Power: 5000W Maximum capacity: 6L + 6L Product size: 540 X 425 X 275mm Cylinder size: 325 X 265 X 150mm Frying basket size: 205 X 185 X 100mm Packaging size: 570 X 460 X 305mm Net weight: 5.6KGS Gross weight: 6.0KGS Temperature range: 50 - 200 ℃",
     "specs": [
       "Voltage: AC 220V Power: 5000W Maximum capacity: 6L + 6L Product size: 540 X 425 X 275mm Cylinder size: 325 X 265 X 150mm Frying basket size: 205 X 185 X 100mm Packaging size: 570 X 460 X 305mm Net weight: 5.6KGS Gross weight: 6.0KGS Temperature range: 50 - 200 ℃"
@@ -3948,7 +3948,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-ECS2048BK",
-    "name": "Electric ceramic stove display power :2200w+2200w digit display time reservation function 220-240v~ 50hz voltage: 220 - 240v 50/60hz",
+    "name": "Ceramic Electric Stove",
     "description": "Electric ceramic stove Display power :2200W+2200W Digit display Time reservation function 220-240V~ 50Hz Voltage: 220 - 240V 50/60Hz",
     "specs": [
       "Electric ceramic stove Display power :2200W+2200W Digit display Time reservation function 220-240V~ 50Hz Voltage: 220 - 240V 50/60Hz"
@@ -3966,7 +3966,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- EPC0601",
-    "name": "Power: 1000w maximum capacity: 6l functions: rice/millet/soup, steaming, 1 bean/meat/slow cooking/frying panel material: plastic pp inner container: aluminum alloy single spray teflon, 500g inner container heating plate: aluminum alloy, coated with ptfe outer pot: thickness 1.0mm steel plate coated sus201 # polished cover, thickness 1.0mm sus410 shell, thickness 0.4mm power cord: pvc 3*0.75*1.2m copper-coated aluminum 5-layer gift box, 5-layer carton main board/light board",
+    "name": "Power: 1000w Maximum Capacity: 6l Functions:",
     "description": "Power: 1000W Maximum capacity: 6L Functions: Rice/Millet/Soup, Steaming, 1 Bean/Meat/Slow Cooking/Frying Panel Material: Plastic PP Inner Container: Aluminum Alloy Single Spray Teflon, 500G Inner Container Heating Plate: Aluminum Alloy, Coated with PTFE Outer Pot: Thickness 1.0mm Steel Plate Coated SUS201 # Polished Cover, Thickness 1.0mm SUS410 Shell, Thickness 0.4mm Power Cord: PVC 3*0.75*1.2m Copper-Coated Aluminum 5-layer Gift Box, 5-layer Carton Main Board/Light Board",
     "specs": [
       "Power: 1000W Maximum capacity: 6L Functions: Rice/Millet/Soup",
@@ -3991,7 +3991,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW-BUR1046BK",
-    "name": "Accessories: rice spoon/rice cup/water container power: 1000w product size: 210*230*67mm plate size: 155mm voltage: 220v-240v net weight: 1.6kg frequency: 50/60hz material: iron steel, thickness 0.4mm",
+    "name": "Rice Cooker",
     "description": "Accessories: Rice Spoon/Rice Cup/Water Container Power: 1000W Product size: 210*230*67mm Plate size: 155mm voltage: 220V-240V Net weight: 1.6kg frequency: 50/60HZ material: Iron steel, thickness 0.4mm",
     "specs": [
       "Accessories: Rice Spoon/Rice Cup/Water Container Power: 1000W Product size: 210*230*67mm Plate size: 155mm voltage: 220V-240V Net weight: 1.6kg frequency: 50/60HZ material: Iron steel",
@@ -4010,7 +4010,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW-BUR1059BK",
-    "name": "Product size: 210*230*64mm ； power: 1000w plate size: 155mm voltage: 220v-240v net weight: 1.6kg frequency: 50/60hz material:iron steel, thickness 0.4mm",
+    "name": "Rice Cooker",
     "description": "product size: 210*230*64mm ； power: 1000W plate size: 155mm voltage: 220V-240V Net weight: 1.6kg frequency: 50/60HZ material:iron steel, thickness 0.4mm",
     "specs": [
       "product size: 210*230*64mm ； power: 1000W plate size: 155mm voltage: 220V-240V Net weight: 1.6kg frequency: 50/60HZ material:iron steel",
@@ -4029,7 +4029,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW-BUR2044BK",
-    "name": "Power: 1000w + 1000w product size:430*230*67mm plate size: 155mm + 155mm voltage: 220v-240v net weight: 2.6kg frequency: 50/60hz material: iron steel, thickness 0.4mm",
+    "name": "Rice Cooker",
     "description": "Power: 1000W + 1000W Product size:430*230*67mm Plate size: 155mm + 155mm voltage: 220V-240V Net weight: 2.6kg frequency: 50/60HZ material: Iron steel, thickness 0.4mm",
     "specs": [
       "Power: 1000W + 1000W Product size:430*230*67mm Plate size: 155mm + 155mm voltage: 220V-240V Net weight: 2.6kg frequency: 50/60HZ material: Iron steel",
@@ -4048,7 +4048,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW-BUR2557BK",
-    "name": "Product size: 430*240*70mm ； power: 1000w + 1500w plate size: 185mm + 155mm voltage: 220v-240v net weight: 2.8kg frequency: 50/60hz material: iron steel, thickness 0.4mm",
+    "name": "Rice Cooker",
     "description": "product size: 430*240*70mm ； power: 1000W + 1500W plate size: 185mm + 155mm voltage: 220V-240V Net weight: 2.8kg frequency: 50/60HZ material: iron steel, thickness 0.4mm",
     "specs": [
       "product size: 430*240*70mm ； power: 1000W + 1500W plate size: 185mm + 155mm voltage: 220V-240V Net weight: 2.8kg frequency: 50/60HZ material: iron steel",
@@ -4067,7 +4067,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MW-GSC2153BK",
-    "name": "Burner: two gas burners + one electrical burner size: 590x510x120mm burner size: φ130+φ75+φ155mm ceramic hob inigtion: auto ignition, power cord panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: sabaf, high heat resistant aluminum pan support: cast iron water tray: enamel gas type: lpg 2800 mpa 5 layer strong carton, size: 640x540x140mm item: built-in gas stove",
+    "name": "Gas Hob",
     "description": "Burner: two gas burners + one electrical burner Size: 590x510x120mm Burner size: φ130+φ75+φ155mm ceramic hob Inigtion: auto ignition, power cord Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: sabaf, high heat resistant aluminum Pan support: cast iron Water tray: Enamel Gas type: LPG 2800 Mpa 5 layer strong carton, size: 640x540x140mm Item: Built-in gas stove",
     "specs": [
       "Burner: two gas burners + one electrical burner Size: 590x510x120mm Burner size: φ130+φ75+φ155mm ceramic hob Inigtion: auto ignition",
@@ -4090,7 +4090,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MW-GSC3040BK",
-    "name": "Burner: three gas burners size: 720x400x120mm burner size: φ130+φ130+φ75mm inigtion: auto ignition, power cord pan support: cast iron panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: sabaf, high heat resistant aluminum gas type: lpg 2800 mpa item: built-in gas stove 5 layer strong carton, size: 750x430x140mm",
+    "name": "Gas Hob",
     "description": "Burner: three gas burners Size: 720x400x120mm Burner size: φ130+φ130+φ75mm Inigtion: auto ignition, power cord Pan support: cast iron Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: sabaf, high heat resistant aluminum Gas type: LPG 2800 Mpa Item: Built-in gas stove 5 layer strong carton, size: 750x430x140mm",
     "specs": [
       "Burner: three gas burners Size: 720x400x120mm Burner size: φ130+φ130+φ75mm Inigtion: auto ignition",
@@ -4113,7 +4113,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MW-GSC3066BK",
-    "name": "Burner: three gas burners size: 590x510x120mm burner size: φ130+φ75+φ55mm inigtion: auto ignition, power cord pan support: cast iron panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: sabaf, high heat resistant aluminum gas type: lpg 2800 mpa 5 layer strong carton, size: 640x540x140mm item: built-in gas stove",
+    "name": "Gas Hob",
     "description": "Burner: three gas burners Size: 590x510x120mm Burner size: φ130+φ75+φ55mm Inigtion: auto ignition, power cord Pan support: cast iron Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: sabaf, high heat resistant aluminum Gas type: LPG 2800 Mpa 5 layer strong carton, size: 640x540x140mm Item: Built-in gas stove",
     "specs": [
       "Burner: three gas burners Size: 590x510x120mm Burner size: φ130+φ75+φ55mm Inigtion: auto ignition",
@@ -4136,7 +4136,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MW-GSC4161BK",
-    "name": "Burner: four gas burners + one electrical burner size: 860x510x120mm burner size: φ130+φ100+φ75+φ75+φ55mm pan support: cast iron panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: sabaf, high heat resistant aluminum gas type: lpg 2800 mpa item: built-in gas stove",
+    "name": "Gas Hob",
     "description": "Burner: four gas burners + one electrical burner Size: 860x510x120mm Burner size: φ130+φ100+φ75+φ75+φ55mm Pan support: cast iron Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: sabaf, high heat resistant aluminum Gas type: LPG 2800 Mpa Item: Built-in gas stove",
     "specs": [
       "Burner: four gas burners + one electrical burner Size: 860x510x120mm Burner size: φ130+φ100+φ75+φ75+φ55mm Pan support: cast iron Panel: tempered glass",
@@ -4157,7 +4157,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MW-GSC5075BK",
-    "name": "Burner: five gas burners size: 860x510x120mm burner size: φ130+φ100+φ75+φ75+φ55mm pan support: cast iron panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: sabaf, high heat resistant aluminum gas type: lpg 2800 mpa item: built-in gas stove",
+    "name": "Gas Hob",
     "description": "Burner: five gas burners Size: 860x510x120mm Burner size: φ130+φ100+φ75+φ75+φ55mm Pan support: cast iron Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: sabaf, high heat resistant aluminum Gas type: LPG 2800 Mpa Item: Built-in gas stove",
     "specs": [
       "Burner: five gas burners Size: 860x510x120mm Burner size: φ130+φ100+φ75+φ75+φ55mm Pan support: cast iron Panel: tempered glass",
@@ -4178,7 +4178,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWKCA-GSC01",
-    "name": "Burner: two gas burners burner size: ø 100mm dimension: 700mm*350mm*110mm 6mm tempered glass 0.35mm stainless steel body 100mm stamped iron stove head auto ignition valve 0.4mm joined enamel pan support 25mm stove foot 5 layers carton box",
+    "name": "Gas Hob",
     "description": "Burner: two gas burners Burner Size: Ø 100mm Dimension: 700mm*350mm*110mm 6mm tempered glass 0.35mm Stainless steel body 100mm Stamped iron stove head Auto ignition valve 0.4mm Joined enamel pan support 25mm stove foot 5 layers carton box",
     "specs": [
       "Burner: two gas burners Burner Size: Ø 100mm Dimension: 700mm*350mm*110mm 6mm tempered glass 0.35mm Stainless steel body 100mm Stamped iron stove head Auto ignition valve 0.4mm Joined enamel pan support 25mm stove foot 5 layers carton box"
@@ -4196,7 +4196,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA-GSC02",
-    "name": "Burner: two gas burners burner size: ø 100mm dimension: 710mm*370mm*110mm 0.35mm stainless steel body auto ignition valve 0.4mm joined enamel pan support 25mm stove foot 5 layers carton box",
+    "name": "Cooker",
     "description": "Burner: two gas burners Burner Size: Ø 100mm Dimension: 710mm*370mm*110mm 0.35mm stainless steel body Auto ignition valve 0.4mm Joined enamel pan support 25mm stove foot 5 layers carton box",
     "specs": [
       "Burner: two gas burners Burner Size: Ø 100mm Dimension: 710mm*370mm*110mm 0.35mm stainless steel body Auto ignition valve 0.4mm Joined enamel pan support 25mm stove foot 5 layers carton box"
@@ -4214,7 +4214,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MWKCA-GSC03",
-    "name": "Burner: three gas burners + one electrical burner size: 600x510x120mm burner size: φ130+φ75+φ55+ceramic φ155mm pan support: cast iron panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: sabaf, high heat resistant aluminum gas type: lpg 2800 mpa / natural gas 2000mpa item: built in gas stove",
+    "name": "Gas Hob",
     "description": "Burner: three gas burners + one electrical burner Size: 600x510x120mm Burner size: φ130+φ75+φ55+ceramic φ155mm Pan support: cast iron Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: sabaf, high heat resistant aluminum Gas type: LPG 2800 Mpa / natural gas 2000Mpa Item: Built In gas stove",
     "specs": [
       "Burner: three gas burners + one electrical burner Size: 600x510x120mm Burner size: φ130+φ75+φ55+ceramic φ155mm Pan support: cast iron Panel: tempered glass",
@@ -4235,7 +4235,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MWKCA-GSC04",
-    "name": "Burner: four gas burners size: 600x510x120mm burner size: φ130+φ75+φ75+φ55mm pan support: cast iron panel: tempered glass, material thickness 7mm burner cover: cast iron, polish or matte burner: chinese sabaf, high heat resistant aluminum gas type: lpg 2800 mpa / natural gas 2000mpa item: built in gas stove inigtion: 1.5v battery ignition include 1pc battery",
+    "name": "Gas Hob",
     "description": "Burner: four gas burners Size: 600x510x120mm Burner size: φ130+φ75+φ75+φ55mm Pan support: cast iron Panel: tempered glass, material thickness 7mm Burner cover: cast iron, polish or matte Burner: Chinese sabaf, high heat resistant aluminum Gas type: LPG 2800 Mpa / natural gas 2000Mpa Item: Built In gas stove Inigtion: 1.5V battery ignition Include 1PC battery",
     "specs": [
       "Burner: four gas burners Size: 600x510x120mm Burner size: φ130+φ75+φ75+φ55mm Pan support: cast iron Panel: tempered glass",
@@ -4256,7 +4256,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Cookers",
     "model": "MW-IDCK2073BK",
-    "name": "Induction cooker display power: 2000+2000w digit display time reservation function 220-240v~ 50hz",
+    "name": "Induction Cooker",
     "description": "Induction cooker Display power: 2000+2000W Digit display Time reservation function 220-240V~ 50Hz",
     "specs": [
       "Induction cooker Display power: 2000+2000W Digit display Time reservation function 220-240V~ 50Hz"
@@ -4274,7 +4274,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Ovens & microwaves",
     "model": "MWKCA- MCW2001BKGF",
-    "name": "700w microwave output power 30' timer 6 microwave power levels size: 20l function: grilling function turntable glass tray 245mm power: 230v/50hz,",
+    "name": "20L Microwave Oven with Grill",
     "description": "700W microwave output power 30' timer 6 microwave power levels Size: 20L Function: Grilling Function Turntable glass tray 245mm Power: 230V/50Hz,",
     "specs": [
       "700W microwave output power 30' timer 6 microwave power levels Size: 20L Function: Grilling Function Turntable glass tray 245mm Power: 230V/50Hz"
@@ -4292,7 +4292,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW-MCW2085BK",
-    "name": "20l, without grill function 230v, 50hz 700w output power 245mm glass turntable 35-minute timer 5 power levels",
+    "name": "Electric Grill",
     "description": "20L, without grill function 230V, 50Hz 700W output power 245mm glass turntable 35-minute timer 5 power levels",
     "specs": [
       "20L",
@@ -4312,7 +4312,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Ovens & microwaves",
     "model": "MW-MCW2506BK",
-    "name": "850w microwave output power 35mins cooking timer 5 microwave power levels size: 25l turntable glass tray 285mm 230v/50hz",
+    "name": "25L Microwave Oven",
     "description": "850W microwave output power 35mins cooking timer 5 microwave power levels Size: 25L Turntable glass tray 285mm 230V/50Hz",
     "specs": [
       "850W microwave output power 35mins cooking timer 5 microwave power levels Size: 25L Turntable glass tray 285mm 230V/50Hz"
@@ -4330,7 +4330,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- NPC0501",
-    "name": "Capacity of the pot: 5l aluminum polished cover and polished inner surface of the pot. straight pot body, m-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
+    "name": "Capacity Of The Pot: 5l Aluminum Polished Cov",
     "description": "Capacity of the pot: 5L Aluminum polished cover and polished inner surface of the pot. straight pot body, M-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
     "specs": [
       "Capacity of the pot: 5L Aluminum polished cover and polished inner surface of the pot. straight pot body",
@@ -4354,7 +4354,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- NPC0701",
-    "name": "Capacity of the pot: 7l aluminum polished cover and polished inner surface of the pot. straight pot body, m-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
+    "name": "Capacity Of The Pot: 7l Aluminum Polished Cov",
     "description": "Capacity of the pot: 7L Aluminum polished cover and polished inner surface of the pot. straight pot body, M-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
     "specs": [
       "Capacity of the pot: 7L Aluminum polished cover and polished inner surface of the pot. straight pot body",
@@ -4378,7 +4378,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- NPC0901",
-    "name": "Capacity of the pot: 9l aluminum polished cover and polished inner surface of the pot. straight pot body, m-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
+    "name": "Capacity Of The Pot: 9l Aluminum Polished Cov",
     "description": "Capacity of the pot: 9L Aluminum polished cover and polished inner surface of the pot. straight pot body, M-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
     "specs": [
       "Capacity of the pot: 9L Aluminum polished cover and polished inner surface of the pot. straight pot body",
@@ -4402,7 +4402,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWKCA- OVEN3801",
-    "name": "38 liters product size: 545x396x348 mm 1600w, 220v~240v (50/60hz), 100~230°c temperature control 60 min. timer with bell ring and automatic shutoff; 4pcs knobs 4 rack positions; 4pcs stainless steel heating elements single hightempered resistant glass window accessories enamel bake tray (x1) / chromed bake rack (x1) / chromed tray handle(x1) finishing powder paint white /black /red, etc. packing 5 layers gift box,without protect foam",
+    "name": "Split AC",
     "description": "38 liters Product Size: 545x396x348 mm 1600W, 220V~240V (50/60Hz), 100~230°C temperature control 60 min. timer with bell ring and automatic shutoff; 4pcs knobs 4 rack positions; 4pcs stainless steel heating elements Single hightempered resistant glass window Accessories Enamel Bake Tray (x1) / Chromed Bake Rack (x1) / Chromed Tray handle(x1) Finishing Powder paint white /black /red, etc. Packing 5 layers gift box,without protect foam",
     "specs": [
       "38 liters Product Size: 545x396x348 mm 1600W",
@@ -4426,7 +4426,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWKCA- OVEN3802",
-    "name": "38 liters product size: 545x396x348 mm 3200w, 220v~240v (50/60hz), 100~230°c temperature control 60 min. timer with bell ring and automatic shutoff; 4pcs knobs 4 rack positions; 4pcs stainless steel heating elements single hightempered resistant glass window accessories enamel bake tray (x1) / chromed bake rack (x1) / chromed tray handle(x1) finishing powder paint white /black /red, etc. packing 5 layers gift box,without protect foam",
+    "name": "Split AC",
     "description": "38 liters Product Size: 545x396x348 mm 3200W, 220V~240V (50/60Hz), 100~230°C temperature control 60 min. timer with bell ring and automatic shutoff; 4pcs knobs 4 rack positions; 4pcs stainless steel heating elements Single hightempered resistant glass window Accessories Enamel Bake Tray (x1) / Chromed Bake Rack (x1) / Chromed Tray handle(x1) Finishing Powder paint white /black /red, etc. Packing 5 layers gift box,without protect foam",
     "specs": [
       "38 liters Product Size: 545x396x348 mm 3200W",
@@ -4450,7 +4450,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA-SM0201",
-    "name": "Power :750w type of baking tray: triangular pan product dimensions: 214x206x80 mm there are two indicator lights: the power indicator light and the foo d ready indicator light it is equipped with automatic temperature control and fuse control functions equipped with a heat-insulating handle and a locking system plate size :21x11.5 cm cable length :75.0 cm",
+    "name": "Power :750w Type Of Baking Tray: Triangular P",
     "description": "power :750W Type of baking tray: Triangular pan Product dimensions: 214x206x80 mm There are two indicator lights: the power indicator light and the foo d ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :21x11.5 cm Cable length :75.0 cm",
     "specs": [
       "power :750W Type of baking tray: Triangular pan Product dimensions: 214x206x80 mm There are two indicator lights: the power indicator light and the foo d ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :21x11.5 cm Cable length :75.0 cm"
@@ -4468,7 +4468,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA-SM0401",
-    "name": "Power :1200 w type of baking tray: triangular pan product dimensions :331 x238x93mm there are two indicator lights: the power indicator light and the food ready indicator light it is equipped with automatic temperature control and fuse control functions equipped with a heat-insulating handle and a locking system plate size :23.5x23.5 cm cable length :75.0 cm",
+    "name": "Power :1200 W Type Of Baking Tray: Triangular",
     "description": "power :1200 W Type of baking tray: Triangular pan Product dimensions :331 x238x93mm There are two indicator lights: the power indicator light and the food ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :23.5x23.5 cm Cable length :75.0 cm",
     "specs": [
       "power :1200 W Type of baking tray: Triangular pan Product dimensions :331 x238x93mm There are two indicator lights: the power indicator light and the food ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :23.5x23.5 cm Cable length :75.0 cm"
@@ -4486,7 +4486,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Ovens & microwaves",
     "model": "MWKCA-SGC501- 4G",
-    "name": "Stainless steel panel, black powder-coated body four burners with enamel burner covers the burner is manually ignited flat iron furnace frame the lower burner of the oven, manual ignition + oven light black-framed glass door with black powder-coated handle one grilling net, one oil drip pan the oven has a capacity of 58 liters plastic knobs, plastic stove feet ckd loose piece packaging, with cartons, foam and auxiliary materials",
+    "name": "Table Top Cooker",
     "description": "Stainless steel panel, black powder-coated body Four burners with enamel burner covers The burner is manually ignited Flat iron furnace frame The lower burner of the oven, manual ignition + oven light Black-framed glass door with black powder-coated handle One grilling net, one oil drip pan The oven has a capacity of 58 liters Plastic knobs, plastic stove feet CKD loose piece packaging, with cartons, foam and auxiliary materials",
     "specs": [
       "Stainless steel panel",
@@ -4510,7 +4510,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Ovens & microwaves",
     "model": "MWKCA-SGC601- 3G1E",
-    "name": "Stainless steel panel, black powder-coated body glass cover with rear bracket, no front cover 3 brazilian burners with enamel flame caps, 1 electric burner 1000w (no red dot), rotary switch, no indicator light pulse ignition for burners enamel cooking grid bottom heating element for oven, manual ignition black-framed glass door with black powder-coated handle one oven rack, one drip pan oven capacity: 58l net weight of product: 28kg ckd kit packaging, with carton, foam and",
+    "name": "58L Electric Oven",
     "description": "Stainless steel panel, black powder-coated body Glass cover with rear bracket, no front cover 3 Brazilian burners with enamel flame caps, 1 electric burner 1000W (no red dot), rotary switch, no indicator light Pulse ignition for burners Enamel cooking grid Bottom heating element for oven, manual ignition Black-framed glass door with black powder-coated handle One oven rack, one drip pan Oven capacity: 58L Net weight of product: 28KG CKD kit packaging, with carton, foam and",
     "specs": [
       "Stainless steel panel",
@@ -4535,7 +4535,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-TST2211BK",
-    "name": "Accessoriesa power: 800w; capacity: two slices of bread, double slots product dimensions: 275x177x186mm shell material: pp plastic function: cancel/reheat/defrost function, with indicator light automatic power-off function",
+    "name": "Toaster Oven",
     "description": "accessoriesa Power: 800W; Capacity: Two slices of bread, double slots Product dimensions: 275x177x186mm Shell material: pp plastic Function: Cancel/reheat/defrost function, with indicator light Automatic power-off function",
     "specs": [
       "accessoriesa Power: 800W",
@@ -4556,7 +4556,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-TST4222BK",
-    "name": "Power: 1250-1500 w capacity: four slices of bread, double slots product dimensions: 375x182x195mm shell material: 430 stainless steel function: cancel/reheat/defrost function, with indicator light automatic power-off function; built-in baking rack",
+    "name": "Toaster Oven",
     "description": "Power: 1250-1500 w Capacity: Four slices of bread, double slots Product dimensions: 375x182x195mm Shell material: 430 stainless steel Function: Cancel/reheat/defrost function, with indicator light Automatic power-off function; Built-in baking rack",
     "specs": [
       "Power: 1250-1500 w Capacity: Four slices of bread",
@@ -4577,7 +4577,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW-TBM11236SL",
-    "name": "Heating power: 1350w cooling power: 75w heat preservation power: 15w cooling method: electronic cooling glass panel, double doors side iron cabinet body: abs glass kettle: 0.75 liters 304 stainless - steel electric kettle: 0.8 liters overall dimensions: 39x33x112cm others: warranty card (in 5 languages - african version), general / instruction manual outer box: reinforced power cord: full copper, 1.7 meters warranty card / instruction manual / fragile sticker",
+    "name": "0.75L Electric Kettle",
     "description": "Heating power: 1350W Cooling power: 75W Heat preservation power: 15W Cooling method: electronic cooling Glass panel, double doors Side iron cabinet Body: ABS Glass kettle: 0.75 liters 304 stainless - steel electric kettle: 0.8 liters Overall dimensions: 39x33x112cm Others: Warranty card (in 5 languages - African version), general / Instruction manual Outer box: reinforced Power cord: full copper, 1.7 meters Warranty card / Instruction manual / Fragile sticker",
     "specs": [
       "Heating power: 1350W Cooling power: 75W Heat preservation power: 15W Cooling method: electronic cooling Glass panel",
@@ -4598,7 +4598,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MW- TBM11614GR",
-    "name": "Heating power: 1375w cooling power: 75w heat - preservation power: 15w cooling method: (compressor cooling) the display screen is touch - enabled glass panel, double - door iron cabinet, material: cold - rolled steel plate abs plastic part material glass kettle: 0.6 liters warranty card / instruction manual / fragile sticker 304 stainless - steel electric kettle: 0.8 liters overall dimensions: 39x33x116cm",
+    "name": "0.6L Electric Kettle",
     "description": "Heating power: 1375W Cooling power: 75W Heat - preservation power: 15W Cooling method: (compressor cooling) The display screen is touch - enabled Glass panel, double - door Iron cabinet, material: cold - rolled steel plate ABS plastic part material Glass kettle: 0.6 liters Warranty card / Instruction manual / Fragile sticker 304 stainless - steel electric kettle: 0.8 liters Overall dimensions: 39x33x116cm",
     "specs": [
       "Heating power: 1375W Cooling power: 75W Heat - preservation power: 15W Cooling method: (compressor cooling) The display screen is touch - enabled Glass panel",
@@ -4618,7 +4618,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWEES- EPS402B",
-    "name": "Bs - standard power cord: pure copper, 1.4 meters three socket holes with usb ports bs plug cable length: 2m main wire: 2×1mm² ground wire: 1×0.5mm²",
+    "name": "Bs - Standard Power Cord: Pure Copper",
     "description": "BS - standard power cord: pure copper, 1.4 meters Three socket holes with USB ports BS plug Cable length: 2m Main wire: 2×1mm² Ground wire: 1×0.5mm²",
     "specs": [
       "BS - standard power cord: pure copper",
@@ -4637,7 +4637,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWEES- EPS502B",
-    "name": "Four socket holes with usb ports bs plug cable length: 2m main wire: 2×1mm² ground wire: 1×0.5mm² shenzhou series 2 bd1le-63",
+    "name": "Four Socket Holes With Usb Ports Bs Plug Cabl",
     "description": "Four socket holes with USB ports BS plug Cable length: 2m Main wire: 2×1mm² Ground wire: 1×0.5mm² Shenzhou Series 2 BD1LE-63",
     "specs": [
       "Four socket holes with USB ports BS plug Cable length: 2m Main wire: 2×1mm² Ground wire: 1×0.5mm² Shenzhou Series 2 BD1LE-63"
@@ -4655,7 +4655,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MW- RCCB3274BL",
-    "name": "Rated current a: 32a arc-breaking capacity ka: 6 number of poles: 2p frame current a: 63 trip current (a): 0.03a rated voltage v: ac 230v trip characteristic: non-delay type with leakage protection switch product is ce certified 3 products per box, 20 boxes per carton base quantity 205pcs, made into kraft paper boxes. cost of this is 94rmb (cost per product increases by 0.48)",
+    "name": "Split AC",
     "description": "Rated current A: 32A Arc-breaking capacity KA: 6 Number of poles: 2P Frame current A: 63 Trip current (A): 0.03A Rated voltage V: AC 230V Trip characteristic: Non-delay type With leakage protection switch Product is CE certified 3 products per box, 20 boxes per carton Base quantity 205pcs, made into kraft paper boxes. Cost of this is 94RMB (cost per product increases by 0.48)",
     "specs": [
       "Rated current A: 32A Arc-breaking capacity KA: 6 Number of poles: 2P Frame current A: 63 Trip current (A): 0.03A Rated voltage V: AC 230V Trip characteristic: Non-delay type With leakage protection switch Product is CE certified 3 products per box",
@@ -4675,7 +4675,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWEES-VST2000",
-    "name": "Outer box size: 505*335*330mm rated power :2000w, stable voltage range:110v-260v operating frequency 50-60hz rated current 9a, response time 0-4seconds, no-load current 0.05a standbypower consumption 11w",
+    "name": "2000W Voltage Stabilizer",
     "description": "Outer box size: 505*335*330MM Rated power :2000W, Stable voltage range:110V-260V Operating frequency 50-60HZ Rated current 9A, Response time 0-4seconds, No-load current 0.05A Standbypower consumption 11W",
     "specs": [
       "Outer box size: 505*335*330MM Rated power :2000W",
@@ -4696,7 +4696,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWEES-VST3000",
-    "name": "Input voltage: 95–260v output voltage: 220v/110v output power: 3000w function: 3–180 seconds delay function dimensions: 390×260×155",
+    "name": "3000W Voltage Stabilizer",
     "description": "Input Voltage: 95–260V Output Voltage: 220V/110V Output Power: 3000W Function: 3–180 seconds delay function Dimensions: 390×260×155",
     "specs": [
       "Input Voltage: 95–260V Output Voltage: 220V/110V Output Power: 3000W Function: 3–180 seconds delay function Dimensions: 390×260×155"
@@ -4714,7 +4714,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-VST5000",
-    "name": "Rated power :5000w, frequency:50hz/60hz regulation accuracy:110v/220v±1096 voltageregulationrange: 90v-260v size(mm) :405*232*260",
+    "name": "5000W Voltage Stabilizer",
     "description": "Rated power :5000W, Frequency:50Hz/60Hz Regulation accuracy:110V/220V±1096 Voltageregulationrange: 90V-260V Size(mm) :405*232*260",
     "specs": [
       "Rated power :5000W",
@@ -4733,7 +4733,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-AVP1376W",
-    "name": "Model: v331 voltage:220v output:13a under voltage:150v over voltage:260v delay time:30s/by pass",
+    "name": "Voltage Stabilizer",
     "description": "MODEL: V331 VOLTAGE:220V OUTPUT:13A UNDER VOLTAGE:150V OVER VOLTAGE:260V DELAY TIME:30S/BY PASS",
     "specs": [
       "MODEL: V331 VOLTAGE:220V OUTPUT:13A UNDER VOLTAGE:150V OVER VOLTAGE:260V DELAY TIME:30S/BY PASS"
@@ -4751,7 +4751,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MW-EMS0334",
-    "name": "Battery capacity: 800 mah discharge voltage: 3800 v charging method: usb charging",
+    "name": "Emergency Light",
     "description": "Battery Capacity: 800 mAh Discharge Voltage: 3800 V Charging Method: USB Charging",
     "specs": [
       "Battery Capacity: 800 mAh Discharge Voltage: 3800 V Charging Method: USB Charging"
@@ -4769,7 +4769,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWFAN-ESF1801",
-    "name": "18-inch mechanical fan, full black appearance 1.guard: 120-mesh double-ring guard, diameter 1.2mm 2.blade: 5-blade, pp material 3.motor: motor model, 50w, ac motor 4.base: solid disc base, 2kg 5.specification: uk standard power cord 6.function: 3-speed adjustment with ordinary white buttons 7.pole specification: 380 * 270mm 8.fix the guard with plastic tape 9.overall height: 1300mm",
+    "name": "Split AC",
     "description": "18-inch mechanical fan, full black appearance 1.Guard: 120-mesh double-ring guard, diameter 1.2mm 2.Blade: 5-blade, PP material 3.Motor: Motor model, 50W, AC motor 4.Base: Solid disc base, 2kg 5.Specification: UK standard power cord 6.Function: 3-speed adjustment with ordinary white buttons 7.Pole specification: 380 * 270mm 8.Fix the guard with plastic tape 9.Overall height: 1300mm",
     "specs": [
       "18-inch mechanical fan",
@@ -4793,7 +4793,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-ESF1803",
-    "name": "18-inch mechanical fan, full black appearance 1.guard: 120-mesh double-ring guard, wire diameter 1.2mm 2.blade: 5-blade, as (acrylonitrile styrene) material 3.motor: model 7118 motor, 60w 4.base: solid disc base, 2kg 5.specification: uk standard power cord 6.function: 3-speed adjustment with silver-plated buttons 7.pole specification: 380 * 270mm 8.fix the guard with plastic tape 9.overall height: 1350mm",
+    "name": "Stand Fan",
     "description": "18-inch mechanical fan, full black appearance 1.Guard: 120-mesh double-ring guard, wire diameter 1.2mm 2.Blade: 5-blade, AS (Acrylonitrile Styrene) material 3.Motor: Model 7118 motor, 60W 4.Base: Solid disc base, 2kg 5.Specification: UK standard power cord 6.Function: 3-speed adjustment with silver-plated buttons 7.Pole specification: 380 * 270mm 8.Fix the guard with plastic tape 9.Overall height: 1350mm",
     "specs": [
       "18-inch mechanical fan",
@@ -4816,7 +4816,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-IFN2002",
-    "name": "1.20-inch height-adjustable stand fan, 3 blades 2.power: 110w, pure copper motor 3.british standard (bs) plug, 2m exposed power cord 4.with height-adjustable pole 5.cross-shaped rubber base, 7kg",
+    "name": "Stand Fan",
     "description": "1.20-inch height-adjustable stand fan, 3 blades 2.Power: 110W, pure copper motor 3.British standard (BS) plug, 2m exposed power cord 4.With height-adjustable pole 5.Cross-shaped rubber base, 7kg",
     "specs": [
       "1.20-inch height-adjustable stand fan",
@@ -4838,7 +4838,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-IFN2602",
-    "name": "1.26-inch height-adjustable stand fan, 3 blades 2.power: 150w, pure copper motor 3.british standard (bs) plug, 2m exposed power cord 4.with height-adjustable pole 5.cross-shaped rubber base, 7kg",
+    "name": "Stand Fan",
     "description": "1.26-inch height-adjustable stand fan, 3 blades 2.Power: 150W, pure copper motor 3.British Standard (BS) plug, 2m exposed power cord 4.With height-adjustable pole 5.Cross-shaped rubber base, 7kg",
     "specs": [
       "1.26-inch height-adjustable stand fan",
@@ -4860,7 +4860,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-MNF10Y",
-    "name": "Size:6-inch fan battery:18650 battery, 3.7v / 3ah operating time:3.5 - 6 hours speed settings:2 wind speeds led light:setting 2 for light-control charging time: 5 hours usb output :5v with hanger",
+    "name": "Fan",
     "description": "Size:6-inch fan Battery:18650 battery, 3.7V / 3Ah Operating Time:3.5 - 6 hours Speed Settings:2 wind speeds LED Light:Setting 2 for light-control Charging Time: 5 Hours USB OUTPUT :5V With hanger",
     "specs": [
       "Size:6-inch fan Battery:18650 battery",
@@ -4879,7 +4879,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-MNF11Y",
-    "name": "Size:8-inch fan battery:18650 battery, 3.7v / 4.5ah operating time:3.5 - 6 h speed settings:2 wind speeds led light:setting 2 for light-control charging time: 5 h usb output :5v",
+    "name": "Fan",
     "description": "Size:8-inch fan Battery:18650 battery, 3.7V / 4.5Ah Operating Time:3.5 - 6 H Speed Settings:2 wind speeds LED Light:Setting 2 for light-control Charging Time: 5 H USB OUTPUT :5V",
     "specs": [
       "Size:8-inch fan Battery:18650 battery",
@@ -4898,7 +4898,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWFAN-MNF12Y",
-    "name": "Size:8-inch fan battery: 3.7v 4.5 ah battery operating time:5-8h charging time: 8 h fan charger: ac110 ~ 240v 50/60hz or dc 6v with ac charging cable come with 6v3w solar panel and 3v lamp *2light bead: 14pcs e2835u 3.0-3.4v",
+    "name": "Split AC",
     "description": "Size:8-inch fan Battery: 3.7V 4.5 AH battery Operating Time:5-8H Charging Time: 8 H Fan charger: AC110 ~ 240V 50/60Hz or DC 6V With AC charging cable Come with 6V3W Solar panel and 3V lamp *2Light Bead: 14PCS E2835U 3.0-3.4V",
     "specs": [
       "Size:8-inch fan Battery: 3.7V 4.5 AH battery Operating Time:5-8H Charging Time: 8 H Fan charger: AC110 ~ 240V 50/60Hz or DC 6V With AC charging cable Come with 6V3W Solar panel and 3V lamp *2Light Bead: 14PCS E2835U 3.0-3.4V"
@@ -4916,7 +4916,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-MNF13Y",
-    "name": "Product:rechargeable fan (7-inch housing with 6- inch blade) 360 degree adjustable fan head & bottom lithium battery 18650# 1200mah*2 operating time:2.5-4.5h charging time: 4 h switch: stepless variable speed",
+    "name": "Rechargeable Table Fan",
     "description": "Product:Rechargeable Fan (7-inch housing with 6- inch blade) 360 degree adjustable fan head & bottom lithium battery 18650# 1200mAh*2 Operating Time:2.5-4.5H Charging Time: 4 H switch: stepless variable speed",
     "specs": [
       "Product:Rechargeable Fan (7-inch housing with 6- inch blade) 360 degree adjustable fan head & bottom lithium battery 18650# 1200mAh*2 Operating Time:2.5-4.5H Charging Time: 4 H switch: stepless variable speed"
@@ -4934,7 +4934,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-MNF14Y",
-    "name": "Product:rechargeable fan (7-inch housing with 6- inch blade) battery:18650 lithium-ion battery, 2 cells in series (1.2ah*2), 3.7v operating time:3.5 - 8.5 hours charging time: 4 h speed settings:3 wind speed",
+    "name": "Rechargeable Fan",
     "description": "Product:Rechargeable Fan (7-inch housing with 6- inch blade) Battery:18650 Lithium-ion battery, 2 cells in series (1.2Ah*2), 3.7V Operating Time:3.5 - 8.5 hours Charging Time: 4 H Speed Settings:3 wind speed",
     "specs": [
       "Product:Rechargeable Fan (7-inch housing with 6- inch blade) Battery:18650 Lithium-ion battery",
@@ -4954,7 +4954,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-MNF15Y",
-    "name": "Product:rechargeable fan (8-inch housing with 6- inch blade) battery:18650 lithium-ion battery, 2 cells in series (1.2ah*2), 3.7v operating time: 2.5 - 8.5 hours charging time: 4 h speed settings: 5 wind speeds size: 12 inch",
+    "name": "12\" Rechargeable Fan",
     "description": "Product:Rechargeable Fan (8-inch housing with 6- inch blade) Battery:18650 Lithium-ion battery, 2 cells in series (1.2Ah*2), 3.7V Operating Time: 2.5 - 8.5 hours Charging Time: 4 H Speed Settings: 5 wind speeds Size: 12 inch",
     "specs": [
       "Product:Rechargeable Fan (8-inch housing with 6- inch blade) Battery:18650 Lithium-ion battery",
@@ -4974,7 +4974,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MW-MIST1216W",
-    "name": "Power: 60w working hours: 1.5 -5 hours battery: 12v4.5ah rechargeablesealed lead-acid battery water capacity: 1.6l casing: white front panel, black rear panel power cord: 220-240v british standard (bs) plug speed settings: 3 fan speeds mist function: supports mist/humidification via both ac power and dc battery oscillation: 360° horizontal oscillation timer: 1-8 hours shut-off timer wind mode: natural wind mode control: button & infrared remotecontrol safety feature: dry-run protection (auto shut-off when water is low)",
+    "name": "Split AC",
     "description": "Power: 60W Working Hours: 1.5 -5 Hours Battery: 12V4.5Ah RechargeableSealed Lead-Acid Battery Water capacity: 1.6L Casing: White front panel, black rear panel Power Cord: 220-240V British Standard (BS) plug Speed Settings: 3 fan speeds Mist Function: Supports mist/humidification via both AC power and DC battery Oscillation: 360° horizontal oscillation Timer: 1-8 hours shut-off timer Wind Mode: Natural wind mode Control: button & Infrared remotecontrol Safety Feature: Dry-run protection (auto shut-off when water is low)",
     "specs": [
       "Power: 60W Working Hours: 1.5 -5 Hours Battery: 12V4.5Ah RechargeableSealed Lead-Acid Battery Water capacity: 1.6L Casing: White front panel",
@@ -4993,7 +4993,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MW-MIST1827W",
-    "name": "Size: 18 inch power: 75w working hours: 1.5 -3 hours battery: 12v4.5ah rechargeablesealed lead-acid battery water capacity: 2.1l casing & tank: white main body, blue water tank power cord: 220-240v british standard (bs) plug power cord speed settings: 3 fan speeds mist function: supports mist/humidification via both ac power and dc battery oscillation: oscillation function (e.g., 360° horizontal) timer: 1-7 hours auto shut-off timer wind mode: natural wind mode control: button & infrared remote control safety feature: dry-run protection (auto shut-off when water is low)",
+    "name": "Split AC",
     "description": "Size: 18 inch Power: 75W Working Hours: 1.5 -3 Hours Battery: 12V4.5Ah RechargeableSealed Lead-Acid Battery Water capacity: 2.1L Casing & Tank: White main body, blue water tank Power Cord: 220-240V British Standard (BS) plug power cord Speed Settings: 3 fan speeds Mist Function: Supports mist/humidification via both AC power and DC battery Oscillation: Oscillation function (e.g., 360° horizontal) Timer: 1-7 hours auto shut-off timer Wind Mode: Natural wind mode Control: button & Infrared remote control Safety Feature: Dry-run protection (auto shut-off when water is low)",
     "specs": [
       "Size: 18 inch Power: 75W Working Hours: 1.5 -3 Hours Battery: 12V4.5Ah RechargeableSealed Lead-Acid Battery Water capacity: 2.1L Casing & Tank: White main body",
@@ -5013,7 +5013,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MW-MIST1838BK",
-    "name": "Size: 18 inch power: 60w black body (220-240 bs standard plug power cord) five-speed wind speed adjustment three-level mist volume adjustment wide-angle 70º oscillating airflow 7-hour timer shutdown three blowing mode adjustments brushless dc motor drive water capacity:4l control:button&infrared remote control low water protection to prevent dry burning",
+    "name": "18\" Stand Fan",
     "description": "Size: 18 inch Power: 60w Black body (220-240 BS standard plug power cord) Five-speed wind speed adjustment Three-level mist volume adjustment Wide-angle 70º oscillating airflow 7-hour timer shutdown Three blowing mode adjustments Brushless DC motor drive Water capacity:4L Control:Button&Infrared remote control Low water protection to prevent dry burning",
     "specs": [
       "Size: 18 inch Power: 60w Black body (220-240 BS standard plug power cord) Five-speed wind speed adjustment Three-level mist volume adjustment Wide-angle 70º oscillating airflow 7-hour timer shutdown Three blowing mode adjustments Brushless DC motor drive Water capacity:4L Control:Button&Infrared remote control Low water protection to prevent dry burning"
@@ -5031,7 +5031,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MW-MIST1849BK",
-    "name": "Size: 18 inch power: 60w voltage:220-240v black body (with bs - standard plug adapter) 12 - level wind speed three - level mist volume three blowing modes dc brushless motor timing function ranging from 1 to 8 hours touch - control operation with led digital display air supply in multiple angles water capacity:4l touch - control operation with led digital display infrared remote - control function low water protection to prevent dry burning",
+    "name": "18\" Stand Fan",
     "description": "Size: 18 inch Power: 60w Voltage:220-240V Black body (with BS - standard plug adapter) 12 - level wind speed Three - level mist volume Three blowing modes DC brushless motor Timing function ranging from 1 to 8 hours Touch - control operation with LED digital display Air supply in multiple angles Water capacity:4L Touch - control operation with LED digital display Infrared remote - control function Low water protection to prevent dry burning",
     "specs": [
       "Size: 18 inch Power: 60w Voltage:220-240V Black body (with BS - standard plug adapter) 12 - level wind speed Three - level mist volume Three blowing modes DC brushless motor Timing function ranging from 1 to 8 hours Touch - control operation with LED digital display Air supply in multiple angles Water capacity:4L Touch - control operation with LED digital display Infrared remote - control function Low water protection to prevent dry burning"
@@ -5049,7 +5049,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWFAN- RSF1602BK",
-    "name": "16inch battery: 12v 7ah lead acid battery charging time: 13h working time: 6hrs for high speed; 20hrs for low speed usb/dc output: 5v/12v dc input: 15v ac input: ac 110~240v 50/60hz dimension: 43.3 x 49 x 129 cm; function: 2 lamp output ports; usboutput; solar panel charging port,external battery charging port",
+    "name": "Split AC",
     "description": "16Inch Battery: 12V 7AH Lead Acid Battery Charging Time: 13H Working Time: 6hrs For High Speed; 20hrs For low Speed USB/DC Output: 5V/12V DC Input: 15V AC Input: AC 110~240V 50/60Hz Dimension: 43.3 x 49 x 129 cm; Function: 2 lamp output ports; USBoutput; solar panel charging port,external battery charging port",
     "specs": [
       "16Inch Battery: 12V 7AH Lead Acid Battery Charging Time: 13H Working Time: 6hrs For High Speed",
@@ -5072,7 +5072,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWFAN-RSF18",
-    "name": "18inch battery: 12v 7ah lead acid battery charging time: 13h working time: 5.5hrs for high speed; 18 hrs for low speed usb/dc output: 5v/12v dc input: 15v ac input: ac 110~240v 50/60hz dimension: 43.3 x 49 x 129 cm; function: 2 lamp output ports; usboutput; solar panel charging port,external battery charging port",
+    "name": "Split AC",
     "description": "18Inch Battery: 12V 7AH Lead Acid Battery Charging Time: 13H Working Time: 5.5hrs For High Speed; 18 hrs For low Speed USB/DC Output: 5V/12V DC Input: 15V AC Input: AC 110~240V 50/60Hz Dimension: 43.3 x 49 x 129 cm; Function: 2 lamp output ports; USBoutput; solar panel charging port,external battery charging port",
     "specs": [
       "18Inch Battery: 12V 7AH Lead Acid Battery Charging Time: 13H Working Time: 5.5hrs For High Speed",
@@ -5095,7 +5095,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWFAN- RSF1802BK",
-    "name": "18inch battery: 12v 7ah lead acid battery charging time: 13h working time: 5.5hrs for high speed; 18 hrs for low speed usb/dc output: 5v/12v dc input: 15v ac input: ac 110~240v 50/60hz dimension: 43.3 x 49 x 129 cm; function: 2 lamp output ports; usboutput; solar panel charging port,external battery charging port",
+    "name": "Split AC",
     "description": "18Inch Battery: 12V 7AH Lead Acid Battery Charging Time: 13H Working Time: 5.5hrs For High Speed; 18 hrs For low Speed USB/DC Output: 5V/12V DC Input: 15V AC Input: AC 110~240V 50/60Hz Dimension: 43.3 x 49 x 129 cm; Function: 2 lamp output ports; USBoutput; solar panel charging port,external battery charging port",
     "specs": [
       "18Inch Battery: 12V 7AH Lead Acid Battery Charging Time: 13H Working Time: 5.5hrs For High Speed",
@@ -5118,7 +5118,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MW-RSF1805BK",
-    "name": "18inch battery: 12v 4.5ah lead acid battery charging time: 8 hours working time: 3.5hrs for high speed; 8hrs for low speed usb/dc output: 5v/12v dc input: 15v ac input: ac 110~240v 50/60hz function: 2 lamp output ports; usboutput; solar panel charging port,external battery charging port",
+    "name": "Split AC",
     "description": "18Inch Battery: 12V 4.5AH Lead Acid Battery Charging Time: 8 Hours Working Time: 3.5hrs For High Speed; 8hrs For low Speed USB/DC Output: 5V/12V DC Input: 15V AC Input: AC 110~240V 50/60Hz Function: 2 lamp output ports; USBoutput; solar panel charging port,external battery charging port",
     "specs": [
       "18Inch Battery: 12V 4.5AH Lead Acid Battery Charging Time: 8 Hours Working Time: 3.5hrs For High Speed",
@@ -5140,7 +5140,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWEES-SLP06",
-    "name": "Maximum power: 6w product size:19.5*18*29.5 maximum voltage: 9v current at maximum power: 0.6a open - circuit voltage: 10.8v short - circuit current: 0.766a",
+    "name": "6W Solar Light",
     "description": "Maximum power: 6W Product Size:19.5*18*29.5 Maximum voltage: 9V Current at maximum power: 0.6A Open - circuit voltage: 10.8V Short - circuit current: 0.766A",
     "specs": [
       "Maximum power: 6W Product Size:19.5*18*29.5 Maximum voltage: 9V Current at maximum power: 0.6A Open - circuit voltage: 10.8V Short - circuit current: 0.766A"
@@ -5158,7 +5158,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWEES-SLP10",
-    "name": "16v10w 16\"&18\" fan 12 inch",
+    "name": "16\" Fan",
     "description": "16V10W 16\"&18\" FAN 12 Inch",
     "specs": [
       "16V10W 16\"&18\" FAN 12 Inch"
@@ -5176,7 +5176,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Air Conditioners",
     "subcategory": "Split",
     "model": "MWFAN-RTF12",
-    "name": "Battery: 6v 4.5ah lead acid battery charging time: 8-10h working time: 3.5 hrs for high speed; 8 hrs for low speed usb/dc output: 5v/6v dc input: 9vac input: ac 110~240v 50/60hz dimension: 34 x 26 x 51cm; function: 2 lamp output ports; usboutput; solar panel charging port",
+    "name": "Split AC",
     "description": "Battery: 6V 4.5AH Lead Acid Battery Charging Time: 8-10H Working Time: 3.5 hrs For High Speed; 8 hrs For low Speed USB/DC Output: 5V/6V DC Input: 9VAC Input: AC 110~240V 50/60Hz Dimension: 34 x 26 x 51cm; Function: 2 lamp output ports; USBoutput; solar panel charging port",
     "specs": [
       "Battery: 6V 4.5AH Lead Acid Battery Charging Time: 8-10H Working Time: 3.5 hrs For High Speed",
@@ -5198,7 +5198,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MW-RWF1635BK",
-    "name": "Battery: 6v/7ah voltage range: 110–240v working time: 4.5–8 hours timer function: 0.5 hour speed levels: 3 levels 16-inch mechanical fan, full black appearance",
+    "name": "Fan",
     "description": "Battery: 6V/7Ah Voltage Range: 110–240V Working Time: 4.5–8 hours Timer Function: 0.5 hour Speed Levels: 3 levels 16-inch mechanical fan, full black appearance",
     "specs": [
       "Battery: 6V/7Ah Voltage Range: 110–240V Working Time: 4.5–8 hours Timer Function: 0.5 hour Speed Levels: 3 levels 16-inch mechanical fan",
@@ -5217,7 +5217,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MWFAN-ESF1601",
-    "name": "1.guard : 120-mesh double-ring guard, diameter 1.2mm 2.blade : 5-blade, pp material 3.motor : motor model, 40w, pure copper motor 4. base : solid disc, 2kg 5.specification : uk standard power cord 6. function : 3-speed adjustment with ordinary white buttons 7.pole specification : 380 * 270mm 8. fix the guard with plastic tape 9. overall height : 1300mm",
+    "name": "Stand Fan",
     "description": "1.Guard : 120-mesh double-ring guard, diameter 1.2mm 2.Blade : 5-blade, PP material 3.Motor : Motor model, 40W, pure copper motor 4. Base : Solid disc, 2kg 5.Specification : UK standard power cord 6. Function : 3-speed adjustment with ordinary white buttons 7.Pole specification : 380 * 270mm 8. Fix the guard with plastic tape 9. Overall height : 1300mm",
     "specs": [
       "1.Guard : 120-mesh double-ring guard",
@@ -5240,7 +5240,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MW-WMF1608BK",
-    "name": "16-inch wall fan non rechargeable fan guard: 120-wire double-ring fan guard, wire diameter 1.2mm fan blades: 5 as blades motor: 6616 aluminum wire, 50w + synchronous motor specification: uk standard power cord (aluminum wire) function: 3-speed push button control color box: single unit packing [size: 505*156*433mm]",
+    "name": "Rechargeable Stand Fan",
     "description": "16-inch Wall Fan Non Rechargeable Fan guard: 120-wire double-ring fan guard, wire diameter 1.2mm Fan blades: 5 AS blades Motor: 6616 aluminum wire, 50W + synchronous motor Specification: UK standard power cord (aluminum wire) Function: 3-speed push button control Color box: Single unit packing [Size: 505*156*433mm]",
     "specs": [
       "16-inch Wall Fan Non Rechargeable Fan guard: 120-wire double-ring fan guard",
@@ -5260,7 +5260,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Fans",
     "subcategory": "Fans",
     "model": "MW-WMF1808BK",
-    "name": "18-inch wall fan non rechargeable guard: 120-strand double-ring guard, wire diameter 1.2mm fan blades: 5 as blades motor: 7120 aluminum wire, 60w + synchronous motor specification: uk standard power cord (aluminum wire) function: 3-speed push button control color box: single unit packing [size: 510*156*501mm]",
+    "name": "Rechargeable Stand Fan",
     "description": "18-inch Wall Fan Non Rechargeable Guard: 120-strand double-ring guard, wire diameter 1.2mm Fan Blades: 5 AS blades Motor: 7120 aluminum wire, 60W + synchronous motor Specification: UK standard power cord (aluminum wire) Function: 3-speed push button control Color Box: Single unit packing [Size: 510*156*501mm]",
     "specs": [
       "18-inch Wall Fan Non Rechargeable Guard: 120-strand double-ring guard",
@@ -5280,7 +5280,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-01BK",
-    "name": "Power: 1000w voltage: 220 - 240v base plate size: 208x108mm over heat safety protection cord length: 190mm easy temperature control function:dry/adjustable temperature control",
+    "name": "1000W Steam Iron",
     "description": "Power: 1000W Voltage: 220 - 240v Base plate size: 208x108mm Over heat safety protection Cord Length: 190mm Easy Temperature Control Function:Dry/adjustable temperature control",
     "specs": [
       "Power: 1000W Voltage: 220 - 240v Base plate size: 208x108mm Over heat safety protection Cord Length: 190mm Easy Temperature Control Function:Dry/adjustable temperature control"
@@ -5298,7 +5298,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-02Y",
-    "name": "Power: 1000w voltage: 220 - 240v soleplate size:195x107mm over heat safety protection material:abs+pp; teflon plate function:dry/adjustable temperature control",
+    "name": "1000W Steam Iron",
     "description": "Power: 1000W Voltage: 220 - 240v Soleplate size:195x107mm Over heat safety protection Material:ABS+PP; Teflon plate Function:Dry/adjustable temperature control",
     "specs": [
       "Power: 1000W Voltage: 220 - 240v Soleplate size:195x107mm Over heat safety protection Material:ABS+PP",
@@ -5317,7 +5317,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-03Y",
-    "name": "Power: 1200w voltage: 220 - 240v base plate size: 200x110mm watertank capacity:180ml over heat safety protection material:abs+pp; teflon plate function:dry/adjustable temperature control",
+    "name": "1200W Steam Iron",
     "description": "Power: 1200W Voltage: 220 - 240v Base plate size: 200x110mm Watertank capacity:180ml Over heat safety protection Material:ABS+PP; Teflon plate Function:Dry/adjustable temperature control",
     "specs": [
       "Power: 1200W Voltage: 220 - 240v Base plate size: 200x110mm Watertank capacity:180ml Over heat safety protection Material:ABS+PP",
@@ -5336,7 +5336,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-04Y",
-    "name": "Power: 2200w voltage: 220 - 240v base plate size: 225x121mm watertank capacity:250ml over heat safety protection material:abs+pp; teflon plate function:dry/adjustable temperature control",
+    "name": "2200W Steam Iron",
     "description": "Power: 2200W Voltage: 220 - 240v Base plate size: 225x121mm Watertank capacity:250ml Over heat safety protection Material:ABS+PP; Teflon plate Function:Dry/adjustable temperature control",
     "specs": [
       "Power: 2200W Voltage: 220 - 240v Base plate size: 225x121mm Watertank capacity:250ml Over heat safety protection Material:ABS+PP",
@@ -5355,7 +5355,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-06BK",
-    "name": "Power: 2200w voltage: 220 - 240v base plate size: 235x125mm watertank capacity:400ml over heat safety protection function:dry/spray/variable of steam control//powerful burst of steam/self-cleaning material:housing: abs, water tank: pp",
+    "name": "2200W Steam Iron",
     "description": "Power: 2200W Voltage: 220 - 240v Base plate size: 235x125mm Watertank capacity:400ml Over heat safety protection Function:Dry/Spray/Variable of steam control//Powerful burst of steam/Self-cleaning Material:Housing: ABS, Water tank: PP",
     "specs": [
       "Power: 2200W Voltage: 220 - 240v Base plate size: 235x125mm Watertank capacity:400ml Over heat safety protection Function:Dry/Spray/Variable of steam control//Powerful burst of steam/Self-cleaning Material:Housing: ABS",
@@ -5374,7 +5374,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-07Y",
-    "name": "Power: 2200w voltage: 220 - 240v base plate size: 235x125mm watertank capacity:400ml over heat safety protection function:dry/spray/variable of steam control//powerful burst of steam/self-cleaning material:housing: abs, water tank: pp",
+    "name": "2200W Steam Iron",
     "description": "Power: 2200W Voltage: 220 - 240v Base plate size: 235x125mm Watertank capacity:400ml Over heat safety protection Function:Dry/Spray/Variable of steam control//Powerful burst of steam/Self-cleaning Material:Housing: ABS, Water tank: PP",
     "specs": [
       "Power: 2200W Voltage: 220 - 240v Base plate size: 235x125mm Watertank capacity:400ml Over heat safety protection Function:Dry/Spray/Variable of steam control//Powerful burst of steam/Self-cleaning Material:Housing: ABS",
@@ -5393,7 +5393,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-08Y",
-    "name": "Power: 2400-2800w voltage: 220 - 240v base plate size: 245*128 mm watertank capacity:420ml over heat safety protection base plate coating: ceramic total length of power cord: 2m (including the part assembled inside) base plate size: 245*128 mm packaging size: 320*128*165 mm",
+    "name": "2800W Steam Iron",
     "description": "Power: 2400-2800W Voltage: 220 - 240v Base plate size: 245*128 mm Watertank capacity:420ml Over heat safety protection Base plate coating: Ceramic Total length of power cord: 2M (including the part assembled inside) Base plate size: 245*128 mm Packaging size: 320*128*165 mm",
     "specs": [
       "Power: 2400-2800W Voltage: 220 - 240v Base plate size: 245*128 mm Watertank capacity:420ml Over heat safety protection Base plate coating: Ceramic Total length of power cord: 2M (including the part assembled inside) Base plate size: 245*128 mm Packaging size: 320*128*165 mm"
@@ -5411,7 +5411,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWIRON-09BK",
-    "name": "Power: 2800-3200w voltage: 220 - 240v base plate size: 245*128 mm watertank capacity:450ml over heat safety protection base plate coating: ceramic total length of power cord: 2m (including the part assembled in) base plate size: 247 * 127 mm packaging size: 320 * 130 * 155 mm",
+    "name": "3200W Steam Iron",
     "description": "Power: 2800-3200W Voltage: 220 - 240v Base plate size: 245*128 mm Watertank capacity:450ml Over heat safety protection Base plate coating: Ceramic Total length of power cord: 2M (including the part assembled in) Base plate size: 247 * 127 mm Packaging size: 320 * 130 * 155 mm",
     "specs": [
       "Power: 2800-3200W Voltage: 220 - 240v Base plate size: 245*128 mm Watertank capacity:450ml Over heat safety protection Base plate coating: Ceramic Total length of power cord: 2M (including the part assembled in) Base plate size: 247 * 127 mm Packaging size: 320 * 130 * 155 mm"
@@ -5429,7 +5429,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-01BK",
-    "name": "Power: 1500w capacity: 1.8l body: 201# stainless steel, exterior with fine sand coating, interior washed with water, thickness typically 0.24mm plastic parts: black color + 201# inner steel cover single gold temperature control",
+    "name": "Power: 1500w Capacity: 1",
     "description": "Power: 1500W Capacity: 1.8L Body: 201# stainless steel, exterior with fine sand coating, interior washed with water, thickness typically 0.24MM Plastic parts: Black color + 201# inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.8L Body: 201# stainless steel",
@@ -5450,7 +5450,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-01Y",
-    "name": "Power: 1500w capacity: 1.8l body: 201# stainless steel, exterior polished sand, interior washed with water, thickness 0.24mm (standard) plastic parts: yellow color + 201# inner steel cover single gold temperature control",
+    "name": "Power: 1500w Capacity: 1",
     "description": "Power: 1500W Capacity: 1.8L Body: 201# stainless steel, exterior polished sand, interior washed with water, thickness 0.24MM (standard) Plastic parts: Yellow color + 201# inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.8L Body: 201# stainless steel",
@@ -5471,7 +5471,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-02W",
-    "name": "Power: 1500w capacity: 1.5l body: 201# stainless steel, polished inside, regular thickness of 0.24mm plastic parts: new material plastic parts+ 201 inner steel cover single gold temperature control",
+    "name": "Power: 1500w Capacity: 1",
     "description": "Power: 1500W Capacity: 1.5L Body: 201# stainless steel, polished inside, regular thickness of 0.24MM Plastic parts: New material plastic parts+ 201 inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.5L Body: 201# stainless steel",
@@ -5491,7 +5491,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-02Y",
-    "name": "Power: 1500w capacity: 1.5l body: 201# stainless steel, polished inside, regular thickness of 0.24mm plastic parts: new material plastic parts+ 201 inner steel cover single gold temperature control",
+    "name": "Power: 1500w Capacity: 1",
     "description": "Power: 1500W Capacity: 1.5L Body: 201# stainless steel, polished inside, regular thickness of 0.24MM Plastic parts: New material plastic parts+ 201 inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.5L Body: 201# stainless steel",
@@ -5511,7 +5511,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Kitchen Appliances",
     "subcategory": "Small appliances",
     "model": "MWKET-04W",
-    "name": "Power: 1500w capacity 1.8l, inner 304 s/s material 0.35mm electric kettle with heat preservation function double metal controller heating plate 0.35mm, heating tube 1.2mm 360 degree rotating separated base",
+    "name": "1.8L Electric Kettle",
     "description": "Power: 1500W Capacity 1.8L, Inner 304 S/S material 0.35mm Electric kettle with heat preservation function Double metal controller Heating plate 0.35mm, Heating tube 1.2mm 360 Degree rotating separated base",
     "specs": [
       "Power: 1500W Capacity 1.8L",
@@ -5531,7 +5531,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-06BK",
-    "name": "Power: 1800w maximum capacity: 5.0l, with safety lock lid automatic on/off switch, dry heat protection 0.35mm thickened pot body, detachable power socket, new pp power cord: 75cm copper wire 120mm diameter enlarged heating tube",
+    "name": "Power: 1800w Maximum Capacity: 5",
     "description": "Power: 1800W Maximum Capacity: 5.0L, with safety lock lid Automatic on/off switch, dry heat protection 0.35mm thickened pot body, detachable power socket, new PP Power cord: 75cm copper wire 120mm diameter enlarged heating tube",
     "specs": [
       "Power: 1800W Maximum Capacity: 5.0L",
@@ -5553,7 +5553,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-QP1201",
-    "name": "Material: 201 stainless steel 12w saving 90% energy compare with 100 incandescent lamp",
+    "name": "Material: 201 Stainless Steel 12w Saving 90%",
     "description": "Material: 201 Stainless Steel 12W Saving 90% Energy Compare With 100 Incandescent Lamp",
     "specs": [
       "Material: 201 Stainless Steel 12W Saving 90% Energy Compare With 100 Incandescent Lamp"
@@ -5571,7 +5571,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWLED-EAB8002",
-    "name": "Power: 80 w battery capacity: 3600mah usage time: 8 - 12 hours overall dimensions of the machine: 0.11 m × 0.1 m × 0.16 m",
+    "name": "Power: 80 W Battery Capacity: 3600mah Usage T",
     "description": "Power: 80 W Battery capacity: 3600mAh Usage time: 8 - 12 hours Overall dimensions of the machine: 0.11 m × 0.1 m × 0.16 m",
     "specs": [
       "Power: 80 W Battery capacity: 3600mAh Usage time: 8 - 12 hours Overall dimensions of the machine: 0.11 m × 0.1 m × 0.16 m"
@@ -5589,7 +5589,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Power & Electrical",
     "subcategory": "Power & Electrical",
     "model": "MWLL-FDL60- SOLAR",
-    "name": "Power: 60w battery capacity: 8000mah usage time: 6 - 8 hours",
+    "name": "60W Solar Flood Light",
     "description": "Power: 60W Battery Capacity: 8000MAH Usage Time: 6 - 8 hours",
     "specs": [
       "Power: 60W Battery Capacity: 8000MAH Usage Time: 6 - 8 hours"
@@ -5607,7 +5607,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW-TP1501 MW1102STGB2W L MW1102STSGB2",
-    "name": "15w saving 90% energy compare with 100 incandescent lamp 110\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glass ， whaleos/webos 110\" uhd 4k, 3hdmi,2usb,1rj45",
+    "name": "110\" 4K Smart LED TV",
     "description": "15W Saving 90% Energy Compare With 100 Incandescent Lamp 110\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glass ， Whaleos/Webos 110\" UHD 4K, 3HDMI,2USB,1RJ45",
     "specs": [
       "15W Saving 90% Energy Compare With 100 Incandescent Lamp 110\" UHD 4K",
@@ -5632,7 +5632,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "WB MW1152STGB2W L MW322AG",
-    "name": "Input,1vga,1coaxial,smart,1.5g+8g,double glass ， whaleos/webos 115\" mini-led 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glass ， whaleos 32\"led hd tv,2hdmi,2usb,1vga,1coaxial,double glass",
+    "name": "115\" Mini-LED 4K Smart LED TV",
     "description": "Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glass ， Whaleos/Webos 115\" MINI-LED 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glass ， Whaleos 32\"LED HD TV,2HDMI,2USB,1VGA,1COAXIAL,Double Glass",
     "specs": [
       "Input",
@@ -5657,7 +5657,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW322STGB1WL",
-    "name": "32\"led hd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g,double glass ， whaleos",
+    "name": "32\" HD Smart LED TV",
     "description": "32\"LED HD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G,Double Glass ， Whaleos",
     "specs": [
       "32\"LED HD TV",
@@ -5682,7 +5682,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW323S",
-    "name": "32\"led hd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g,frameless,lan",
+    "name": "32\" HD Smart LED TV",
     "description": "32\"LED HD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G,Frameless,LAN",
     "specs": [
       "32\"LED HD TV",
@@ -5707,7 +5707,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW431STB1WL",
-    "name": "43\"led fhd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g ， whaleos",
+    "name": "43\" Full HD Smart LED TV",
     "description": "43\"LED FHD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G ， Whaleos",
     "specs": [
       "43\"LED FHD TV",
@@ -5731,7 +5731,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW432AG",
-    "name": "43\"led fhd tv,2hdmi,2usb,1vga,1coaxial,black,airplay/mir acast/dlna,double glass",
+    "name": "43\" Full HD LED TV",
     "description": "43\"LED FHD TV,2HDMI,2USB,1VGA,1COAXIAL,Black,Airplay/Mir acast/DLNA,Double Glass",
     "specs": [
       "43\"LED FHD TV",
@@ -5756,7 +5756,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW432STGB1WL",
-    "name": "43\"led fhd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g,double glass ， whaleos",
+    "name": "43\" Full HD Smart LED TV",
     "description": "43\"LED FHD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G,Double Glass ， Whaleos",
     "specs": [
       "43\"LED FHD TV",
@@ -5781,7 +5781,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW432STSGB2W B",
-    "name": "43\"led fhd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g,double glass ， webos",
+    "name": "43\" Full HD Smart LED TV",
     "description": "43\"LED FHD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G,Double Glass ， Webos",
     "specs": [
       "43\"LED FHD TV",
@@ -5806,7 +5806,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW500STGB1WL",
-    "name": "50\"led fhd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g,frameless,double glass ， whaleos",
+    "name": "50\" Full HD Smart LED TV",
     "description": "50\"LED FHD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G,Frameless,Double Glass ， Whaleos",
     "specs": [
       "50\"LED FHD TV",
@@ -5831,7 +5831,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW500STSGB2W B",
-    "name": "50\"led fhd tv,3hdmi,2usb,1rj45 input,1coaxial,smart,1g+8g,frameless,double glass ， webos",
+    "name": "50\" Full HD Smart LED TV",
     "description": "50\"LED FHD TV,3HDMI,2USB,1RJ45 Input,1Coaxial,Smart,1G+8G,Frameless,Double Glass ， Webos",
     "specs": [
       "50\"LED FHD TV",
@@ -5856,7 +5856,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW550STGB2WL",
-    "name": "55\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glass ， whaleos",
+    "name": "55\" 4K Smart LED TV",
     "description": "55\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double Glass ， Whaleos",
     "specs": [
       "55\" UHD 4K",
@@ -5881,7 +5881,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW550STSGB2W B",
-    "name": "55\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glass ， webos",
+    "name": "55\" 4K Smart LED TV",
     "description": "55\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double Glass ， Webos",
     "specs": [
       "55\" UHD 4K",
@@ -5906,7 +5906,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW550STSGB2W B-QLED",
-    "name": "Qled: 55\" uhd 4k (smart tv + t2 + s2 + 4k; 188w power consumption; with webos 2.0, dolby digital, bluetooth, and dual-band wi-fi; 1.5gb + 8gb ram; rj45 port, cvbs/audio in, optical, dvb-s2, dvb-t2, 3 hdmi ports, 2 usb ports, earphone out)",
+    "name": "55\" QLED 4K Smart LED TV",
     "description": "QLED: 55\" UHD 4K (Smart TV + T2 + S2 + 4K; 188W power consumption; with WEBOS 2.0, Dolby Digital, Bluetooth, and dual-band Wi-Fi; 1.5GB + 8GB RAM; RJ45 port, CVBS/AUDIO IN, OPTICAL, DVB-S2, DVB-T2, 3 HDMI ports, 2 USB ports, earphone out)",
     "specs": [
       "QLED: 55\" UHD 4K (Smart TV + T2 + S2 + 4K",
@@ -5931,7 +5931,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW551STSB2WL",
-    "name": "55\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g ， whaleos",
+    "name": "55\" 4K Smart LED TV",
     "description": "55\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G ， Whaleos",
     "specs": [
       "55\" UHD 4K",
@@ -5956,7 +5956,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW650STGB2WL",
-    "name": "65\"uhd4k,3hdmi,2usb,1rj45input,1vga,1coaxia l,smart,1.5g+8g,frameless;bluetooth ， double glass ， whaleos",
+    "name": "65\"Uhd4k",
     "description": "65\"UHD4K,3HDMI,2USB,1RJ45Input,1VGA,1Coaxia l,Smart,1.5G+8G,Frameless;Bluetooth ， Double Glass ， Whaleos",
     "specs": [
       "65\"UHD4K",
@@ -5981,7 +5981,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW650STSGB2W",
-    "name": "65\"uhd4k,3hdmi,2usb,1rj45input,1vga,1coaxia l,smart,1.5g+8g,frameless;bluetooth ， double glass ， webos/whaleos",
+    "name": "65\"Uhd4k",
     "description": "65\"UHD4K,3HDMI,2USB,1RJ45Input,1VGA,1Coaxia l,Smart,1.5G+8G,Frameless;Bluetooth ， Double Glass ， Webos/Whaleos",
     "specs": [
       "65\"UHD4K",
@@ -6006,7 +6006,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW650STSGB2W B-QLED",
-    "name": "Qled: 65\" uhd 4k (smart tv + t2 + s2 + 4k; 228w power consumption; with webos 2.0, dolby digital, bluetooth, and dual-band wi-fi; 1.5gb + 8gb ram; rj45 port, cvbs/audio in, optical, dvb-s2, dvb-t2, 3 hdmi ports, 2 usb ports, earphone out)",
+    "name": "65\" QLED 4K Smart LED TV",
     "description": "QLED: 65\" UHD 4K (Smart TV + T2 + S2 + 4K; 228W power consumption; with WEBOS 2.0, Dolby Digital, Bluetooth, and dual-band Wi-Fi; 1.5GB + 8GB RAM; RJ45 port, CVBS/AUDIO IN, OPTICAL, DVB-S2, DVB-T2, 3 HDMI ports, 2 USB ports, earphone out)",
     "specs": [
       "QLED: 65\" UHD 4K (Smart TV + T2 + S2 + 4K",
@@ -6031,7 +6031,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW752STSGB2W B",
-    "name": "75\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glasst,lan ， webos /whaleos",
+    "name": "75\" 4K Smart LED TV",
     "description": "75\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glasst,LAN ， Webos /Whaleos",
     "specs": [
       "75\" UHD 4K",
@@ -6056,7 +6056,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW752STSGB2W L",
-    "name": "75\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glasst,lan ， whaleos",
+    "name": "75\" 4K Smart LED TV",
     "description": "75\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glasst,LAN ， Whaleos",
     "specs": [
       "75\" UHD 4K",
@@ -6081,7 +6081,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW852STSGB2W B",
-    "name": "85\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glasst,lan ， webos",
+    "name": "85\" 4K Smart LED TV",
     "description": "85\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glasst,LAN ， Webos",
     "specs": [
       "85\" UHD 4K",
@@ -6106,7 +6106,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW980STSGB2W",
-    "name": "98\" uhd 4k, 3hdmi,2usb,1rj45 input,1vga,1coaxial,smart,1.5g+8g,double glass ， webos",
+    "name": "98\" 4K Smart LED TV",
     "description": "98\" UHD 4K, 3HDMI,2USB,1RJ45 Input,1VGA,1Coaxial,Smart,1.5G+8G,Double glass ， Webos",
     "specs": [
       "98\" UHD 4K",
@@ -6131,7 +6131,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW-110115- MOBILE BASE",
-    "name": "Tv stand 115\"",
+    "name": "TV Stand",
     "description": "tv stand 115\"",
     "specs": [
       "tv stand 115\""
@@ -6149,7 +6149,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Televisions",
     "subcategory": "Televisions",
     "model": "MW-110115- WALL MOUNT",
-    "name": "Tv stand 110\"",
+    "name": "TV Stand",
     "description": "tv stand 110\"",
     "specs": [
       "tv stand 110\""
@@ -6167,7 +6167,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-1743",
-    "name": "From 32\" and 43\"",
+    "name": "From 32\" And 43\"",
     "description": "FROM 32\" AND 43\"",
     "specs": [
       "FROM 32\" AND 43\""
@@ -6185,7 +6185,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-5075",
-    "name": "From 50\" and 75\"",
+    "name": "From 50\" And 75\"",
     "description": "FROM 50\" AND 75\"",
     "specs": [
       "FROM 50\" AND 75\""
