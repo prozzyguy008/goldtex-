@@ -4823,7 +4823,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 445000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-50ua73006la.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4848,7 +4849,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 575000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-55ua73006la.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4873,7 +4875,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 950000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-70ut80006la.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4898,7 +4901,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 1590000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-86ur76006lc.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4923,7 +4927,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 3550000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-98ut90006la.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4946,7 +4951,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 635000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-55nano80t6a.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4969,7 +4975,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 975000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-65nano80t6a.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -4992,7 +4999,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 1995000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-86nano80t6a.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -5038,7 +5046,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 5900000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-oled83g56la.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
