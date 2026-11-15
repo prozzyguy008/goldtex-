@@ -41,7 +41,6 @@ function cleanName(product) {
   if (isJunk(product)) {
     return { cleanedName: '[Non-product entry — remove]', needsReview: true, isJunk: true };
   }
-
   // --- TELEVISIONS ---
   if (category === 'Televisions') {
     const inches = findInches(text);
@@ -395,7 +394,16 @@ function cleanName(product) {
 
   // --- TEC brand ---
   else if (brand === 'TEC') {
-    if (/ckr.*std|standing.*cooker/.test(text)) {
+    if (/spare.*engine/i.test(text)) {
+      const gen = (text.match(/(hustler\d+|igwe\d+|ultimate\d+)/i) || [])[1];
+      cleaned = gen ? `Spare Engine for ${gen}` : 'Spare Engine';
+    } else if (/spare.*alternator/i.test(text)) {
+      const gen = (text.match(/(hustler\d+|igwe\d+|ultimate\d+)/i) || [])[1];
+      cleaned = gen ? `Spare Alternator for ${gen}` : 'Spare Alternator';
+    } else if (/spare.*control.*panel/i.test(text)) {
+      const gen = (text.match(/(hustler\d+|igwe\d+|ultimate\d+)/i) || [])[1];
+      cleaned = gen ? `Spare Control Panel for ${gen}` : 'Spare Control Panel';
+    } else if (/ckr.*std|standing.*cooker/.test(text)) {
       const burners = (text.match(/(\d+)\s*(?:hob|burner)/i) || [])[1];
       cleaned = burners ? `${burners}-Burner Standing Cooker` : 'Standing Cooker';
     } else if (/ckr.*tbl|table.*cooker/.test(text)) {
@@ -414,8 +422,7 @@ function cleanName(product) {
   }
 
   // --- Other Electronics ---
-  else if (category === 'Other Electronics') {
-    const cm = findCm(text);
+  else if (category === 'Other Electronics') { const cm = findCm(text);
     const l = findLitres(text);
     const w = findWatts(text);
     const inches = findInches(text);
@@ -457,6 +464,51 @@ function cleanName(product) {
     else if (/maxitoa/i.test(m) || /defrost.*reheat|toast/i.test(text)) cleaned = 'Toaster Oven';
     else if (/maxidh/i.test(m) || /dehumidif/i.test(text)) cleaned = l ? `${l}L Dehumidifier` : 'Dehumidifier';
     else if (/maxick/i.test(m) && /induction/i.test(text)) cleaned = 'Induction Cooker';
+    // Hisense SPL (split) AC models — extract HP from model
+    else if (brand === 'Hisense' && /^spl/i.test(m)) {
+      const hpS = (m.match(/(\d+(?:\.\d+)?)\s*hp/i) || [])[1] || findHP(text);
+      const isInvS = /inv/i.test(m) || /inverter/i.test(text);
+      cleaned = `${hpS ? hpS + 'HP ' : ''}${isInvS ? 'Inverter ' : ''}Split AC`.trim();
+    }
+    // Hisense FS (floor standing) AC models
+    else if (brand === 'Hisense' && /^fs\s/i.test(m)) {
+      const hpF = (m.match(/(\d+(?:\.\d+)?)\s*hp/i) || [])[1] || findHP(text);
+      const isInvF = /inv/i.test(m) || /inverter/i.test(text);
+      cleaned = `${hpF ? hpF + 'HP ' : ''}${isInvF ? 'Inverter ' : ''}Floor Standing AC`.trim();
+    }
+    // Hisense ceiling concealed AC models
+    else if (brand === 'Hisense' && /ceil.*conc/i.test(m)) {
+      const hpC = (m.match(/(\d+(?:\.\d+)?)\s*hp/i) || [])[1] || findHP(text);
+      const isInvC = /inv/i.test(m) || /inverter/i.test(text);
+      cleaned = `${hpC ? hpC + 'HP ' : ''}${isInvC ? 'Inverter ' : ''}Ceiling Cassette AC`.trim();
+    }
+    // Hisense twin tub washing machines (WM WSPA/WSQB/WSRB)
+    else if (brand === 'Hisense' && /^wm\s/i.test(m) && /twin.*tub/i.test(text)) {
+      const kgTT = findKg(text) || (m.match(/(\d+(?:\.\d+)?)\s*kg/i) || [])[1];
+      cleaned = kgTT ? `${kgTT}kg Twin Tub Washing Machine` : 'Twin Tub Washing Machine';
+    }
+    // Hisense ice makers
+    else if (brand === 'Hisense' && /icm|ice.*maker|icemaker/i.test(m + ' ' + text)) {
+      const kgIce = (text.match(/(\d+(?:\.\d+)?)\s*kg.*ice/i) || text.match(/(\d+)\s*kg/i) || [])[1];
+      const isComm = /commercial/i.test(text);
+      cleaned = kgIce ? `${kgIce}kg ${isComm ? 'Commercial ' : ''}Ice Maker` : 'Ice Maker';
+    }
+    // Hisense microwave ovens (MWO models)
+    else if (brand === 'Hisense' && /^mwo/i.test(m)) {
+      const lMwo = findLitres(text) || (text.match(/(\d+(?:\.\d+)?)\s*l\b/i) || [])[1];
+      cleaned = lMwo ? `${lMwo}L Microwave Oven` : 'Microwave Oven';
+    }
+    // Hisense air fryer (HISAF models)
+    else if (brand === 'Hisense' && /^hisaf/i.test(m)) {
+      const lAf = findLitres(text) || (text.match(/(\d+(?:\.\d+)?)\s*l\b/i) || [])[1];
+      cleaned = lAf ? `${lAf}L Air Fryer` : 'Air Fryer';
+    }
+    // Hisense audio products (AUD models)
+    else if (brand === 'Hisense' && /^aud/i.test(m)) cleaned = 'Audio System';
+    // Hisense AC sub-model codes in parentheses (e.g. "(AS12QH)")
+    else if (brand === 'Hisense' && /^\([a-z]{2}\d+/i.test(m)) { needsReview = true; cleaned = 'AC Model ' + m.replace(/[()]/g, ''); }
+    // Hisense AUTOMATIC/MANUAL — ambiguous, flag for review
+    else if (brand === 'Hisense' && /^(automatic|manual)$/i.test(m)) { needsReview = true; cleaned = titleCase(m); }
     // Hisense TV models (HISTV*, TV*, TV65*, etc.) — check BEFORE HPZ block
     else if (brand === 'Hisense' && (/^histv|^tv\d|tv\s*\d/i.test(m) || /\btv\b.*uled|\btv\b.*qled|\btv\b.*oled|uled.*tv|qled.*tv/i.test(text))) {
       const inches2 = findInches(text) || (m.match(/(\d{2,3})/) || [])[1];
@@ -478,8 +530,8 @@ function cleanName(product) {
       const isFront = /front|fl\b/i.test(text);
       cleaned = kg2 ? `${kg2}kg ${isFront ? 'Front Load ' : ''}Washing Machine` : 'Washing Machine';
     }
-    // Hisense HPZ products with 100xxxxxxx model numbers
-    else if (/^100\d{6}$/.test(model || '') || (brand === 'Hisense' && !/^tv\s|histv|led|uhd|oled|qled|smart|32\"|43\"|50\"|55\"|58\"|65\"|75\"|85\"|100\"|110\"|116\"/i.test(text))) {
+    // Hisense HPZ products with 100xxxxxxx model numbers (exclude TEC brand)
+    else if (brand !== 'TEC' && (/^100\d{6}$/.test(model || '') || (brand === 'Hisense' && !/^tv\s|histv|led|uhd|oled|qled|smart|32\"|43\"|50\"|55\"|58\"|65\"|75\"|85\"|100\"|110\"|116\"/i.test(text)))) {
       if (/ref.*1door|ref.*sxs|ref.*double|ref.*single|ref.*tmount|hrf-|hr-|ref\s/i.test(text)) {
         const l2 = findLitres(text) || (text.match(/(\d{3})\s*l/i) || [])[1];
         const isSxS = /sxs|side/i.test(text);
@@ -539,6 +591,62 @@ function cleanName(product) {
     else if (/glass.*stainless|^glass$|2\s*burner.*electric|3\s*gas\s*burner|5\s*gas\s*burner/i.test(text)) {
       const burners = (text.match(/(\d+)\s*(?:burner|gas)/i) || [])[1];
       cleaned = burners ? `${burners}-Burner Cooker` : 'Cooker';
+    }
+    // Maxi kitchen appliances with MW-HS/MWKCA/MWEES/MWKET prefixes
+    else if (/^mw-?hs/i.test(m) && /pot.*capacity|jug.*capacity|capacity.*\d+l/i.test(text)) {
+      const lCap = findLitres(text) || (text.match(/capacity:?\s*(\d+(?:\.\d+)?)\s*l/i) || [])[1];
+      const isJug = /jug/i.test(text);
+      cleaned = lCap ? `${lCap}L ${isJug ? 'Air Cooler' : 'Electric Cooker'}` : 'Electric Cooker';
+    }
+    else if (/^mwkca-?\s*epc/i.test(m)) {
+      const lEpc = findLitres(text) || (text.match(/capacity:?\s*(\d+(?:\.\d+)?)\s*l/i) || [])[1];
+      cleaned = lEpc ? `${lEpc}L Electric Pressure Cooker` : 'Electric Pressure Cooker';
+    }
+    else if (/^mwkca-?\s*npc/i.test(m)) {
+      const lNpc = findLitres(text) || (text.match(/capacity.*pot:?\s*(\d+(?:\.\d+)?)\s*l/i) || [])[1];
+      cleaned = lNpc ? `${lNpc}L Aluminum Pot` : 'Aluminum Pot';
+    }
+    else if (/^mwkca-?\s*sm/i.test(m)) {
+      const wSm = findWatts(text) || (text.match(/power\s*:?\s*(\d+)\s*w/i) || [])[1];
+      cleaned = wSm ? `${wSm}W Sandwich Maker` : 'Sandwich Maker';
+    }
+    else if (/^mwees-?\s*eps/i.test(m)) {
+      const sockets = (text.match(/(\d+)\s*socket/i) || [])[1];
+      const isUsb = /usb/i.test(text);
+      cleaned = sockets ? `${sockets}-Socket ${isUsb ? 'USB ' : ''}Extension Cord` : 'Extension Cord';
+    }
+    else if (/^mwket/i.test(m)) {
+      const lKet = findLitres(text) || (text.match(/capacity:?\s*(\d+(?:\.\d+)?)\s*l/i) || [])[1];
+      cleaned = lKet ? `${lKet}L Electric Kettle` : 'Electric Kettle';
+    }
+    else if (/^mw-?qp/i.test(m) && /stainless.*steel|saving.*energy/i.test(text)) {
+      const wQp = findWatts(text) || (text.match(/(\d+)\s*w/i) || [])[1];
+      cleaned = wQp ? `${wQp}W LED Bulb` : 'LED Bulb';
+    }
+    else if (/^mwled-?eab/i.test(m)) {
+      const wLed = findWatts(text) || (text.match(/power:?\s*(\d+)\s*w/i) || [])[1];
+      cleaned = wLed ? `${wLed}W Emergency LED Light` : 'Emergency LED Light';
+    }
+    else if (/^mw-?emg/i.test(m)) {
+      const lBl = findLitres(text) || (text.match(/capacity:?\s*(\d+(?:\.\d+)?)\s*l/i) || [])[1];
+      cleaned = lBl ? `${lBl}L Blender` : 'Blender';
+    }
+    // Maxi TVs with MW model prefix (MW650STGB2WL etc.)
+    else if (/^mw\d+st/i.test(m) && /uhd|4k|hd|smart|led|tv/i.test(text)) {
+      const inchesMw = (m.match(/(\d{2,3})/) || [])[1] || findInches(text);
+      const isSmartMw = /smart/i.test(text);
+      const isUhdMw = /uhd|4k/i.test(text);
+      cleaned = `${inchesMw ? inchesMw + '" ' : ''}${isUhdMw ? 'UHD 4K ' : ''}${isSmartMw ? 'Smart ' : ''}LED TV`.trim();
+    }
+    // Maxi TV wall mounts (MW-1743, MW-5075 — "From 32\" and 43\"" etc.)
+    else if (/^mw-\d{4}$/i.test(m) && /from\s*\d+.*and.*\d+/i.test(text)) {
+      const sizes = text.match(/(\d+)\D{0,5}and\D{0,5}(\d+)/i);
+      cleaned = sizes ? `TV Wall Mount ${sizes[1]}-${sizes[2]}"` : 'TV Wall Mount';
+    }
+    // Maxi ICM ice maker models
+    else if (/^his\s*icm/i.test(m)) {
+      const kgIce = (text.match(/(\d+(?:\.\d+)?)\s*kg/i) || [])[1];
+      cleaned = kgIce ? `${kgIce}kg Ice Maker` : 'Ice Maker';
     }
     // Text-based
     else if (/cooker\s*hood|rangehood/i.test(text)) cleaned = cm ? `${cm}cm Cooker Hood` : 'Cooker Hood';

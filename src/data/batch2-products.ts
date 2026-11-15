@@ -1139,7 +1139,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM WSPA 503",
-    "name": "5 Kg",
+    "name": "5kg Twin Tub Washing Machine",
     "description": "5 KG , Twin Tub, Classical Design, Lint Filter ,White Color.",
     "specs": [
       "5 KG",
@@ -1161,7 +1161,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM WSQB 753",
-    "name": "7.5 Kg , Twin Tub, Classical Design, Lint Fil",
+    "name": "7.5kg Twin Tub Washing Machine",
     "description": "7.5 KG , Twin Tub, Classical Design, Lint Filter ,White Color.",
     "specs": [
       "7.5 KG",
@@ -1183,7 +1183,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "WM WSRB 113",
-    "name": "11 Kg",
+    "name": "11kg Twin Tub Washing Machine",
     "description": "11 KG , Twin Tub, Classical Design, Lint Filter ,White Color.",
     "specs": [
       "11 KG",
@@ -1320,7 +1320,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1.0HP Copper-TG",
-    "name": "Copper Condenser",
+    "name": "1.0HP Split AC",
     "description": "Copper Condenser, Super Cooling Gold Fin",
     "specs": [
       "Copper Condenser",
@@ -1339,7 +1339,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1.5HP Copper-TG",
-    "name": "Copper Condenser",
+    "name": "1.5HP Split AC",
     "description": "Copper Condenser, Super Cooling Gold Fin",
     "specs": [
       "Copper Condenser",
@@ -1358,7 +1358,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 2 HP Copper-TG",
-    "name": "Copper Condenser",
+    "name": "2HP Split AC",
     "description": "Copper Condenser, Super Cooling Gold Fin",
     "specs": [
       "Copper Condenser",
@@ -1377,7 +1377,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1HP Copper Inv-DK",
-    "name": "Copper Condenser",
+    "name": "1HP Inverter Split AC",
     "description": "Copper Condenser, Super Cooling Gold Fin ,R410 Gas ,Inverter , White",
     "specs": [
       "Copper Condenser",
@@ -1399,7 +1399,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 1.5 HP Copper Inv-DK",
-    "name": "Copper Condenser",
+    "name": "1.5HP Inverter Split AC",
     "description": "Copper Condenser, Super Cooling Gold Fin ,R410 Gas ,Inverter , White",
     "specs": [
       "Copper Condenser",
@@ -1421,7 +1421,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL 2HP Copper Inv-DK",
-    "name": "Copper Condenser",
+    "name": "2HP Inverter Split AC",
     "description": "Copper Condenser, Super Cooling Gold Fin ,R410 Gas ,Inverter , White",
     "specs": [
       "Copper Condenser",
@@ -1443,7 +1443,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "SPL1.5 HP QH INVERTER",
-    "name": "Spl1",
+    "name": "1.5HP Inverter Split AC",
     "description": "SPL1.5 HP QH INVERTER",
     "specs": [],
     "cost": null,
@@ -1459,7 +1459,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "(AS12QH)",
-    "name": "(As12qh)",
+    "name": "AC Model as12qh",
     "description": "(AS12QH)",
     "specs": [],
     "cost": null,
@@ -1517,7 +1517,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 3.0HP",
-    "name": "10 Meters Air Flow",
+    "name": "3.0HP Floor Standing AC",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin",
     "specs": [
       "10 Meters Air Flow",
@@ -1537,7 +1537,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 2.0HP INV",
-    "name": "10 Meters Air Flow",
+    "name": "2.0HP Inverter Floor Standing AC",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin,Inverter",
     "specs": [
       "10 Meters Air Flow",
@@ -1558,7 +1558,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 3.0HP INV",
-    "name": "10 Meters Air Flow",
+    "name": "3.0HP Inverter Floor Standing AC",
     "description": "10 Meters Air Flow, Supper Cooling , Gold Fin,Inverter",
     "specs": [
       "10 Meters Air Flow",
@@ -1579,7 +1579,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "FS 5.5 HP INV",
-    "name": "Supper Cooling",
+    "name": "5.5HP Inverter Floor Standing AC",
     "description": "Supper Cooling , Gold Fin, Inverter R410 Gas , White Color,1 Year Warranty ,",
     "specs": [
       "Supper Cooling",
@@ -1669,7 +1669,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS CEIL CONC 2 HP",
-    "name": "2 Hp Ceilling Conceiled",
+    "name": "2HP Ceiling Cassette AC",
     "description": "2 HP Ceilling Conceiled , R410 Gas,White Color",
     "specs": [
       "2 HP Ceilling Conceiled",
@@ -1689,7 +1689,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS CEIL CONC 2.5 HP INV",
-    "name": "2.5 Hp Ceilling Conceiled ,Inverter , R410 Ga",
+    "name": "2.5HP Inverter Ceiling Cassette AC",
     "description": "2.5 HP Ceilling Conceiled ,Inverter , R410 Gas,White Color,Inverter",
     "specs": [
       "2.5 HP Ceilling Conceiled",
@@ -1711,7 +1711,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HISAF06AFGY1S1",
-    "name": "5.2l,Metal Interior,7 Auto Cooking Menu,Large",
+    "name": "5.2L Air Fryer",
     "description": "5.2L,metal interior,7 auto cooking menu,large touch display,black.",
     "specs": [
       "5.2L",
@@ -1733,7 +1733,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS ICM1263",
-    "name": "120",
+    "name": "12kg Ice Maker",
     "description": "120,W,12 KG Of Ice Daily ,S&L Ice Cubes , Quick Delivery ,White,Water Tank Capacity 1000 ml, 9pcs/7mins",
     "specs": [
       "120",
@@ -1758,7 +1758,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "HIS ICM 9000",
-    "name": "His Icemaker 45kg Commercial",
+    "name": "45kg Commercial Ice Maker",
     "description": "HIS ICEMAKER 45KG COMMERCIAL",
     "specs": [
       "HIS ICEMAKER 45KG COMMERCIAL"
@@ -1776,7 +1776,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWO 20MOBS10-H",
-    "name": "20l",
+    "name": "20L Microwave Oven",
     "description": "20L, Black Color,Digital,Mechanical control, Defrost Function, 6 Power Levels.",
     "specs": [
       "20L",
@@ -1799,7 +1799,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWO 20MOMS10-H",
-    "name": "20l",
+    "name": "20L Microwave Oven",
     "description": "20L, Silver Mirror Color, Manual",
     "specs": [
       "20L",
@@ -2101,7 +2101,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "AUD 5140Q-AX",
-    "name": "Aud 5140q-Ax",
+    "name": "Audio System",
     "description": "AUD 5140Q-AX",
     "specs": [],
     "cost": null,
@@ -2165,7 +2165,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "AUD SATURN",
-    "name": "Aud Saturn",
+    "name": "Audio System",
     "description": "AUD SATURN",
     "specs": [],
     "cost": null,
@@ -2509,7 +2509,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114111",
-    "name": "Tec Gen Spare Engine Hustler4000es",
+    "name": "Spare Engine for hustler4000",
     "description": "TEC GEN SPARE ENGINE HUSTLER4000ES",
     "specs": [
       "TEC GEN SPARE ENGINE HUSTLER4000ES"
@@ -2527,7 +2527,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114112",
-    "name": "Tec Gen Spare Engine Hustler4800es",
+    "name": "Spare Engine for hustler4800",
     "description": "TEC GEN SPARE ENGINE HUSTLER4800ES",
     "specs": [
       "TEC GEN SPARE ENGINE HUSTLER4800ES"
@@ -2545,7 +2545,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114113",
-    "name": "Tec Gen Spare Engine Igwe8500es",
+    "name": "Spare Engine for igwe8500",
     "description": "TEC GEN SPARE ENGINE IGWE8500ES",
     "specs": [
       "TEC GEN SPARE ENGINE IGWE8500ES"
@@ -2563,7 +2563,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114114",
-    "name": "Tec Gen Spare Engine Ultimate12000rs",
+    "name": "Spare Engine for ultimate12000",
     "description": "TEC GEN SPARE ENGINE ULTIMATE12000RS",
     "specs": [
       "TEC GEN SPARE ENGINE ULTIMATE12000RS"
@@ -2581,7 +2581,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114115",
-    "name": "Tec Gen Spare Alternator Hustler4000es",
+    "name": "Spare Alternator for hustler4000",
     "description": "TEC GEN SPARE ALTERNATOR HUSTLER4000ES",
     "specs": [
       "TEC GEN SPARE ALTERNATOR HUSTLER4000ES"
@@ -2599,7 +2599,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114116",
-    "name": "Tec Gen Spare Alternator Hustler4800es",
+    "name": "Spare Alternator for hustler4800",
     "description": "TEC GEN SPARE ALTERNATOR HUSTLER4800ES",
     "specs": [
       "TEC GEN SPARE ALTERNATOR HUSTLER4800ES"
@@ -2617,7 +2617,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114117",
-    "name": "Tec Gen Spare Alternator Igwe8500es",
+    "name": "Spare Alternator for igwe8500",
     "description": "TEC GEN SPARE ALTERNATOR IGWE8500ES",
     "specs": [
       "TEC GEN SPARE ALTERNATOR IGWE8500ES"
@@ -2635,7 +2635,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114118",
-    "name": "Tec Gen Spare Alternator Ultimate12000rs",
+    "name": "Spare Alternator for ultimate12000",
     "description": "TEC GEN SPARE ALTERNATOR ULTIMATE12000RS",
     "specs": [
       "TEC GEN SPARE ALTERNATOR ULTIMATE12000RS"
@@ -2653,7 +2653,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114119",
-    "name": "Tec Gen Spare Control Panel Hustl4000es",
+    "name": "Spare Control Panel",
     "description": "TEC GEN SPARE CONTROL PANEL HUSTL4000ES",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL HUSTL4000ES"
@@ -2671,7 +2671,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114120",
-    "name": "Tec Gen Spare Control Panel Hustl4800es",
+    "name": "Spare Control Panel",
     "description": "TEC GEN SPARE CONTROL PANEL HUSTL4800ES",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL HUSTL4800ES"
@@ -2689,7 +2689,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114121",
-    "name": "Tec Gen Spare Control Panel Igwe8500es",
+    "name": "Spare Control Panel for igwe8500",
     "description": "TEC GEN SPARE CONTROL PANEL IGWE8500ES",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL IGWE8500ES"
@@ -2707,7 +2707,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "100114122",
-    "name": "Tec Gen Spare Control Panel Ult12000rs",
+    "name": "Spare Control Panel",
     "description": "TEC GEN SPARE CONTROL PANEL ULT12000RS",
     "specs": [
       "TEC GEN SPARE CONTROL PANEL ULT12000RS"
@@ -3652,7 +3652,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS3029GR",
-    "name": "3000W Grinder & Blender",
+    "name": "2L Electric Cooker",
     "description": "Output power:3000W Capacity: 2L&600ml Grinder Cup Digital Display & Knob Speed Control&Sound proof over ABS Plastic Housing Product Size:260*210*440mm Motor:100% pure copper motor PTC overheat and overload protection Safety button",
     "specs": [
       "Output power:3000W Capacity: 2L&600ml Grinder Cup Digital Display & Knob Speed Control&Sound proof over ABS Plastic Housing Product Size:260*210*440mm Motor:100% pure copper motor PTC overheat and overload protection Safety button"
@@ -3670,7 +3670,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS3363GR",
-    "name": "Output Power:3300w Pot Capacity: 6l Ptc Overh",
+    "name": "6L Electric Cooker",
     "description": "Output power:3300W Pot Capacity: 6L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 450 * 245 * 340mm Operation Sun Protection: Mechanical Manual Switch Power Cord: 1.53M*1",
     "specs": [
       "Output power:3300W Pot Capacity: 6L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 450 * 245 * 340mm Operation Sun Protection: Mechanical Manual Switch Power Cord: 1.53M*1"
@@ -3688,7 +3688,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS3678GR",
-    "name": "Output Power:3600w Jug Capacity: 10l Ptc Over",
+    "name": "10L Air Cooler",
     "description": "Output power:3600W Jug Capacity: 10L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 590 * 310 * 365mm Operation: Mechanical Manual Switch Power Cord: 1.53M * 1",
     "specs": [
       "Output power:3600W Jug Capacity: 10L PTC overheat and overload protection Safety button Motor:100% pure copper motor Gift Box Dimensions: 590 * 310 * 365mm Operation: Mechanical Manual Switch Power Cord: 1.53M * 1"
@@ -3706,7 +3706,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-HS4023BK",
-    "name": "Output Power:4000w Capacity: 4l Digital Displ",
+    "name": "4L Electric Cooker",
     "description": "Output power:4000W Capacity: 4L Digital Display & Knob Speed Control ABS Plastic Housing Product Size:245 * 255 * 575mm PTC overheat and overload protection Motor:100% pure copper motor",
     "specs": [
       "Output power:4000W Capacity: 4L Digital Display & Knob Speed Control ABS Plastic Housing Product Size:245 * 255 * 575mm PTC overheat and overload protection Motor:100% pure copper motor"
@@ -3742,7 +3742,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-EMG1008MT",
-    "name": "Capacity: 8l Blade: 420 Stainless Steel",
+    "name": "8L Blender",
     "description": "Capacity: 8L Blade: 420 Stainless Steel, 6 Blades PTC overheat and overload protection Motor:100% pure copper motor Safety button Pure Copper Motor Stainless Steel Mixing Barrel - 201 Stainless Steel",
     "specs": [
       "Capacity: 8L Blade: 420 Stainless Steel",
@@ -3966,7 +3966,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- EPC0601",
-    "name": "Power: 1000w Maximum Capacity: 6l Functions:",
+    "name": "6L Electric Pressure Cooker",
     "description": "Power: 1000W Maximum capacity: 6L Functions: Rice/Millet/Soup, Steaming, 1 Bean/Meat/Slow Cooking/Frying Panel Material: Plastic PP Inner Container: Aluminum Alloy Single Spray Teflon, 500G Inner Container Heating Plate: Aluminum Alloy, Coated with PTFE Outer Pot: Thickness 1.0mm Steel Plate Coated SUS201 # Polished Cover, Thickness 1.0mm SUS410 Shell, Thickness 0.4mm Power Cord: PVC 3*0.75*1.2m Copper-Coated Aluminum 5-layer Gift Box, 5-layer Carton Main Board/Light Board",
     "specs": [
       "Power: 1000W Maximum capacity: 6L Functions: Rice/Millet/Soup",
@@ -4330,7 +4330,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- NPC0501",
-    "name": "Capacity Of The Pot: 5l Aluminum Polished Cov",
+    "name": "5L Aluminum Pot",
     "description": "Capacity of the pot: 5L Aluminum polished cover and polished inner surface of the pot. straight pot body, M-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
     "specs": [
       "Capacity of the pot: 5L Aluminum polished cover and polished inner surface of the pot. straight pot body",
@@ -4354,7 +4354,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- NPC0701",
-    "name": "Capacity Of The Pot: 7l Aluminum Polished Cov",
+    "name": "7L Aluminum Pot",
     "description": "Capacity of the pot: 7L Aluminum polished cover and polished inner surface of the pot. straight pot body, M-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
     "specs": [
       "Capacity of the pot: 7L Aluminum polished cover and polished inner surface of the pot. straight pot body",
@@ -4378,7 +4378,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA- NPC0901",
-    "name": "Capacity Of The Pot: 9l Aluminum Polished Cov",
+    "name": "9L Aluminum Pot",
     "description": "Capacity of the pot: 9L Aluminum polished cover and polished inner surface of the pot. straight pot body, M-shaped handle, luxurious safety valve, black cap, luxurious alarm valve (silver), pressure limiting valve black cap, 1 rubber ring",
     "specs": [
       "Capacity of the pot: 9L Aluminum polished cover and polished inner surface of the pot. straight pot body",
@@ -4450,7 +4450,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA-SM0201",
-    "name": "Power :750w Type Of Baking Tray: Triangular P",
+    "name": "750W Sandwich Maker",
     "description": "power :750W Type of baking tray: Triangular pan Product dimensions: 214x206x80 mm There are two indicator lights: the power indicator light and the foo d ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :21x11.5 cm Cable length :75.0 cm",
     "specs": [
       "power :750W Type of baking tray: Triangular pan Product dimensions: 214x206x80 mm There are two indicator lights: the power indicator light and the foo d ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :21x11.5 cm Cable length :75.0 cm"
@@ -4468,7 +4468,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKCA-SM0401",
-    "name": "Power :1200 W Type Of Baking Tray: Triangular",
+    "name": "1200W Sandwich Maker",
     "description": "power :1200 W Type of baking tray: Triangular pan Product dimensions :331 x238x93mm There are two indicator lights: the power indicator light and the food ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :23.5x23.5 cm Cable length :75.0 cm",
     "specs": [
       "power :1200 W Type of baking tray: Triangular pan Product dimensions :331 x238x93mm There are two indicator lights: the power indicator light and the food ready indicator light It is equipped with automatic temperature control and fuse control functions Equipped with a heat-insulating handle and a locking system Plate size :23.5x23.5 cm Cable length :75.0 cm"
@@ -4618,7 +4618,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWEES- EPS402B",
-    "name": "Bs - Standard Power Cord: Pure Copper",
+    "name": "Extension Cord",
     "description": "BS - standard power cord: pure copper, 1.4 meters Three socket holes with USB ports BS plug Cable length: 2m Main wire: 2×1mm² Ground wire: 1×0.5mm²",
     "specs": [
       "BS - standard power cord: pure copper",
@@ -4637,7 +4637,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWEES- EPS502B",
-    "name": "Four Socket Holes With Usb Ports Bs Plug Cabl",
+    "name": "Extension Cord",
     "description": "Four socket holes with USB ports BS plug Cable length: 2m Main wire: 2×1mm² Ground wire: 1×0.5mm² Shenzhou Series 2 BD1LE-63",
     "specs": [
       "Four socket holes with USB ports BS plug Cable length: 2m Main wire: 2×1mm² Ground wire: 1×0.5mm² Shenzhou Series 2 BD1LE-63"
@@ -5429,7 +5429,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-01BK",
-    "name": "Power: 1500w Capacity: 1",
+    "name": "1.8L Electric Kettle",
     "description": "Power: 1500W Capacity: 1.8L Body: 201# stainless steel, exterior with fine sand coating, interior washed with water, thickness typically 0.24MM Plastic parts: Black color + 201# inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.8L Body: 201# stainless steel",
@@ -5450,7 +5450,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-01Y",
-    "name": "Power: 1500w Capacity: 1",
+    "name": "1.8L Electric Kettle",
     "description": "Power: 1500W Capacity: 1.8L Body: 201# stainless steel, exterior polished sand, interior washed with water, thickness 0.24MM (standard) Plastic parts: Yellow color + 201# inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.8L Body: 201# stainless steel",
@@ -5471,7 +5471,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-02W",
-    "name": "Power: 1500w Capacity: 1",
+    "name": "1.5L Electric Kettle",
     "description": "Power: 1500W Capacity: 1.5L Body: 201# stainless steel, polished inside, regular thickness of 0.24MM Plastic parts: New material plastic parts+ 201 inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.5L Body: 201# stainless steel",
@@ -5491,7 +5491,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-02Y",
-    "name": "Power: 1500w Capacity: 1",
+    "name": "1.5L Electric Kettle",
     "description": "Power: 1500W Capacity: 1.5L Body: 201# stainless steel, polished inside, regular thickness of 0.24MM Plastic parts: New material plastic parts+ 201 inner steel cover Single gold temperature control",
     "specs": [
       "Power: 1500W Capacity: 1.5L Body: 201# stainless steel",
@@ -5531,7 +5531,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWKET-06BK",
-    "name": "Power: 1800w Maximum Capacity: 5",
+    "name": "5.0L Electric Kettle",
     "description": "Power: 1800W Maximum Capacity: 5.0L, with safety lock lid Automatic on/off switch, dry heat protection 0.35mm thickened pot body, detachable power socket, new PP Power cord: 75cm copper wire 120mm diameter enlarged heating tube",
     "specs": [
       "Power: 1800W Maximum Capacity: 5.0L",
@@ -5553,7 +5553,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-QP1201",
-    "name": "Material: 201 Stainless Steel 12w Saving 90%",
+    "name": "12W LED Bulb",
     "description": "Material: 201 Stainless Steel 12W Saving 90% Energy Compare With 100 Incandescent Lamp",
     "specs": [
       "Material: 201 Stainless Steel 12W Saving 90% Energy Compare With 100 Incandescent Lamp"
@@ -5571,7 +5571,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MWLED-EAB8002",
-    "name": "Power: 80 W Battery Capacity: 3600mah Usage T",
+    "name": "80W Emergency LED Light",
     "description": "Power: 80 W Battery capacity: 3600mAh Usage time: 8 - 12 hours Overall dimensions of the machine: 0.11 m × 0.1 m × 0.16 m",
     "specs": [
       "Power: 80 W Battery capacity: 3600mAh Usage time: 8 - 12 hours Overall dimensions of the machine: 0.11 m × 0.1 m × 0.16 m"
@@ -5956,7 +5956,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW650STGB2WL",
-    "name": "65\"Uhd4k",
+    "name": "650\" UHD 4K Smart LED TV",
     "description": "65\"UHD4K,3HDMI,2USB,1RJ45Input,1VGA,1Coaxia l,Smart,1.5G+8G,Frameless;Bluetooth ， Double Glass ， Whaleos",
     "specs": [
       "65\"UHD4K",
@@ -5981,7 +5981,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW650STSGB2W",
-    "name": "65\"Uhd4k",
+    "name": "650\" UHD 4K Smart LED TV",
     "description": "65\"UHD4K,3HDMI,2USB,1RJ45Input,1VGA,1Coaxia l,Smart,1.5G+8G,Frameless;Bluetooth ， Double Glass ， Webos/Whaleos",
     "specs": [
       "65\"UHD4K",
@@ -6167,7 +6167,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-1743",
-    "name": "From 32\" And 43\"",
+    "name": "TV Wall Mount 32-43\"",
     "description": "FROM 32\" AND 43\"",
     "specs": [
       "FROM 32\" AND 43\""
@@ -6185,7 +6185,7 @@ export const batchTwoProducts: Product[] = [
     "category": "Other Electronics",
     "subcategory": "Other Electronics",
     "model": "MW-5075",
-    "name": "From 50\" And 75\"",
+    "name": "TV Wall Mount 50-75\"",
     "description": "FROM 50\" AND 75\"",
     "specs": [
       "FROM 50\" AND 75\""
