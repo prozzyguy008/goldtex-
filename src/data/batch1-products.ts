@@ -5008,10 +5008,10 @@ export const batchOneProducts: Product[] = [
   {
     "id": "lg-tv55qned80a6a-1",
     "brand": "LG",
-    "category": "Kitchen Appliances",
-    "subcategory": "Small appliances",
+    "category": "TV & Audio",
+    "subcategory": "Televisions",
     "model": "TV55QNED80A6A",
-    "name": "Food Processor",
+    "name": "55\" QNED 4K Smart TV",
     "description": "55'' QNED AI PROCESSOR 4 K ,Dynamic QNED C ,3HDMI,2 USB ,",
     "specs": [
       "55'' QNED AI PROCESSOR 4 K",
@@ -5055,10 +5055,10 @@ export const batchOneProducts: Product[] = [
   {
     "id": "lg-lgtv27art10ak-1",
     "brand": "LG",
-    "category": "Kitchen Appliances",
-    "subcategory": "Small appliances",
+    "category": "TV & Audio",
+    "subcategory": "Televisions",
     "model": "LGTV27ART10AK",
-    "name": "Food Processor",
+    "name": "27\" Portable Smart TV",
     "description": "27'' 8 modes (Vivid, Standard, Eco, Cinema, Sports, Game, (ISF)Expert(Bright Room), (ISF)Expert(Dark Room)),Mobility - wireless, built-in battery 3 HOURS, 5-wheels,Easy to operate - touch screen, remote controller,˚,α7 Gen4 Processor,2K@60p, 10bit , 1 HDMI",
     "specs": [
       "27'' 8 modes (Vivid",
@@ -5138,7 +5138,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 189000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-aud-44cj.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -5184,7 +5185,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 226000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-aud-45cj.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -5206,7 +5208,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 275000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-aud-65cl.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -5378,7 +5381,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 1180000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-aud-99ck.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 1,
     "stockStatus": "available"
@@ -5861,7 +5865,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 480000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-ref-242pqgb.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -5884,7 +5889,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 470000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-ref-252slbb.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -5907,7 +5913,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 739000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-ref-372plgb.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -6002,7 +6009,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 1499000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-ref-257klkw.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -6119,7 +6127,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 795000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-dw-532dfc.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -6166,7 +6175,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 540000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-wm-frontload.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -6572,7 +6582,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 215000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-mh8265cis.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -6597,7 +6608,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 209000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-mh8265dis.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
@@ -6619,7 +6631,8 @@ export const batchOneProducts: Product[] = [
     ],
     "cost": null,
     "price": 264000,
-    "imageStatus": "pending",
+    "imageStatus": "exact_verified",
+    "imageUrl": "/product-images/lg-spl-ac.jpg",
     "sourceFile": "LG.pdf",
     "sourcePage": 2,
     "stockStatus": "available"
